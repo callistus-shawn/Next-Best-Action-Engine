@@ -4,7 +4,6 @@
 * The pipeline then generates next-best-action recommendations for unresolved cases taking in conversation context. The next best action decides on the channel, send-time, message and reasoning with the objective-function of maximizing issue resolution. The 3 channels are replying back on twitter, replying over email, or scheduling a phone call to a customer. 
 * It includes an LLM based evaluation functionality to measure the effectiveness of the company's response
 
-### `Riverline/` – Main Project Directory
 
 | File/Folder     | Description |
 |------------------|-------------|
@@ -12,7 +11,7 @@
 
 ---
 
-###  `Riverline/data/` – Datasets and Intermediate Files
+###  `data/` – Datasets and Intermediate Files
 
 | File                                | Description |
 |-------------------------------------|-------------|
@@ -28,7 +27,7 @@
 
 ---
 
-###  `Riverline/pipeline/` – Core Data & NBA Pipeline
+###  `pipeline/` – Core Data & NBA Pipeline
 
 | File                | Description |
 |---------------------|-------------|
@@ -40,7 +39,7 @@
 
 ---
 
-###  `Riverline/mbti/` – MBTI Tagging & Personality-Aware NBA
+###  `mbti/` – MBTI Tagging & Personality-Aware NBA
 
 | File              | Description |
 |-------------------|-------------|
@@ -51,7 +50,7 @@
 ---
 
 
-### `Riverline/notebooks/` – EDA, Training BERT Model
+### `notebooks/` – EDA, Training BERT Model
 
 | File                    | Description |
 |--------------------------|-------------|
