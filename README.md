@@ -4,7 +4,7 @@
 * The pipeline then generates next-best-action recommendations for unresolved cases taking in conversation context. The next best action decides on the channel, send-time, message and reasoning with the objective-function of maximizing issue resolution. The 3 channels are replying back on twitter, replying over email, or scheduling a phone call to a customer. 
 * It includes an LLM based evaluation functionality to measure the effectiveness of the company's response
 
-### Project Structure
+## Project Structure
 | File    | Description |
 |------------------|-------------|
 | `main.py`        | Entry point for the whole pipeline |
