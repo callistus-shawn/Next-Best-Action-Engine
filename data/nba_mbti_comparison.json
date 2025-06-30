@@ -1,0 +1,16 @@
+[
+  {
+    "customer_id": "115730",
+    "nba_score": 5,
+    "nba_eval": "The company's final response is excellent. It directly addresses the customer's suggestion, expresses appreciation, and provides a concrete action (passing the request to the real estate team). It's relevant, actionable, and shows awareness of the conversation history. The tone is positive and helpful, making it a useful response from the customer's perspective.",
+    "mbti_score": 5,
+    "mbti_eval": "The company's response is excellent. It directly addresses the customer's suggestion, explains the process for considering new locations, and provides a clear next step (passing the request to the real estate team). It acknowledges the customer's interest and offers a hopeful outlook. The response is relevant, actionable, and complete, demonstrating context awareness."
+  },
+  {
+    "customer_id": "115712",
+    "nba_score": 4,
+    "nba_eval": "The company's final response is good. It acknowledges the customer's frustration and the previous failed attempts to connect via private message. Offering a phone call is a proactive step towards resolving the escalated complaint and demonstrates a commitment to providing personalized support. The response is relevant, actionable, and shows empathy. However, it could be improved by immediately providing a few specific time slots for the call instead of just asking the customer for their availability within the next hour. This would further streamline the process and show even greater responsiveness.",
+    "mbti_score": 5,
+    "mbti_eval": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous failed attempts at communication, and offers a concrete solution (a phone call) to resolve the issue. The response demonstrates empathy and a commitment to resolving the problem, which is particularly important given the escalated nature of the complaint and the customer's expressed dissatisfaction with previous interactions. Offering a phone call within the next hour is a timely and appropriate action to de-escalate the situation."
+  }
+]

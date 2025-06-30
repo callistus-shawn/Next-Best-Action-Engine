@@ -1,0 +1,877 @@
+[
+  {
+    "customer_id": "115712",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the failed attempts via DMs, and offers a concrete solution: a phone call within the next hour. This demonstrates empathy, actionability, and timeliness, given the escalated nature of the complaint and the customer's long tenure. The offer to schedule a call shows a commitment to resolving the issue quickly and efficiently, making it a very useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "115730",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's suggestion, acknowledges their enthusiasm (eating there once a week), and provides a concrete action: passing the request to the real estate team. This shows the customer that their feedback is valued and potentially acted upon. The response is also timely and appropriate for a short Twitter conversation."
+  },
+  {
+    "customer_id": "115744",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's frustration and reiterates that the information isn't available yet, directing them to the PS Blog. While empathetic, it doesn't offer any new information or a concrete timeline, making it only partially useful. The response is relevant and acknowledges the customer's impatience, but lacks actionability beyond checking the blog."
+  },
+  {
+    "customer_id": "115749",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the confusion surrounding the bag charge. Offering a phone call is a proactive step towards resolving the issue and demonstrates a willingness to understand the customer's perspective. It directly addresses the customer's concern and offers a clear next step. The response also acknowledges the different policies of other stores, showing context awareness. While it doesn't immediately resolve the issue, it sets the stage for a more personalized and potentially satisfactory resolution."
+  },
+  {
+    "customer_id": "115759",
+    "usefulness_score": 3,
+    "evaluation": "The response is adequate. It acknowledges the customer's frustration and provides a suggestion (checking the game developer's website/social media). However, it doesn't offer any specific information or alternative solutions, making it only partially helpful. The response also doesn't acknowledge the previous interaction where the company stated they didn't have the information, which could have been referenced to show consistency."
+  },
+  {
+    "customer_id": "115762",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's concern about the 2XP code, confirms that it should be linked to their account after redeeming the beta code, and sets a clear expectation for when the 2XP should be active (upon logging in on Friday). It also proactively offers further assistance if the 2XP is not active, demonstrating a commitment to resolving the issue. The response is relevant, actionable, and shows context awareness by referencing the previous conversation about the beta code redemption."
+  },
+  {
+    "customer_id": "115763",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's issue by acknowledging their frustration and stating they are looking into the account. It also asks a relevant question (last time stats were accurate) to help investigate further, demonstrating action. The response acknowledges the previous interaction by thanking the customer for providing the information. While it doesn't provide an immediate solution, it sets the expectation that they are actively working on the problem, which is helpful from a customer perspective."
+  },
+  {
+    "customer_id": "115767",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It acknowledges the customer's frustration and the failure of previous troubleshooting steps. Offering a phone call for screen sharing and real-time diagnosis is a proactive and personalized approach, demonstrating a commitment to resolving the issue. The response is relevant, actionable, empathetic, and context-aware, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "115776",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's frustration and acknowledges the specific file they provided. It assures the customer that the team is actively investigating and will provide updates. While it doesn't offer an immediate solution, it sets a clear expectation for future communication and demonstrates that the customer's input is valued. It acknowledges the conversation history and the customer's frustration, showing empathy. It could be improved by providing a more specific timeline for the next update, but overall, it's a helpful response in a difficult situation."
+  },
+  {
+    "customer_id": "115785",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous unsuccessful attempts to get information, and offers a concrete solution: a phone call to personally investigate. The response demonstrates empathy and a commitment to resolving the issue, which is highly valuable from the customer's perspective. The offer to schedule a call within a few hours also shows a sense of urgency and dedication to resolving the problem quickly."
+  },
+  {
+    "customer_id": "115791",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's issue by suggesting relevant troubleshooting steps (clearing cache and reinstalling the app). It acknowledges the customer's previous attempt (power cycling) and shows awareness of the conversation history. The response is actionable and provides clear next steps. While it doesn't explicitly express empathy, the apology at the beginning implies understanding of the customer's frustration. The response is timely, given the context of a Twitter DM interaction. It could be improved by proactively offering further assistance if the suggested steps don't work."
+  },
+  {
+    "customer_id": "115798",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's issue of being unable to rebook only their return flight, acknowledges the previous interactions by referencing the customer's name and past assistance, and provides a clear and actionable next step (DM the booking number). The response also demonstrates empathy by acknowledging the customer's frustration and offering to help. Given the conversation history and the customer's previous issues, a prompt and helpful response is crucial, which this response delivers."
+  },
+  {
+    "customer_id": "116563",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response, while attempting to be engaging and offer a 'treat,' is ultimately disconnected from the customer's repeated and somewhat humorous requests. The customer clearly wanted a fun, immediate interaction related to the Halloween promotion. The generic offer of a coupon via DM, while potentially valuable, lacks the playful spirit of the initial interaction and feels like a standard marketing tactic rather than a genuine response to the customer's specific engagement. The response is also delayed, given the rapid-fire nature of the conversation. While it acknowledges the promotion, it doesn't truly 'treat' the customer in the way they were hoping for, making it only minimally useful."
+  },
+  {
+    "customer_id": "115818",
+    "usefulness_score": 2,
+    "evaluation": "The response is extremely delayed (years after the initial inquiry), making it almost useless. While it acknowledges the delay and asks for necessary information to investigate, the sheer length of time passed renders the request for information impractical and the apology insufficient. The customer likely resolved the issue long ago or has forgotten the details. The response demonstrates context awareness but fails miserably on timeliness, negating any potential usefulness."
+  },
+  {
+    "customer_id": "115819",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's expression of grief with empathy and offers a tangible gesture of support (gift card) relevant to the brand. The response acknowledges the conversation history and provides clear next steps (DM address). Given the sensitive nature of the customer's message, the response is appropriate and helpful."
+  },
+  {
+    "customer_id": "115820",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the conflicting information they received. It offers a concrete next step (DMing the order number) to resolve the issue quickly, which is appropriate given the customer's impatience. It's relevant, actionable, and shows empathy. While it doesn't fully resolve the issue immediately, it sets a clear path for resolution and acknowledges the previous negative interactions."
+  },
+  {
+    "customer_id": "115827",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration regarding the delayed shipping information for the Xbox One X Project Scorpio Edition pre-order. It acknowledges the lack of information close to the release date, showing empathy for the customer's situation. The promise of a direct update via DM within 2 hours provides a clear next step and manages expectations effectively. The response is timely, given the urgency of the situation and the length of the conversation. It demonstrates context awareness by referencing the specific pre-order and the customer's frustration."
+  },
+  {
+    "customer_id": "115849",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's issue by acknowledging the delayed order and expressing empathy for their frustration. It also provides a concrete next step by stating the issue has been escalated and promising an update within 2 hours. The response demonstrates context awareness by referencing the order number and acknowledging the continued delay. While a resolution isn't provided immediately, the promise of a swift update is a positive step. A score of 4 reflects that it's a helpful response, but the ultimate usefulness depends on whether the company delivers on its promise of an update within 2 hours."
+  },
+  {
+    "customer_id": "115856",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the issue, expresses empathy, and asks for specific details (iOS version and scope of the problem) to help diagnose the problem. This is a reasonable next step in troubleshooting. It builds upon the existing DM conversation, showing context awareness. The response is actionable by requesting specific information from the customer."
+  },
+  {
+    "customer_id": "115859",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's question about call center hours, acknowledges the delay in responding, and offers alternative assistance via Twitter or information about when the lines reopen. It demonstrates context awareness by referencing the previous DM exchange. The response could be improved by immediately providing the call center hours, if readily available, rather than asking what the customer was hoping to call about first."
+  },
+  {
+    "customer_id": "115878",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's urgent issue of being stranded, acknowledges their frustration with the lack of phone support, and offers a concrete solution: scheduling a call within the next hour. This demonstrates empathy, actionability, and timeliness, making it highly useful from the customer's perspective. The response also acknowledges the previous interactions and the customer's negative sentiment."
+  },
+  {
+    "customer_id": "115881",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and confirms that the store manager is investigating. Providing a 24-hour timeframe for contact is helpful and sets expectations. The response is relevant, actionable, and shows some empathy. It also demonstrates context awareness by referencing the previous information provided by the customer. However, a slightly more personalized apology might have improved the score to a 5."
+  },
+  {
+    "customer_id": "115883",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges receipt of the DM, expresses empathy for the continued trouble, and assures the customer that the team is actively reviewing the details. While it doesn't provide a solution, it sets the expectation for a future update, which is appropriate given the technical nature of the issue. It directly addresses the customer's issue and shows awareness of the conversation history."
+  },
+  {
+    "customer_id": "115885",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response, while attempting to be helpful, is ultimately not useful at this stage. The customer has repeatedly been asked to DM their confirmation number, and they've indicated they believe they already have. Offering a phone call to get the confirmation number *again* after multiple requests and delays is frustrating and suggests a lack of internal coordination or attention to the existing conversation. The response acknowledges the frustration and delays, which is good, but the proposed solution is simply a repeat of a previous, unsuccessful step. A more useful response would have been to acknowledge that the confirmation number was supposedly already provided and to explain what steps the company would take *internally* to investigate the issue based on that information, or to explain why they still needed it despite the customer's claim of having already sent it."
+  },
+  {
+    "customer_id": "115893",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly acknowledges the customer's frustration and references the existing case number, demonstrating context awareness. Promising escalation to a dedicated team and a 24-hour follow-up provides actionability and a clear expectation for the next step. The response also shows empathy by apologizing for the delay. While it doesn't resolve the issue immediately, it sets a reasonable expectation for resolution and shows a commitment to addressing the complaint. It could be improved by briefly explaining *why* there was a delay, if possible, but overall it's a helpful response."
+  },
+  {
+    "customer_id": "115897",
+    "usefulness_score": 3,
+    "evaluation": "The response is adequate. It acknowledges the delay and reiterates the request for the booking reference via DM, showing some awareness of the context. However, it doesn't offer any immediate solutions or reassurance beyond acknowledging the delay. The customer has already provided a lot of information, and the continued back-and-forth without a resolution is likely frustrating. While requesting the booking reference is necessary, the response could be improved by offering a more concrete timeframe for resolution after receiving the DM or suggesting alternative ways to find the booking if the customer doesn't have the reference readily available."
+  },
+  {
+    "customer_id": "115899",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges receipt of the customer's information and confirms that they are investigating the issue. It also sets an expectation for a future update. While it doesn't provide a solution, it assures the customer that action is being taken. It directly addresses the customer's concern and acknowledges the conversation history."
+  },
+  {
+    "customer_id": "115906",
+    "usefulness_score": 2,
+    "evaluation": "The response acknowledges the customer's frustration, but ultimately offers no real solution or action. It's a standard, canned response that doesn't address the core issue of the perceived unfairness of the fee. While it mentions passing on the feedback, it's unlikely to satisfy the customer, who is clearly upset about having to pay to transfer points they earned to their spouse. The response lacks any concrete action or alternative solutions, making it minimally useful from the customer's perspective."
+  },
+  {
+    "customer_id": "115917",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response is not useful. The customer's initial tweet indicated a problem with a coupon code. However, the conversation history shows that another customer (@115918) had a similar issue that was resolved by resizing a photo. The original customer (@115917) then indicated that this might be their problem too. The company's response ignores this context and asks for information the customer may have already resolved. It's a generic response that doesn't acknowledge the potential solution already presented in the thread. It should have asked if resizing the photo worked before requesting a DM."
+  },
+  {
+    "customer_id": "116699",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's ongoing concern about the delays, acknowledges the length of the conversation and the customer's likely frustration, and offers a proactive solution: a phone call for real-time updates and alternative travel arrangements. This is highly relevant, actionable, empathetic, timely, and complete, demonstrating strong context awareness."
+  },
+  {
+    "customer_id": "115923",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It acknowledges the customer's frustration, recognizes the inadequacy of previous responses, and offers a concrete next step (a phone call) to discuss the issue further and explore solutions. This demonstrates empathy, actionability, and relevance, considering the length and negative sentiment of the conversation. The offer of a call shows a commitment to resolving the problem and taking the customer's concerns seriously."
+  },
+  {
+    "customer_id": "115938",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's ongoing frustration with the unresolved delivery issue, acknowledges the length and complexity of the conversation, and offers a concrete solution: a phone call to resolve the problem quickly. The response demonstrates empathy and understanding of the customer's situation, and the offer of specific time slots for the call makes it actionable and convenient for the customer. It also acknowledges the previous DM interactions, showing context awareness."
+  },
+  {
+    "customer_id": "115944",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It acknowledges the customer's frustration, summarizes the situation, and offers a practical solution (a phone call) to address the issue more effectively than through Twitter. It demonstrates empathy and a desire to resolve the problem, making it a useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "115945",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is a significant improvement over their previous replies. It acknowledges the customer's frustration, offers to explore alternative solutions, and requests account details for personalized support. This shows empathy and a willingness to help beyond the initial generic responses. While it doesn't guarantee a fix, it provides a clear next step (DMing account details) and suggests a potential path to resolution, making it a useful response from the customer's perspective. It also acknowledges the previous interaction and the customer's negative sentiment."
+  },
+  {
+    "customer_id": "115950",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's long-standing frustration with connection issues in Albuquerque, acknowledges the repeated problems, and offers a concrete, actionable solution: a call with a senior technician. The response demonstrates empathy and is timely, given the escalated nature of the issue and the customer's history. Scheduling a call is a proactive step towards resolving the problem and provides personalized support, which is crucial in this situation."
+  },
+  {
+    "customer_id": "115712",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the lack of response to private messages, demonstrating empathy and context awareness. Offering a scheduled phone call is a proactive and actionable step towards resolving the escalated complaint. The response is relevant to the customer's issue and provides a clear next step. While it doesn't immediately solve the problem, it sets the stage for a more direct and personalized resolution. The timeliness is appropriate given the escalation."
+  },
+  {
+    "customer_id": "115956",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the Twitter channel and their reluctance to use DMs or links. Offering a scheduled phone call is a proactive and personalized solution that acknowledges the customer's preferences and aims for a more efficient resolution. The response also demonstrates empathy and a commitment to resolving the issue quickly, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "115960",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's complaint about the missing rice and expresses empathy. It also provides a clear next step by requesting order details via DM to investigate and resolve the issue. The response is relevant and actionable, showing awareness of the customer's frustration. While the initial response from the company was a bit generic, the final response directly addresses the core issue raised by the customer."
+  },
+  {
+    "customer_id": "115966",
+    "usefulness_score": 2,
+    "evaluation": "The company's response is poor. While it acknowledges the customer's frustration, it offers no real solution or alternative. The customer's initial tweet was sarcastic and humorous, but the company's response, while empathetic, doesn't offer anything beyond a standard apology and a mention of future promotions. It doesn't attempt to turn the negative experience into a positive one. The initial response from Becky was also unhelpful and added no value to the conversation."
+  },
+  {
+    "customer_id": "115984",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response, while attempting to address the customer's question about a $3 burrito, completely ignores the initial, irrelevant response from Becky praising the customer's makeup. This makes the final response feel disjointed and still demonstrates a lack of attention to the full conversation history. While it clarifies the promotion situation, it doesn't acknowledge or apologize for the initial misstep, making it only minimally useful from the customer's perspective."
+  },
+  {
+    "customer_id": "115989",
+    "usefulness_score": 2,
+    "evaluation": "The response is poor. While it acknowledges the customer's frustration and mentions the wireless team is aware, it essentially repeats information already provided in the previous company response. Requesting the location via DM is a reasonable next step, but the response lacks any concrete action or timeline, and the repetition makes it feel like a stall tactic. The customer is likely still left feeling frustrated and without a clear path to resolution."
+  },
+  {
+    "customer_id": "116006",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the fact that previous troubleshooting steps failed. It provides two specific, actionable next steps (updating system software and restoring licenses) with a link to instructions (though the link is generic in the provided context). It also offers further assistance if these steps don't work, indicating a willingness to continue supporting the customer. The response is relevant and shows context awareness. While it doesn't explicitly apologize, it does express sympathy for the ongoing issue."
+  },
+  {
+    "customer_id": "116023",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and confirms that technicians are working on the outage. The promise of an update within the hour is also helpful. It directly addresses the customer's concern and shows empathy. However, it doesn't provide any specific details about the cause of the outage or an estimated time of resolution, which would have made it even better."
+  },
+  {
+    "customer_id": "116025",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous issues (delayed delivery and damaged product), and offers a personalized solution (scheduling a phone call). This demonstrates empathy, actionability, and relevance, making it a highly useful response from the customer's perspective. The escalation to a phone call is appropriate given the length and negative sentiment of the conversation."
+  },
+  {
+    "customer_id": "116033",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and worry about incorrect booking details, acknowledging the multiple previous calls. It offers a clear and actionable next step (DMing the booking reference) to investigate and resolve the issue. The response also demonstrates empathy by acknowledging the frustration and the special occasion, making it a highly useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116044",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration and apologizes for the inconvenience, demonstrating empathy. It directly addresses the issue of bugs and crashes. The request for specific details via DM is actionable and relevant for troubleshooting. The response acknowledges the conversation history by referencing the bugs and crashes mentioned. While it doesn't offer an immediate solution, it sets the stage for further investigation and potential resolution. The timeliness is appropriate given the initial response time and the nature of the issue."
+  },
+  {
+    "customer_id": "116064",
+    "usefulness_score": 2,
+    "evaluation": "The response is poor. While it acknowledges the customer's frustration, it offers no concrete solution or action. It essentially repeats the previous response (sharing feedback with the marketing team) which the customer already feels was ineffective. The customer's sarcastic follow-up tweet indicates their dissatisfaction, and this response fails to address that. It lacks actionability and feels like a generic, dismissive reply."
+  },
+  {
+    "customer_id": "116070",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous misinformation provided by the company, confirms the customer's auto-renewal setting was indeed off, and proactively offers a refund if a charge occurred. The response demonstrates empathy and provides a clear path to resolution, making it highly useful from the customer's perspective. The addition of a note to the account to prevent future issues is also a positive step."
+  },
+  {
+    "customer_id": "116073",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's frustration regarding the no-show installation and long hold times, showing empathy. It offers a concrete next step (investigation via DM) and acknowledges the other concerns (hold music and call center feedback). The response is timely, given the short conversation history and the negative sentiment. While it doesn't resolve the issue immediately, it sets the stage for resolution and demonstrates that the company is listening."
+  },
+  {
+    "customer_id": "116083",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with not being able to access their account and the Prime charges. It acknowledges the previous attempts to resolve the issue via phone/chat and the customer's inability to access their account. The request for the email address via DM is a clear and actionable next step to investigate the issue privately. The response also expresses empathy for the customer's trouble, making it a helpful and well-crafted response."
+  },
+  {
+    "customer_id": "116085",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's concern about privacy within the Amazon Household, confirms their understanding, and offers further assistance. The tone is friendly and reassuring, acknowledging the customer's humorous concern about Christmas shopping secrecy. The response is relevant, actionable, empathetic, and complete, resolving the customer's query effectively."
+  },
+  {
+    "customer_id": "116086",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with empathy, acknowledges the problem of multiple dispatches, and offers a concrete solution by investigating the issue and potentially consolidating shipments. It also provides a clear next step by requesting the order number via DM, making it actionable and relevant to the customer's needs. The response demonstrates context awareness by acknowledging the customer's frustration and the previous interaction (though the previous interaction was a poor initial response). Overall, it's a helpful and appropriate response."
+  },
+  {
+    "customer_id": "116091",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's issue of counterfeit items and acknowledges their previous negative experience with customer support. It offers a clear next step by escalating the issue to a specialized team and promising a DM within 24 hours. The response also demonstrates empathy by acknowledging the customer's frustration. While a resolution isn't immediate, the escalation and promise of direct contact from a specialized team is a positive step. It could have been improved by offering a small token of apology or further explaining the process the specialized team would take."
+  },
+  {
+    "customer_id": "116098",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's ongoing issue after the initial suggestion failed, showing relevance and context awareness. It provides clear, actionable next steps by requesting specific information (iPhone model, iOS version, keyboard settings) to troubleshoot the problem. The response also demonstrates empathy by acknowledging the customer's frustration and assuring them of assistance. The response is timely, given the short conversation history and the customer's negative sentiment. Overall, the response is complete and sets a clear path towards resolution."
+  },
+  {
+    "customer_id": "116103",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration with the delayed response and the ongoing technical issues. It directly addresses the crashing app and battery drain problems. Offering a scheduled phone call is a proactive step towards resolving the issue, providing a more personalized and real-time troubleshooting experience. The response also demonstrates context awareness by referencing the previous DM attempts and the complexity of the problem. However, the usefulness is slightly reduced because of the initial delay in responding to the customer's DMs, which necessitated the escalation in the first place."
+  },
+  {
+    "customer_id": "116111",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly acknowledges the customer's frustration and confirms they've reviewed the DM. Providing a timeframe (within the next hour) for an update is helpful and sets an expectation. It shows empathy and context awareness by referencing the previous DM. While it doesn't resolve the issue immediately, it provides reassurance and manages expectations, which is valuable in this situation."
+  },
+  {
+    "customer_id": "116127",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's frustration with the overcharging issue and the lack of a timely response. It acknowledges the DM and promises an update within an hour, providing a clear next step and setting a reasonable expectation. The response also demonstrates empathy by acknowledging the customer's frustration. It is timely, given the customer's repeated complaints and negative sentiment. The response is context-aware, referencing the previous DM interaction."
+  },
+  {
+    "customer_id": "116145",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the difficulty in following the initial procedure, and offers a personalized solution (a phone call to discuss alternative options and compensation). This demonstrates empathy, actionability, and relevance, making it a highly useful response from the customer's perspective. The response also shows context awareness by referencing the previous interactions and the customer's expressed frustration."
+  },
+  {
+    "customer_id": "116148",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the unusual tweet and expresses concern, showing empathy. It asks clarifying questions to understand if there's a security issue, which is relevant and actionable. The response is timely given the short conversation history. It could be improved by offering specific resources or contact information for immediate security concerns, but overall, it's a helpful initial response."
+  },
+  {
+    "customer_id": "116152",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the lengthy and unsuccessful previous interactions, and offers a concrete solution: a phone call to resolve the issue quickly. The offer to schedule the call within the next hour demonstrates a sense of urgency and commitment to resolving the problem. The response also expresses empathy and a desire to 'make this right,' which is crucial given the customer's negative sentiment. The response is highly relevant, actionable, empathetic, timely, and context-aware."
+  },
+  {
+    "customer_id": "116161",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's issue of travel funds not working, acknowledges the customer has found the confirmation numbers, and provides a clear, actionable next step (DM the confirmation numbers). It also demonstrates empathy by acknowledging the customer's frustration. The response is timely and appropriate given the short conversation history and the nature of the issue. It's complete in that it sets the stage for resolving the issue by offering to investigate the funds' status."
+  },
+  {
+    "customer_id": "116172",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the fact that the promised credit hasn't been applied, demonstrating empathy and context awareness. It also provides a clear next step (DMing account details) to investigate and resolve the issue. However, it would have been even better if the response included an apology for the delay in applying the credit, rather than just expressing sorrow that it hasn't been applied yet. This would have shown a greater level of ownership and commitment to resolving the problem."
+  },
+  {
+    "customer_id": "116176",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's grievance, acknowledges their frustration and disappointment, and offers a concrete action (DM for details) to document and address the issue. It demonstrates empathy and a commitment to improving customer service, making it highly useful from the customer's perspective. The response is also context-aware, referencing the previous interactions and the customer's statement that the issue is 'done now' while still offering assistance."
+  },
+  {
+    "customer_id": "116186",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration with both the order and the previous support experience, showing empathy. It confirms receipt of the DM and promises investigation, which is actionable. It's relevant to the issue and demonstrates context awareness. While it doesn't provide an immediate solution, it sets the expectation for a future update, which is reasonable given the need to investigate. The response is timely, considering the customer's growing frustration."
+  },
+  {
+    "customer_id": "116190",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration regarding the online ordering being turned off for the Boorito promo and offers an alternative solution (visiting the restaurant). It shows empathy and is relevant to the customer's issue. However, it could have been slightly better by offering a small incentive or further apology to compensate for the inconvenience."
+  },
+  {
+    "customer_id": "116200",
+    "usefulness_score": 3,
+    "evaluation": "The company's response is adequate. It acknowledges the customer's tweet and attempts to clarify if there's an underlying issue. However, it's somewhat generic and doesn't offer any specific solutions or next steps unless the customer explicitly states a problem. It shows some awareness of the context by referencing the meme, but it could be more proactive in anticipating potential issues related to the original tweet the customer was responding to. The response is timely, but its overall usefulness depends on whether the customer actually has a problem they want to address."
+  },
+  {
+    "customer_id": "116212",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and offers to investigate further, which shows empathy and relevance. The request for the account number and troubleshooting steps is actionable and aims to expedite a solution. It also demonstrates context awareness by acknowledging the customer's interaction with tech support. However, the customer has already expressed extreme frustration and resignation to being without internet for several days. While the offer to investigate is helpful, the customer might perceive it as too little, too late, given the length of the outage and the initial inability to resolve it. A more proactive approach earlier in the conversation might have been more effective."
+  },
+  {
+    "customer_id": "116218",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and acknowledges the unusual situation where one payment went through while another failed with the same information. It provides a clear next step (DMing the last four digits of the card and transaction times) to investigate the issue further. The response also demonstrates empathy by acknowledging the customer's frustration and promising a prompt investigation. It's context-aware, referencing the previous conversation about the payment issue. The response is also timely, given the short conversation history and the customer's frustration."
+  },
+  {
+    "customer_id": "116223",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's initial question about the 2XP and weapon unlock by reiterating that they should be automatically applied at launch. It also acknowledges and addresses the customer's frustration regarding early access by stating that they are investigating the issue. The response shows empathy and context awareness by referencing the previous conversation. While it doesn't provide a concrete solution for the early access issue, it assures the customer that it's being looked into, which is helpful. The response is timely considering the issue status."
+  },
+  {
+    "customer_id": "116231",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It acknowledges the customer's frustration and apologizes for the previous unhelpful responses. It directly addresses the customer's desire for action by stating they are taking the issue seriously and requesting more information via DM to investigate. This shows empathy, relevance, and actionability, making it a highly useful response from the customer's perspective. It also demonstrates context awareness by referencing the previous interactions and acknowledging the customer's concerns about the impact of scams on vulnerable individuals."
+  },
+  {
+    "customer_id": "116239",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's issue of the train leaving early, acknowledges their frustration, and offers a concrete next step (a phone call to discuss the issue and potentially investigate CCTV footage). The offer of a call within the next hour demonstrates timeliness and a willingness to resolve the issue quickly. The response also acknowledges the previous attempts to resolve the issue via Twitter, showing context awareness. This is a proactive and empathetic approach to resolving a customer grievance."
+  },
+  {
+    "customer_id": "116252",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's complaints about food quality (chicken, hair in soup, wrong dressing), acknowledges their frustration with an empathetic apology, and provides a clear, actionable next step by requesting order details via DM to investigate and rectify the situation. The response is also timely, considering the conversation's length and the nature of the complaints. It demonstrates context awareness by referencing the customer's negative experience."
+  },
+  {
+    "customer_id": "116254",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's request for a sponsorship, acknowledges their loyalty, and provides a clear and actionable next step (DMing details). The response is empathetic and shows awareness of the conversation history. It's a timely and appropriate response given the context."
+  },
+  {
+    "customer_id": "116277",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration with surge pricing and offers a potential solution (partial refund or credit) after investigation. It directly addresses the issue raised in the conversation and provides a clear next step (DMing order details). The response also demonstrates empathy by acknowledging the customer's feeling of overpaying. While it doesn't guarantee a refund, it shows a willingness to help, making it a useful response from the customer's perspective. The response is also timely, given the channel and nature of the issue."
+  },
+  {
+    "customer_id": "116280",
+    "usefulness_score": 2,
+    "evaluation": "The final response, while acknowledging frustration and explaining the policy, comes far too late in the provided conversation history. The initial responses were canned links that didn't address the customer's specific issue. The customer had to repeatedly state their request. The final response, while containing the right elements, is too little, too late, and doesn't offer any real solution or alternative. It essentially shuts down the conversation without providing any tangible help, making it not useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116281",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and acknowledges the long wait time and the seriousness of the reported issue (gun in vehicle). Offering a phone call is a highly actionable step that provides a personal touch and a chance for immediate resolution. The response demonstrates empathy and a commitment to resolving the issue, which is crucial for de-escalating the situation. It also acknowledges the previous failed attempts at resolution, making it context-aware."
+  },
+  {
+    "customer_id": "116282",
+    "usefulness_score": 2,
+    "evaluation": "The response, while attempting to show empathy, is ultimately unhelpful. The customer has already expressed frustration with being directed to email and the company is still asking for information to be sent via DM to then direct them to in-app support. The response acknowledges the frustration but doesn't offer a concrete solution or a different approach, making it feel like a canned response that doesn't truly address the customer's specific complaints about the previous interactions."
+  },
+  {
+    "customer_id": "116296",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's grievance with empathy, acknowledges the long repair time, and offers a concrete action (escalation and investigation). Requesting the repair ticket number is a proactive step towards resolution. The response is also timely, given the initial response was a simple forwarding of information."
+  },
+  {
+    "customer_id": "116325",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and request to speak with someone at corporate. Offering a call with the Executive Customer Relations team is a relevant and actionable step. The response also acknowledges the customer's long-standing membership and apologizes for the inconvenience, demonstrating empathy and context awareness. The offer to schedule a call the next morning is timely, given the length and escalation of the conversation. Overall, the response is highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116330",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's escalated complaint about a security issue and financial loss, acknowledges their frustration and the delay, confirms they've seen the direct message, and requests specific information (ticket or reference number) to expedite the resolution. This shows empathy, actionability, and context awareness, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116348",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the issue by acknowledging the greyed-out song and suggesting a possible cause (licensing issue). It provides a clear next step by asking for the song name and artist to investigate further. The response is empathetic and acknowledges the customer's patience. It also demonstrates context awareness by referencing the previous confirmation about the song being greyed out. While it doesn't immediately solve the problem, it moves the resolution process forward effectively."
+  },
+  {
+    "customer_id": "116349",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's issue by acknowledging the signal problem, previous attempts to resolve it with Sprint and the Apple Store, and the customer's unwillingness to pay for a repair. The offer to schedule a call with a senior technician provides a clear and actionable next step. The response demonstrates empathy by acknowledging the customer's frustration and the length of time they've been dealing with the issue. Given the escalated nature and the multiple failed attempts at resolution, scheduling a call is a timely and appropriate action. The response is complete in that it offers a path forward to potentially resolve the issue and explore warranty options. It also demonstrates context awareness by referencing the previous interactions and the customer's specific concerns."
+  },
+  {
+    "customer_id": "116355",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and informs them that a specialist is reviewing their account and will contact them via DM within an hour. This provides a clear next step and shows empathy. It also acknowledges the ongoing conversation. However, it doesn't fully resolve the issue, hence the score is not a 5."
+  },
+  {
+    "customer_id": "116356",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's complaint about the inedible food and the delay in response. It provides a clear solution (full refund), specifies the amount (£18), and gives a timeframe for when the customer can expect to see the refund. The response also acknowledges the customer's frustration and apologizes for the inconvenience. It demonstrates context awareness by referencing the DM conversation. Overall, it's a helpful and satisfactory resolution from the customer's perspective."
+  },
+  {
+    "customer_id": "116362",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the pricing discrepancy and conflicting information, and offers a personal phone call to resolve the issue. This demonstrates empathy, actionability, and context awareness, making it a highly useful response from the customer's perspective. The offer of a call is particularly valuable given the length and complexity of the issue."
+  },
+  {
+    "customer_id": "116390",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly acknowledges the customer's frustrating situation (the Uber getting a fine), confirms receipt of the DM, and assures the customer that they are looking into the issue and will provide an update shortly. This demonstrates empathy, relevance, and actionability, making it a highly useful response from the customer's perspective. It also shows context awareness by referencing the DM."
+  },
+  {
+    "customer_id": "116393",
+    "usefulness_score": 2,
+    "evaluation": "The final response acknowledges the customer's frustration, but it ultimately offers no real solution. It's a generic 'we'll pass it on' response after the customer has already expressed dissatisfaction with the community forum process and the closing of their idea. The response lacks actionability and doesn't offer any alternative solutions or a clear path forward. It essentially ends the conversation without resolving the underlying issue."
+  },
+  {
+    "customer_id": "116397",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the unexpected call charge and acknowledges the miscommunication. It offers a concrete solution (a refund) and proposes a phone call for a quicker and more personal resolution, demonstrating empathy and a commitment to resolving the issue. The offer to schedule a call shows respect for the customer's time and ensures they feel heard. The response is relevant, actionable, empathetic, and complete, considering the conversation history."
+  },
+  {
+    "customer_id": "116409",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with repeated outages, acknowledges their previous unsuccessful attempts to resolve the issue, and offers a concrete next step: a call with a senior technician. The response also demonstrates empathy and a sense of urgency, promising a call back within the hour. This is a relevant, actionable, and complete response that considers the full conversation context."
+  },
+  {
+    "customer_id": "116410",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's feedback and frustration regarding gigabit internet and upload speeds. It states that the comments have been forwarded to the product development team, which is a positive step. However, it lacks concrete action or a timeline for potential improvements. The 'Is there anything else I can help you with?' feels somewhat generic and doesn't directly address the core issue of the customer's need for faster upload speeds. While empathetic, it doesn't offer a real solution or alternative, making it only partially useful."
+  },
+  {
+    "customer_id": "116415",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's ongoing issue, acknowledges the extended duration and frustration, and offers a concrete next step (scheduling a call for potential compensation). The response demonstrates empathy and understanding of the situation, making it highly useful from the customer's perspective. It also acknowledges the limitations of resolving the issue via Twitter and proposes a more effective channel for resolution."
+  },
+  {
+    "customer_id": "116420",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration, confirms receipt of the DM, and promises an update. It shows empathy by mentioning the importance of the honeymoon trip. However, it doesn't provide a specific timeline for the update, which could be improved. It is relevant and context-aware, referencing the previous tweets and the honeymoon issue."
+  },
+  {
+    "customer_id": "116432",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's question about the teddy bear as a personal item. It provides a general guideline and suggests checking with a gate agent for confirmation, which is a practical next step. The response also acknowledges the Halloween context with a friendly greeting. It could have been slightly better if it had offered a link to the airline's official personal item policy for further clarification, but overall it's a helpful and relevant response."
+  },
+  {
+    "customer_id": "116435",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous insensitive offer, and proposes a proactive solution (a phone call) to understand the issue better and find a way to make things right. This shows empathy, actionability, and relevance, considering the customer's negative sentiment and the sensitive nature of the situation. The offer to schedule a call is a good escalation strategy given the customer's continued dissatisfaction and the length of the conversation."
+  },
+  {
+    "customer_id": "116442",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's frustration and reiterates that feedback has been shared, showing some empathy and relevance. However, it lacks actionability as it doesn't offer any concrete solutions or timelines. While context-aware, it's a fairly standard response that might not leave the customer feeling truly heard or valued. The response is adequate but could be improved by offering alternative workarounds or a more specific commitment to future updates."
+  },
+  {
+    "customer_id": "116445",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's issue, acknowledges their frustration, confirms receipt of the DM, and provides clear instructions on the next steps (providing account number and zip code). It is relevant, actionable, empathetic, and context-aware, making it a highly useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116446",
+    "usefulness_score": 3,
+    "evaluation": "The company's final response is adequate. It acknowledges the customer's negative sentiment and offers to help via DM, which is a good step to move the conversation to a more private channel. However, it's a bit generic and doesn't directly address the accusation of lying. While it asks for more details, it doesn't offer any specific solutions or demonstrate a deep understanding of the customer's frustration beyond a general apology. The response is relevant and actionable in terms of moving the conversation forward, but lacks a strong empathetic tone and specific acknowledgement of the 'liar' accusation."
+  },
+  {
+    "customer_id": "116451",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response is not very useful. While it acknowledges the customer's frustration and apologizes, it essentially repeats the request for a confirmation number and flight details, which was already requested in previous messages. The customer already denied using bad language, so the company's focus on that seems misplaced and detracts from addressing the core issue. The response lacks a personalized touch and doesn't offer any concrete steps beyond providing information, making it feel generic and unhelpful."
+  },
+  {
+    "customer_id": "116460",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges receipt of the confirmation number, indicates they are actively looking into the seat change, and expresses empathy for the customer's frustration. It directly addresses the issue and sets expectations for the next steps. While it doesn't provide a solution yet, it moves the conversation forward effectively."
+  },
+  {
+    "customer_id": "116469",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges their loyalty, and offers concrete solutions: investigating the issue, delivering the bag, and refunding the charge. The request to DM baggage claim number and flight details is actionable and appropriate for resolving the issue. The response demonstrates empathy and context awareness by referencing the previous interactions and the customer's frustration with the charge and baggage handling. The proposed solution is likely to satisfy the customer and resolve the issue effectively."
+  },
+  {
+    "customer_id": "116476",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration regarding the delay and lack of updates. It provides a concrete action (confirming the catering situation and providing an update within 30 minutes) and offers a tangible solution (travel voucher). The response demonstrates empathy by acknowledging the inconvenience and frustration. Given the customer's previous negative sentiment and the ongoing delay, the proactive compensation and promise of a timely update are highly useful and likely to de-escalate the situation effectively. The response also acknowledges the conversation history by referencing the continued delay."
+  },
+  {
+    "customer_id": "116483",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It acknowledges the customer's playful tweet, offers a relevant and appealing incentive (free chips and guac), and provides clear instructions on how to redeem the offer (DM for a code). The response is timely, given the nature of the interaction, and demonstrates a good understanding of the customer's implied desire for value. The initial response about the makeup was also a nice touch, showing engagement and personality."
+  },
+  {
+    "customer_id": "116500",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It acknowledges the humorous story, shows a lighthearted tone appropriate for the context, and expresses hope that the customer's grandmother still enjoyed or will enjoy the promotion. It also offers further assistance, demonstrating good customer service practices. The response is relevant, timely, and context-aware, making it a useful and positive interaction from the customer's perspective."
+  },
+  {
+    "customer_id": "116512",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's concern and reiterates the general pre-load rule. It also asks for specific information (release date and time zone) to investigate further, which is a helpful next step. The response demonstrates empathy and context awareness by referencing the pre-order and the customer's doubt. While it doesn't immediately solve the problem, it sets the stage for a resolution and shows the company is willing to help."
+  },
+  {
+    "customer_id": "116524",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and acknowledges the misinformation provided earlier. It apologizes for the error and the inconvenience caused, demonstrating empathy. The response is actionable, requesting specific details via DM for further investigation, which is appropriate given the sensitivity of the issue. It also acknowledges the conversation history and the customer's evidence, showing context awareness. The response is timely, given the rapid-fire nature of the Twitter exchange."
+  },
+  {
+    "customer_id": "116527",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly acknowledges the customer's frustration with previous customer service interactions and expresses a desire to help. It asks for specific information (order number or relevant details) to investigate further, which is actionable. The response demonstrates empathy by acknowledging the customer's frustration and apologizing for the unresolved issue. It is context-aware, referencing the previous attempts to resolve the issue. While it doesn't offer an immediate solution, it sets the stage for further investigation and resolution, making it a useful step in addressing the customer's complaint."
+  },
+  {
+    "customer_id": "116529",
+    "usefulness_score": 4,
+    "evaluation": "The final response is good. It acknowledges the customer's frustration, escalates the issue to a relevant team (product sourcing), and provides a concrete action the customer can take (setting up in-stock alerts). It also demonstrates context awareness by referencing the customer's difficulty in finding the bedding set. While it doesn't guarantee a solution, it shows effort and provides a potential path forward. The only slight drawback is that the escalation might take time, and the customer is left waiting, but the in-stock alert suggestion mitigates this somewhat."
+  },
+  {
+    "customer_id": "116535",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's question about Smart Sync, explains why it's not available on their newly upgraded personal account, and provides a link to a plan comparison for further information. It acknowledges the previous conversation and the customer's upgrade, demonstrating context awareness. The response is clear, concise, and informative, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116545",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration and acknowledges the difficulty in managing a family member's account. It offers a concrete and actionable next step (providing account details via DM) to explore alternative verification methods, showing a willingness to help despite the initial policy limitations. The response is also timely, given the short conversation history, and demonstrates empathy for the customer's situation."
+  },
+  {
+    "customer_id": "116546",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's confusion about the game preview jargon, acknowledges their frustration, and provides clear reassurance that no special sign-up is needed for pre-ordering. It also offers further assistance by asking for specific details if the customer encounters problems during the ordering process. The response is relevant, actionable, empathetic, and complete, considering the conversation history and the customer's initial question."
+  },
+  {
+    "customer_id": "116565",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's frustration and reiterates the company's current plan. It also mentions passing the feedback along, which is a positive. However, it doesn't offer any immediate solutions or alternatives to alleviate the customer's discomfort during the flight. While empathetic, it's ultimately not very actionable for the customer in the short term, making it only adequately useful."
+  },
+  {
+    "customer_id": "116567",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's grievance about the flight crew, expresses empathy for the negative experience, and provides a clear call to action by requesting the booking reference or ticket number via DM to investigate further. This shows a commitment to resolving the issue and improving the customer's experience. The response is also timely, following up on the initial complaint quickly."
+  },
+  {
+    "customer_id": "116568",
+    "usefulness_score": 3,
+    "evaluation": "The company's final response acknowledges the customer's frustration and provides the latest delay estimate. However, it largely repeats information the customer already has and relies heavily on directing the customer to the app and gate information, which the customer has already indicated is unreliable. While empathetic, it lacks concrete action or a proactive solution beyond monitoring existing channels. It's an adequate response, but could be improved by offering alternative flight options or a more detailed explanation of the maintenance issue."
+  },
+  {
+    "customer_id": "116569",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly acknowledges the customer's frustration and history of negative experiences. Offering a phone call with Customer Relations is a proactive and personalized approach, demonstrating a commitment to resolving the issue. The response is empathetic, actionable, and shows a clear understanding of the conversation context. It provides a clear next step for the customer and aims to find a tailored solution."
+  },
+  {
+    "customer_id": "116571",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It directly addresses the customer's frustration and acknowledges the previous lack of action. It provides a clear next step (escalation and a 24-hour update) and demonstrates empathy. It is also timely, given the customer's escalating frustration. While it doesn't resolve the issue immediately, it sets a reasonable expectation for further action, making it useful from the customer's perspective. It acknowledges the conversation history and the customer's feeling of being ignored."
+  },
+  {
+    "customer_id": "116576",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the initial misinterpretation, acknowledges the customer's concern about oversight and organization, and proactively asks for specific details to understand and resolve the issue. The response demonstrates empathy and a genuine desire to 'make things right,' making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116577",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the perceived inconsistency in policy. Offering a phone call is a good step towards de-escalation and personalized resolution. The response shows empathy and awareness of the conversation history. However, it could be improved by briefly acknowledging the specific points raised (e.g., lack of markings, paperwork, and the bulkhead issue) before suggesting the phone call, demonstrating a deeper understanding of the customer's specific concerns."
+  },
+  {
+    "customer_id": "116591",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the repeated outages, acknowledges the conversation history (mentioning the 7 outages), and offers a concrete and actionable solution: a phone call with a specialist to investigate the root cause. The offer to schedule the call within the next hour demonstrates timeliness and a commitment to resolving the issue quickly. The response also shows empathy by acknowledging the customer's frustration. This is a proactive and helpful response that goes beyond basic troubleshooting."
+  },
+  {
+    "customer_id": "116606",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly acknowledges the customer's frustration and promises immediate investigation, referencing the shared tracking link. It shows empathy and sets the expectation for an update. While it doesn't offer a concrete solution yet, it's a good initial step in addressing the issue. The response is also timely, given the negative sentiment and delivery problem."
+  },
+  {
+    "customer_id": "116610",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges that the customer has completed the form and emailed them, showing they are aware of the conversation history. It expresses empathy for the confusion regarding free delivery and reassures the customer that the issue is being investigated. It also sets an expectation for a future update. While it doesn't provide a solution immediately, it's a reasonable holding statement given the issue's complexity and the customer's prior action of submitting a form. It could be improved by giving a more specific timeframe for the update."
+  },
+  {
+    "customer_id": "116617",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with both the technical issue and the language barrier. Offering a direct phone call with a language-appropriate agent is a highly actionable and empathetic solution, especially given the length of the Twitter conversation and the customer's expressed difficulty with changing language settings. The response acknowledges the conversation history and provides a clear path to resolution."
+  },
+  {
+    "customer_id": "116632",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and confirms receipt of the DM, assuring them that the issue is being investigated and that they will receive an update shortly. This shows empathy and provides a clear next step (waiting for the update). It is relevant to the customer's initial request and acknowledges the DM interaction. While it doesn't resolve the issue immediately, it sets an expectation for future communication and demonstrates that the company is actively working on it."
+  },
+  {
+    "customer_id": "116634",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the delay in response, demonstrating empathy. Offering a direct phone call is a proactive step towards resolving the urgent issue quickly. The response is relevant and actionable, providing clear instructions for the customer to provide their phone number and preferred call time. It also acknowledges the continued booking issues, showing context awareness. However, the delay in reaching this point (almost 2 hours after the initial tweet and after multiple prompts from the customer) slightly reduces its overall usefulness. A faster escalation to a phone call would have been ideal."
+  },
+  {
+    "customer_id": "116641",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's grievance with empathy, acknowledges the severity of the situation, promises immediate action, and provides a clear next step (requesting the booking ID for further investigation). It is relevant, actionable, empathetic, and timely, considering the customer's initial tweet and the previous generic response."
+  },
+  {
+    "customer_id": "116642",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is a significant improvement over their previous generic replies. It acknowledges the customer's frustration and the confusion caused by the earlier link. By asking for clarification on whether the customer is a rider or driver, the company is attempting to direct them to the correct support channel. This is relevant and shows context awareness. However, it doesn't provide an immediate solution, hence the score is not a 5. It's a good step towards resolving the issue."
+  },
+  {
+    "customer_id": "116652",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's continued issue and the fact that it's affecting multiple players. While the initial tracert analysis pointed to Blizzard's network, the company recognizes the problem persists and offers a phone call to further investigate and explore workarounds. This demonstrates a willingness to help beyond the initial assessment and provides a clear, actionable next step. The offer of a call within the hour is also timely, given the urgent nature of the issue. However, it could have been slightly better by explicitly stating what the call would entail (e.g., specific troubleshooting steps or information gathering). Overall, it's a helpful response that shows empathy and a commitment to resolving the problem."
+  },
+  {
+    "customer_id": "116654",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's issue by requesting the Battle.net account email address to investigate further, which is a logical next step after receiving the tracert results. It acknowledges the conversation history and provides a clear action for the customer (DM their email). While it lacks explicit empathy, the promptness and directness are valuable in this situation. It moves the issue forward towards resolution."
+  },
+  {
+    "customer_id": "116657",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the issue, confirms they are aware of similar reports, and states that their network team is investigating. Requesting the customer's general location is a relevant next step for troubleshooting. The response demonstrates context awareness by referencing the Verizon FIOS and Northeast US details mentioned in previous tweets. While it doesn't offer an immediate solution, it provides reassurance that the issue is being addressed. The response is timely, given the urgent nature of the service disruption."
+  },
+  {
+    "customer_id": "116661",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's issue by acknowledging the prolonged problem and the previous incorrect information. It offers a clear and actionable next step (scheduling a phone call for further troubleshooting). The response demonstrates empathy by apologizing for the continued trouble and expressing a desire to resolve the issue quickly. Given the length of the conversation and the persistence of the problem, escalating to a phone call is a timely and appropriate solution. The response is complete in that it explains the reasoning behind the phone call and assures the customer of their commitment to fixing the problem. Finally, it shows context awareness by referencing the previous incorrect information and the weeks-long duration of the issue."
+  },
+  {
+    "customer_id": "116668",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It acknowledges the customer's frustration, the length of the conversation, and the lack of resolution. It offers a proactive solution (a phone call) to discuss the issue further and explore ways to assist, even if the responsibility technically lies with another airline. This demonstrates empathy, actionability, and a willingness to go the extra mile, making it a highly useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116674",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's issue by acknowledging the problem and expressing empathy for the inconvenience. It provides clear, actionable next steps by requesting specific information (account number and program name) needed for troubleshooting. The response is relevant to the initial tweet and the subsequent DM exchange, demonstrating context awareness. The request for specific information is essential for resolving the technical issue."
+  },
+  {
+    "customer_id": "116692",
+    "usefulness_score": 1,
+    "evaluation": "The company's response is completely irrelevant and useless. The conversation is from 2017 regarding the game HQ on Xbox. The company's response addresses crashes on PC and asks for PC specs. This shows a complete lack of context awareness and provides information that is not helpful to the customer's original issue. The response is also incredibly delayed, being provided years after the initial interaction."
+  },
+  {
+    "customer_id": "116692",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response is poor. While it acknowledges the customer's frustration and asks for information, it completely misses the original issue which was about HQ on Xbox. The response talks about missing attachments and blank lobbies in WWII, which is likely a different issue. The customer's initial tweet was about HQ, and the company's response should have addressed that specifically. The response is therefore not relevant to the original problem and shows a lack of attention to detail and context."
+  },
+  {
+    "customer_id": "116697",
+    "usefulness_score": 4,
+    "evaluation": "The response is good because it acknowledges the customer's frustration and the delayed response, which is crucial given the customer's repeated tweets. It directly addresses the leaderboard issue and provides a clear next step: providing specific examples of suspected boosters via DM. This is actionable and helps move the issue forward. The response also shows empathy by understanding the customer's frustration. However, it could be improved by offering a more concrete timeline for investigation or a more detailed explanation of the investigation process."
+  },
+  {
+    "customer_id": "116717",
+    "usefulness_score": 3,
+    "evaluation": "The company's response acknowledges the error and apologizes, which is a good start. However, it doesn't address the initial tweet at all, which was directed at another user (@115714) and seems unrelated to the text message issue. While asking for clarification is necessary given the confusion, the response only partially addresses the situation. It's adequate because it attempts to correct the previous mistake and move forward, but it lacks context awareness regarding the original tweet and its potential irrelevance to the company's services."
+  },
+  {
+    "customer_id": "116722",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's frustration and reiterates the company's position on the chip charge. However, it doesn't offer any real solution or alternative, making it only partially useful. While it explains the reasoning behind the charge, it doesn't go beyond the initial explanation provided by Becky. The question at the end to see if there's anything else they can assist with is a good practice, but the overall response lacks a proactive approach to resolving the customer's grievance."
+  },
+  {
+    "customer_id": "116733",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the failed troubleshooting steps, and offers a more personalized solution (a phone call) to resolve the persistent technical issue. The offer of a phone call within the next hour demonstrates timeliness and a commitment to resolving the problem quickly. The response shows empathy and understanding of the customer's situation, making it a very useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116692",
+    "usefulness_score": 2,
+    "evaluation": "The company's response is poorly timed and misdirected. The initial customer tweet was about 'HQ for Xbox,' likely referring to the HQ Trivia app. The company's response, arriving much later (years later, based on the timestamp), addresses a completely different issue: accessing a WWII code. This indicates a failure to understand the original problem and a lack of connection to the initial conversation. While the response attempts to be helpful by asking for platform and purchase details, it's irrelevant to the customer's original concern, making it unhelpful and potentially frustrating."
+  },
+  {
+    "customer_id": "116692",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration regarding the HQ issue on Xbox, acknowledges the delay in responding to the DM, and expresses empathy for the customer's negative experience. It provides actionable steps by requesting the Xbox gamertag and specific error message to facilitate troubleshooting. The response demonstrates context awareness by referencing the previous interactions and the customer's frustration. The response is also timely, given the customer's expressed impatience."
+  },
+  {
+    "customer_id": "116739",
+    "usefulness_score": 3,
+    "evaluation": "The response acknowledges the customer's frustration and states they are working on the issue, which is good. However, it lacks a concrete timeline and only offers a vague promise of updates. Asking for the platform is a good step towards troubleshooting, but the overall response feels somewhat generic and doesn't offer immediate relief or a clear path to resolution for the customer. The response is adequate but could be improved with more specific information or alternative solutions while the main issue is being resolved."
+  },
+  {
+    "customer_id": "116750",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's long-standing issue with collections for returned equipment, acknowledges their frustration and the history of the problem (3 years!), and offers a concrete solution: a phone call to resolve the issue quickly. The offer to call within the next hour demonstrates a commitment to immediate action and personalized support, which is crucial given the customer's highly negative sentiment and strong language. The response is relevant, actionable, empathetic, timely, and complete, considering the context of the entire conversation."
+  },
+  {
+    "customer_id": "116751",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the confusion surrounding the upgrade and Jump plan. It confirms that they received the DM and are looking into the account details, promising to provide options shortly. This shows empathy and provides a clear next step (investigation and options). It is relevant to the customer's initial complaint and acknowledges the ongoing DM conversation. While it doesn't resolve the issue immediately, it sets a reasonable expectation for resolution."
+  },
+  {
+    "customer_id": "116761",
+    "usefulness_score": 2,
+    "evaluation": "The company's response is poor. While it acknowledges the customer's request for a response and apologizes for the delay, it fails to understand the context of the conversation. The customer's initial issue was resolved, and they even expressed gratitude. The subsequent messages, particularly the garbled \"@AskPlayStation @116761 pleas answer my\" and \"@116762 @AskPlayStation @116761 P\", suggest a possible error or unrelated issue. Simply asking for clarification without acknowledging the previous positive resolution and the unclear nature of the new request makes the response minimally helpful. It doesn't offer any specific assistance or direction, leaving the customer to re-explain themselves without any indication that the company is aware of the previous interaction."
+  },
+  {
+    "customer_id": "116776",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges their mistake in misdirecting the previous response, which is crucial. It directly asks the customer to clarify their original question, which is actionable and relevant given the 'Que??' response. While it doesn't offer a solution yet, it sets the stage for a productive conversation. It shows awareness of the context by admitting the error. It could be improved by briefly summarizing the initial tweets to ensure the customer remembers the context, but overall, it's a helpful recovery from the initial mistake."
+  },
+  {
+    "customer_id": "116785",
+    "usefulness_score": 2,
+    "evaluation": "The company's final response, while attempting to be helpful by offering a phone call, is ultimately not very useful. While it acknowledges the customer's issue and the difficulty in resolving it via Twitter, it comes very late in the conversation after multiple unhelpful responses. The customer has already expressed frustration, and the offer of a phone call feels like a last resort rather than a proactive solution. The previous responses from the company were dismissive and failed to properly address the customer's query, leading to the escalation. Offering a phone call is a good step, but the preceding poor service significantly diminishes its value."
+  },
+  {
+    "customer_id": "116787",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the delay, which demonstrates empathy. It also states that the issue is being investigated and offers to provide a real-time update and compensation, which are actionable steps. It directly addresses the core issue of the late order and the customer's expressed dissatisfaction. The request for order details is relevant for resolving the problem. However, the customer had already stated they responded 45 minutes prior, so the company should have acknowledged that response and explained why it wasn't acted upon sooner. This would have improved the response further."
+  },
+  {
+    "customer_id": "116792",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's complaint about the lack of forks and guacamole, acknowledges their frustration, and states that the issue has been passed on to the regional team. It also offers further assistance. While it doesn't provide a concrete solution (like a refund or a free item on their next visit), it does show that the company is taking the complaint seriously and will investigate. The response is timely and appropriate for a Twitter interaction."
+  },
+  {
+    "customer_id": "116795",
+    "usefulness_score": 5,
+    "evaluation": "The final response is excellent. It directly addresses the customer's frustration with repeated order errors, acknowledges the previous interactions, and provides a clear action plan: escalating the case to the customer resolution team with a specific timeframe (24 hours). It also offers a follow-up if the customer doesn't hear back, demonstrating a commitment to resolving the issue. This response is relevant, actionable, empathetic, and complete, showing a strong understanding of the customer's perspective and the conversation history."
+  },
+  {
+    "customer_id": "116803",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration, acknowledges the previous unsuccessful attempts to contact the store, and offers a concrete solution by requesting the store location to investigate. The response demonstrates empathy and a willingness to help resolve the urgent issue of the new team member's orientation. The request for a DM is appropriate for gathering sensitive information and facilitating a more private resolution."
+  },
+  {
+    "customer_id": "116809",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and the fact that the issue is affecting multiple users. It also states that the tech team is actively investigating, which is reassuring. Requesting the phone model is a concrete action that shows they are working on a solution. The response is relevant, actionable, empathetic, and context-aware. However, the initial responses were slow and didn't immediately recognize the widespread nature of the problem, which slightly lowers the overall score. The final response is a significant improvement."
+  },
+  {
+    "customer_id": "116813",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration and the specific issue of the order not being received despite being placed. It confirms receipt of the DM and promises a prompt investigation and update. This sets a reasonable expectation for the customer. While it doesn't offer an immediate solution, it's a necessary step in resolving the problem. The response demonstrates empathy and context awareness."
+  },
+  {
+    "customer_id": "116818",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges receipt of the confirmation number and confirms they are investigating the issue. It sets an expectation for a future update, which is helpful. It directly addresses the customer's issue and acknowledges the previous interaction. However, it doesn't offer any immediate solutions or alternative options, which would elevate the score to a 5."
+  },
+  {
+    "customer_id": "116828",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration and offers to investigate the issue. It also provides clear next steps by requesting transaction details or the PayPal account email address via DM. The response is relevant and actionable, showing empathy and context awareness. While it doesn't resolve the issue immediately, it sets the stage for a potential resolution."
+  },
+  {
+    "customer_id": "116829",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's feedback about the sign-off confirmation process, explains the intention behind it (security), and informs the customer that the feedback has been passed on to the security team for review. It also apologizes for the delay in responding. The response is relevant, shows context awareness, and provides a reasonable explanation. While it doesn't offer an immediate solution (as it's a suggestion), it demonstrates that the company is taking the feedback seriously. The only slight drawback is the significant delay in responding, but the apology helps mitigate that."
+  },
+  {
+    "customer_id": "116849",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's persistent issue, acknowledges the multiple failed attempts at resolution through various channels, and demonstrates empathy for the customer's frustration. Offering a call with a specialist within the next hour is a proactive and actionable step that shows a commitment to resolving the problem. The response is timely, complete, and context-aware, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116851",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the 'launch day arrival' not arriving on time, acknowledges the conflicting tracking information from Amazon and UPS, and provides a concrete action plan: contacting the shipping team for investigation. The promise of an update within 24 hours sets a clear expectation. The response also demonstrates empathy and acknowledges the customer's negative sentiment. It is relevant, actionable, empathetic, timely, complete, and context-aware."
+  },
+  {
+    "customer_id": "116854",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration and asks for specific examples of websites where the issue occurs, which is a relevant next step for troubleshooting. The request to DM sensitive information like website examples is appropriate for security reasons. The response also acknowledges the previous interaction and the fact that the issue persists after the update. While it doesn't offer an immediate solution, it sets the stage for further investigation and resolution."
+  },
+  {
+    "customer_id": "116863",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It acknowledges the customer's frustration, provides a clear next step (monitoring battery life after the update), and offers further assistance if the problem persists. It's relevant to the issue and actionable. The response also demonstrates context awareness by referencing the update the customer is installing. While it doesn't offer immediate solutions, it sets expectations and provides a pathway for further troubleshooting, making it a useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116870",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and confirms that the issue is being investigated with the cafe management team. It also sets the expectation for a follow-up, which is important. The response is relevant, actionable (in terms of investigation), empathetic, and context-aware. However, it doesn't provide a specific timeframe for the follow-up, which could be improved. Overall, it's a useful response that addresses the customer's immediate concern."
+  },
+  {
+    "customer_id": "116880",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustrating experience, acknowledges the specific issues raised (especially the mother's health concerns), and offers a concrete next step (a phone call to gather more details and discuss resolution). The offer to call within the next hour demonstrates urgency and a commitment to resolving the issue promptly. The response also shows empathy and understanding of the customer's frustration, making it a highly useful response from the customer's perspective."
+  },
+  {
+    "customer_id": "116881",
+    "usefulness_score": 5,
+    "evaluation": "The company's response is excellent. It directly addresses the customer's grievance, acknowledges their frustration, and promises immediate action by reporting the issue to the store management. Asking for the store location is a crucial step towards resolving the problem and demonstrates a commitment to addressing the specific issue raised. The response is also timely, given the channel (Twitter DM) and the nature of the complaint."
+  },
+  {
+    "customer_id": "116888",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the failed troubleshooting steps and proposes a phone call for real-time support, which is a reasonable next step given the persistent issue. It shows empathy by acknowledging the customer's frustration and wanting to resolve the problem. The offer of a phone call is actionable and relevant to the situation. The response is also context-aware, referencing the previous troubleshooting attempts. While a solution wasn't provided, the offer of a phone call is a positive step towards resolution."
+  },
+  {
+    "customer_id": "116893",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration with the conflicting information, acknowledges the previous interactions, and offers a concrete and actionable solution: a phone call to resolve the issue and discuss compensation. The offer to call within the hour demonstrates a commitment to resolving the issue promptly and empathetically. The response is highly relevant, actionable, empathetic, timely, complete, and context-aware."
+  },
+  {
+    "customer_id": "116903",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly acknowledges the customer's multiple issues (delayed baggage, broken cases, expenses, slow communication), expresses empathy for the frustration, and offers a concrete next step (scheduling a phone call) to resolve the complex situation. The response demonstrates context awareness by referencing the previous interactions and the customer's dissatisfaction. Offering a phone call is a proactive approach that can lead to a faster and more satisfactory resolution for the customer."
+  },
+  {
+    "customer_id": "116912",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration about the out-of-stock replacement, acknowledges the previous attempts to resolve the issue, and offers to investigate further by requesting the order number via DM. This shows empathy and a willingness to explore alternative solutions beyond the standard return/refund, which is likely to be perceived as helpful by the customer."
+  },
+  {
+    "customer_id": "116913",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's serious allegation of assault, expresses deep concern and empathy, and outlines clear, actionable steps: internal escalation to the safety and security team, a request for the police report number to coordinate with law enforcement, and an assurance that the matter is being taken seriously. The response is timely and appropriate given the urgency of the situation and acknowledges the previous interactions in the conversation."
+  },
+  {
+    "customer_id": "116921",
+    "usefulness_score": 3,
+    "evaluation": "The response directly addresses the customer's request to be followed, politely declining and offering further assistance. However, the customer's initial interaction was with OnePlus, not Amazon, and the company's response doesn't acknowledge this potential confusion. While it's good they offered further help, the response could have been more useful by clarifying their role in the conversation (AmazonHelp) and acknowledging the OnePlus 5T promotion mentioned in the original tweet. The response is adequate but misses an opportunity to provide more relevant and helpful information."
+  },
+  {
+    "customer_id": "116922",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's concern about confirming the package's status despite receiving a refund. It provides a clear next step (providing the order number via DM) and acknowledges the previous interaction. The response is timely and appropriate for the channel and situation, showing a good understanding of the customer's needs."
+  },
+  {
+    "customer_id": "116925",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's issue of deleting their account, acknowledges their frustration stemming from the initial link-based response, and offers a more personalized and secure solution by requesting account details via DM. This demonstrates empathy, actionability, and context awareness, making it highly useful from the customer's perspective."
+  },
+  {
+    "customer_id": "116932",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration about missing Black Friday/Cyber Monday deals and acknowledges the previous interactions. Offering a phone call is a proactive and actionable step to resolve the issue quickly, demonstrating empathy and a commitment to providing immediate assistance. The response is timely, given the length of the conversation and the urgency of the situation."
+  },
+  {
+    "customer_id": "116934",
+    "usefulness_score": 4,
+    "evaluation": "The company's response is good. It directly addresses the customer's concern about ads on Amazon Music Unlimited, reaffirming the ad-free experience. It also shows empathy by acknowledging the customer's worry. The request for clarification on the Prime Music comment is a good move to understand the customer's overall sentiment and potentially address further concerns. The response is relevant, actionable (in terms of clarifying the ad-free experience), empathetic, and context-aware. While it doesn't immediately resolve the underlying concern about future service degradation, it opens a dialogue to address it, making it a useful response."
+  },
+  {
+    "customer_id": "116936",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's frustration and offers a concrete next step: investigating the specific items causing the delay. Requesting the ASINs via DM is a good move towards personalized support. It builds on the previous conversation and attempts to move towards a resolution. While it doesn't guarantee a solution, it shows a willingness to help beyond generic explanations."
+  },
+  {
+    "customer_id": "116151",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's request for help by asking what their question is. It acknowledges the previous successful resolution of the porting issue and maintains a helpful and friendly tone. Given the customer explicitly asked 'One more question please', a direct and simple response is the most appropriate and efficient way to proceed."
+  },
+  {
+    "customer_id": "116952",
+    "usefulness_score": 5,
+    "evaluation": "The company's final response is excellent. It directly addresses the customer's frustration by acknowledging the employee's mistake and the resulting inconvenience. Offering a refund for the baggage fee is a tangible and actionable solution. The response also demonstrates empathy and a commitment to preventing similar issues in the future by escalating the incident to the baggage handling team for review and retraining. The response is context-aware, referencing the specific baggage issue and the customer's negative experience. The offer to refund the baggage fee and the apology are likely to be well-received by the customer and could potentially salvage the relationship."
+  },
+  {
+    "customer_id": "116968",
+    "usefulness_score": 4,
+    "evaluation": "The company's final response is good. It acknowledges the customer's continued login issues and the failure of previous troubleshooting steps. It provides a clear next step (DMing their email address) to allow for further investigation. The response also expresses empathy for the customer's frustration. While the initial response was delayed, this final response is appropriate given the need for more specific account information. It builds upon the previous interactions and offers a path towards resolution."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "customer_id": "115712",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:45:00Z",
+    "message": "Hi @115712, I'm so sorry you're having trouble getting a response and that your experience with us has been frustrating. I see you've sent several DMs without a resolution. To ensure we address this quickly, I'd like to schedule a call with you to understand the issue better and get it resolved. Would you be available for a brief call in the next hour? Please let me know what time works best for you.",
+    "reasoning": "The customer has expressed extreme frustration and has been trying to get help via DMs without success. The conversation is already at 7 messages, indicating a need for a more direct and efficient approach. Given the customer's consistently negative sentiment and escalated complaint history, a phone call is the best way to show empathy, understand the issue thoroughly, and work towards a resolution quickly. Scheduling the call within 1-2 hours reflects the urgency of the situation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115730",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:13:00Z",
+    "message": "Hey @115730, thanks for the suggestion! We appreciate you thinking of us. I'll pass your request for a Chipotle in Mammoth along to our real estate team. They're always looking for new locations! -Becky",
+    "reasoning": "The customer's tweet is product feedback (suggesting a new location). The sentiment is positive. The conversation is short (2 messages). A quick reply on Twitter is appropriate to acknowledge the feedback and inform the customer that it will be passed on. Since the company already replied once, I am updating the message to be more specific and helpful.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "115744",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T09:15:00Z",
+    "message": "@115744 We understand your frustration with the wait for the November PS Plus games announcement. We don't have the information yet, but we'll be sure to share it on the PS Blog as soon as it's available. Thanks for your patience!",
+    "reasoning": "The customer is expressing impatience on Twitter. A quick, empathetic response on the same channel is appropriate. Given the short conversation length and the nature of the request (information availability), a direct message reply is suitable. The customer's history of negative sentiment suggests acknowledging their frustration is important.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115749",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "Hi there, we're sorry to hear about the confusion regarding the bag charge at our Colliers Woods branch. We understand your frustration, especially since other stores may have different policies. To ensure we fully understand the situation and provide you with the most accurate information, we'd like to schedule a quick phone call. Would you be available for a call in the next hour? We want to resolve this for you as quickly as possible.",
+    "reasoning": "The customer has expressed negative sentiment throughout the conversation and has directly challenged the company's stance after checking with an external source. The conversation has reached 7 messages, indicating a need for more direct and personalized communication. Given the customer's persistent grievance and the potential for misinterpretation of written policies, a phone call is the best way to clarify the situation, address their concerns directly, and potentially offer a resolution. The customer's negative sentiment and the length of the conversation warrant a quick response time.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115759",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:02:00Z",
+    "message": "@115759 Hi Jayden, we understand your frustration regarding the World at War update. Unfortunately, we don't have specific details on individual game updates. These are usually pushed out by the game developers. We recommend checking the game developer's official website or social media channels for patch notes and explanations. Hope this helps!",
+    "reasoning": "The customer has a simple technical question about a game update. Since the company doesn't have the information, the best course of action is to direct the customer to the game developer's official channels. A quick Twitter reply is suitable for this type of issue and the conversation length is short. The customer's sentiment is neutral, so a straightforward and helpful response is appropriate.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "115762",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115762 Thanks for confirming! If you've redeemed the beta code on your Activision account, the 2XP code should automatically be linked to your account. When you pick up the game on Friday and log in, the 2XP should be active. If it's not, please let us know and we'll investigate further. ^KO",
+    "reasoning": "The customer is asking for clarification on where to find the 2XP code after redeeming the beta code. A quick response via Twitter is appropriate to address this question. The message provides a clear expectation of when the 2XP should be active and offers further assistance if needed.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115763",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@Seth_tubbs Thanks for providing that info! We understand it's frustrating to lose your stats. We're looking into your account now. To help us investigate further, could you please confirm the last time you remember your stats being accurate? ^CB",
+    "reasoning": "The customer's issue is a technical one, but it seems relatively simple at this stage. The conversation is short (3 messages), so a Twitter DM reply is appropriate. Given the customer's negative sentiment pattern, addressing the issue promptly and empathetically is important. Asking for the last time the stats were accurate helps narrow down the potential cause and shows we're actively working on the problem.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115767",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T02:00:00Z",
+    "message": "Hi Jason, I'm really sorry to hear that the troubleshooting steps haven't resolved the issue with the center snapping. Since we've been going back and forth and the problem persists even on a fresh install, it seems like a more in-depth investigation is needed. Would you be available for a brief phone call so we can better understand the situation and potentially screen share to diagnose the problem more effectively? Please let me know what time works best for you. We appreciate your patience.",
+    "reasoning": "The conversation has exceeded 7 messages, indicating the issue is not easily resolved through text-based communication. The customer has tried multiple troubleshooting steps without success, and the issue persists even on a fresh install, suggesting a more complex problem. Given the customer's consistently negative sentiment and the technical nature of the issue, a phone call allows for real-time troubleshooting and a more personalized approach, potentially leading to faster resolution and improved customer satisfaction. Escalating to a phone call demonstrates empathy and a commitment to resolving the issue.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115776",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@115776 Hi Keelin, thanks for sharing the file. We understand your frustration with the SVG export issue. Our team is actively investigating the file you provided. We'll share updates as soon as we have them. We appreciate your patience!",
+    "reasoning": "The customer has a negative sentiment and is experiencing a technical issue. The conversation is relatively short (6 messages), so a quick update via Twitter DM is appropriate. Acknowledging their frustration and assuring them that the issue is being investigated addresses their negative sentiment. Providing a specific update (investigating the file) shows that their input is valued. The customer's frequent negative sentiment and technical issues suggest empathy and clear communication are important.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115785",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T02:00:00Z",
+    "message": "Hi @115785, I understand your frustration with the lack of information regarding your Xbox One X pre-order. I sincerely apologize for the runaround you've experienced. Since the chat and Microsoft store teams haven't been able to provide a concrete answer, I'd like to schedule a call with you to personally investigate this further and hopefully get you the shipping information you need. Please let me know what time works best for you in the next few hours. We want to help you get this resolved!",
+    "reasoning": "The customer is clearly frustrated and has been given the runaround by multiple support channels. The conversation is already at 10 messages, indicating a need for escalation. Given the customer's consistently negative sentiment and the complexity of the issue (inability to get a straight answer about pre-order shipping), a phone call is the best option to provide personalized attention and attempt to resolve the issue quickly. The message acknowledges the customer's frustration, apologizes for the inconvenience, and offers a direct solution (a phone call to investigate).",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115791",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@115791 We're sorry you're still experiencing issues with the My5 app and error code 200. Since you've already tried power cycling, let's try a few more quick troubleshooting steps. Could you please try clearing the cache for the My5 app on your Xbox? If that doesn't work, try uninstalling and reinstalling the app. Let us know if either of these resolves the issue! ^RM",
+    "reasoning": "The customer is experiencing a technical issue that seems relatively simple. The conversation is short (3 messages), and the customer has a history of simple technical issues. A quick response via Twitter DM with basic troubleshooting steps is the most efficient way to attempt resolution. Given the customer's negative sentiment, a prompt response is important. Sending the message within 4-6 hours addresses the negative sentiment without being overly urgent.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115798",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "Hi Loreen, we understand you'd like to rebook your return flight but are experiencing issues with the inbound flight also being rebooked. Could you please DM us your booking number again so we can take a closer look and assist you with changing only the return flight? Thanks! -Anwar",
+    "reasoning": "The customer is having trouble rebooking their flight. Since the conversation length is already at 17 messages and the customer has a history of negative sentiment, a quick response is needed. The issue is not overly technical, so a Twitter DM is appropriate. Asking for the booking number again ensures we have the correct information to assist them.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116563",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:36:00Z",
+    "message": "Hi there! Happy Halloween! While we can't *literally* give you a treat through Twitter, we'd love to offer you a special deal. DM us your favorite McDonald's item and we'll send you a coupon for a discount on your next order! #TrickorTweet",
+    "reasoning": "The customer is participating in a lighthearted Halloween promotion on Twitter and has a positive sentiment. A quick, engaging response via Twitter DM is appropriate. Offering a coupon aligns with the 'treat' request and encourages further engagement. The conversation length is high (24 messages), but the content is simple and doesn't require a more involved channel. The customer's frequent 'Other' support type suggests they are likely participating in promotions or have general inquiries, making this approach suitable.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "115818",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T02:30:00Z",
+    "message": "@115818 We sincerely apologize for the delay in responding to your baggage fee inquiry. We understand your frustration. We received your DM. To quickly resolve this, could you please confirm the last four digits of the Delta Amex card used for booking and the names of the passengers on the reservation? We'll look into this right away.",
+    "reasoning": "The customer has been waiting for a response for a long time, indicating a need for a quick resolution. Given the conversation length is short (3 messages) and the issue is related to billing, a direct message on Twitter is appropriate for a faster response. The message acknowledges the delay and frustration, asks for necessary information to investigate, and promises immediate action. The customer's history shows a tendency for negative sentiment and billing issues, so addressing the issue promptly and empathetically is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115819",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T00:00:00Z",
+    "message": "@115819 We are so sorry for your loss. It sounds like your grandma was a big fan of our Buttermilk Crispy Tenders. We'd like to offer you a small token of remembrance in her honor. Please DM us your address so we can send you a gift card.",
+    "reasoning": "The customer's last message expresses grief over the loss of their grandmother. A direct message on Twitter is appropriate for offering condolences and a small gesture of support. Given the sensitive nature of the message, a quick and empathetic response is crucial. The customer's history shows a negative sentiment, so addressing their emotional state is important. Offering a gift card is a simple way to acknowledge their loss and show that McDonald's cares.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115820",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:16:00Z",
+    "message": "@115820 We understand your frustration with the conflicting information and missing order. We're truly sorry for the inconvenience. To resolve this quickly, could you please DM us your order number? We'll investigate immediately and provide a clear update.",
+    "reasoning": "The customer is already on Twitter and has expressed frustration with previous customer service interactions. A direct message allows for a more private and focused conversation to gather the necessary information (order number) to investigate the delivery issue. Given the customer's negative sentiment and the relatively short conversation length, a quick response via Twitter DM is the most appropriate first step. Escalating to a phone call immediately might overwhelm the customer, while email might be too slow for their current level of frustration.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115827",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115827 We understand your frustration regarding the Xbox One X Project Scorpio Edition pre-order. We sincerely apologize for the lack of shipping information so close to release. We're looking into this urgently and will provide you with a direct update via DM within the next 2 hours. Thank you for your patience.",
+    "reasoning": "The customer is expressing frustration on Twitter about a pre-order delivery issue. Given the conversation length (5 messages) and the customer's negative sentiment, a quick response via Twitter DM is appropriate to acknowledge their frustration and assure them that the issue is being investigated. Providing a specific timeframe (2 hours) for an update helps manage expectations and demonstrates commitment to resolving the issue. The customer's history of negative sentiment and order/delivery problems reinforces the need for a prompt and empathetic response.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115849",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:32:00Z",
+    "message": "Hi @115849, we sincerely apologize for the continued delay with order #3632693-6196346. We understand your frustration. We've escalated this to our delivery team for immediate review and will provide you with a concrete update within 2 hours. We appreciate your patience.",
+    "reasoning": "The customer has been waiting for a month and has contacted support multiple times. The sentiment is negative, and the issue is an order/delivery problem. Given the conversation length is 6 messages, and the customer's consistent negative sentiment and order issue history, a quick, empathetic response via Twitter DM is appropriate to acknowledge their frustration and promise a swift update. Escalating the issue internally is also crucial. A phone call is not necessary yet, but a quick response is.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115856",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T04:00:00Z",
+    "message": "Hi @115856, thanks for the DM! We're sorry you're experiencing this issue with the capital 'I' in the Mail app after updating to iOS 11.1. To help us understand better, could you please confirm the exact version of iOS 11.1 you're running (e.g., 11.1.1, 11.1.2)? Also, does this happen with all emails or specific senders? We appreciate your patience!",
+    "reasoning": "The customer has already sent a DM, so continuing on Twitter DM is the most appropriate channel. The issue is a technical one, but seems relatively simple to start with. Given the customer's history of negative sentiment and technical issues, it's important to respond quickly and empathetically. A response within 4-6 hours is appropriate. The message acknowledges the issue, asks for more specific information to help diagnose the problem, and expresses appreciation for their patience. This approach aims to gather more details before escalating further.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115859",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:24:00Z",
+    "message": "Hi there! We're so sorry for the delay in responding. Yes, our call centers do have closing hours. Could you tell us what you were hoping to call about? We can help you here or let you know when the lines reopen.",
+    "reasoning": "The customer is asking a simple question about call center hours. Since the conversation is short (4 messages) and the issue is not complex, a quick response via Twitter DM is appropriate. The message acknowledges the delay and offers immediate assistance or information about call center hours.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115878",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi @115878, we understand you're stranded and frustrated. We sincerely apologize for the lack of immediate phone support. To resolve this urgently, we'd like to schedule a call with you right away. Please reply to this DM with your phone number and a convenient time in the next hour, and we'll call you to get you back on your way. We value your business and want to make this right.",
+    "reasoning": "The customer is stranded, indicating an urgent service disruption. Their sentiment is consistently negative, and the conversation is already at 5 messages. Given the urgency and the customer's frustration, scheduling a phone call is the best way to quickly resolve the issue and provide personalized support. Offering a call within the next hour addresses the immediate need and shows empathy.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115881",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "@115881 Hi Cade, thanks again for providing the details. We're really sorry this happened. The store manager is looking into the matter and will be in touch with you directly within 24 hours to discuss the outcome of their investigation. We appreciate your patience.",
+    "reasoning": "The customer is experiencing a grievance related to in-store service. The conversation is short (4 messages), making a Twitter DM reply appropriate. Given the customer's negative sentiment and the nature of the complaint, it's important to acknowledge their frustration and assure them that the issue is being addressed. Providing a timeframe (24 hours) for the store manager to contact them sets clear expectations. Since the store manager is investigating, the issue is not yet resolved.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115883",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "@115883 Thanks for sending over the screenshot and explanation via DM. We're very sorry for the continued trouble with the 'change flight' search option. Our team is actively reviewing the details you provided. We'll update you as soon as we have more information. *AFC",
+    "reasoning": "The customer has already sent a DM with details, so a reply via DM is the most appropriate channel. The conversation is at 7 messages, but since the customer has already provided the information, a quick update is warranted before considering a phone call. Given the customer's consistently negative sentiment and the ongoing technical issue, a prompt response acknowledging their frustration and assuring them the issue is being investigated is crucial. The send time is set to 1-2 hours to reflect the urgency of the situation and the customer's negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115885",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Richard, I sincerely apologize for the continued back and forth and the delayed responses. I understand your frustration with your flight booking. To resolve this quickly, I'd like to schedule a brief phone call to get your confirmation number directly and sort this out immediately. Would that work for you? Please let me know a good time to call.",
+    "reasoning": "The conversation has exceeded 7 messages, indicating a need for escalation and a more direct form of communication. The customer's repeated requests and negative sentiment suggest a phone call is the best way to quickly resolve the issue and provide personalized support. Scheduling a call allows for real-time problem-solving and demonstrates a commitment to resolving the issue efficiently.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115893",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115893 We understand your frustration and apologize for the delay in addressing your complaint (ref: 16934380). We've located your case with Sanket Thakur and are escalating it to our dedicated escalations team for immediate review. They will contact you directly within 24 hours with an update. We appreciate your patience.",
+    "reasoning": "The customer is expressing frustration and has been waiting for a response. Given the negative sentiment and the fact that the conversation is short (3 messages), a quick response via Twitter DM is appropriate to acknowledge their frustration and provide reassurance. Escalating the issue and promising a specific timeframe for contact demonstrates a commitment to resolving the issue. The customer has already provided the reference number, so asking for more information would be redundant and further frustrate them.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115897",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T17:38:36Z",
+    "message": "Hi David, we're very sorry for the delay. We're still looking into the missing confirmation for your Amsterdam to London flight on 28/11/17. Could you please DM us the booking reference for the London to Athens flight you received confirmation for? This will help us locate your booking faster. Thanks for your patience. ^R",
+    "reasoning": "The customer is waiting for an update and has already provided most of the necessary information. Since the company requested the booking reference to be sent via DM in the previous turn, continuing the conversation in DM is the most efficient way to resolve the issue. The message acknowledges the delay and reiterates the request for the booking reference, setting clear expectations for the next step. Given the conversation length and the need for a quick resolution, a response within 1 hour is appropriate.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115899",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "@115899 Thanks for sending that info over! We're looking into why you received those text alerts even though you're not a customer. We'll update you as soon as we have more information. -KW",
+    "reasoning": "The customer has provided the requested information via DM. Since the issue is still under investigation and the conversation length is short (4 messages), a quick update via Twitter DM is appropriate. The sentiment is neutral, so a standard response is sufficient. The issue is 'Other', suggesting it's not highly technical or urgent, so a 6-8 hour send time is reasonable.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115906",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115906 We understand your frustration with the points transfer fee. We know it's disappointing when you feel like you're paying for something you've already earned. While we can't waive the fee at this time, we want to assure you that we're constantly reviewing our policies. We'll be sure to pass your feedback along to the team responsible for the AAdvantage program. Is there anything else we can help you with today?",
+    "reasoning": "The customer is expressing a grievance on Twitter, and the conversation is short (4 messages). A quick, empathetic response via Twitter DM is appropriate. The message acknowledges the customer's frustration, explains that the fee cannot be waived at this time, and assures them that their feedback will be passed on. This addresses the immediate concern and sets expectations. Given the customer's history of negative sentiment and grievances, escalating immediately might not be necessary, but acknowledging their feelings is crucial. Asking if there is anything else they can help with opens the door for further assistance if needed.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115917",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:15:00Z",
+    "message": "Hi there! Thanks for reaching out. It looks like you're having trouble with the T-Mobile Tuesday code. To help me troubleshoot, could you DM me the code you're trying to use and the specific error message you're seeing?  We'll get this sorted out!",
+    "reasoning": "The customer is having a technical issue with a coupon code. The conversation is relatively short (8 messages), and the customer has generally positive sentiment. A quick DM on Twitter is the most efficient way to gather the necessary information (the code and error message) to resolve the issue. Since the customer has already shared a link, continuing on Twitter DM is appropriate. A phone call is not necessary at this stage, and email is too slow for this type of issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116699",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hello! I understand the ongoing delays at Preston are causing significant disruption. Given the length of this conversation and the continued uncertainty, I'd like to offer a direct phone call to provide you with the most up-to-date information and explore alternative travel arrangements if needed. Would you be available for a quick call in the next hour? Please let me know a convenient time.",
+    "reasoning": "The conversation has exceeded 7 messages, indicating a need for more direct and personalized communication. The customer is clearly concerned about the delays and their daughter's situation. A phone call allows for real-time updates and a more empathetic approach to resolving the issue, which aligns with the urgent nature of the service disruption and the customer's neutral sentiment, suggesting they are likely seeking a practical solution.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115923",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T09:00:00Z",
+    "message": "Hi Andy, I understand your frustration with the repeated delays and the impact it's having on your travel. I'm sorry that our previous responses haven't addressed your concerns adequately. Given the length of our conversation and your continued dissatisfaction, I'd like to schedule a call with you to discuss this further and explore what options we have to improve your experience. Would you be available for a brief call sometime today or tomorrow?",
+    "reasoning": "The customer has expressed significant frustration over multiple messages and is clearly unhappy with the standard responses. The conversation length is already at 10 messages, indicating a need for a more direct and personalized approach. Given the customer's consistently negative sentiment and the nature of the grievance, a phone call offers the best opportunity to understand the specific issues, offer potential solutions, and demonstrate a commitment to resolving the problem. Escalating to a phone call shows we are taking their concerns seriously.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115938",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "Hi @115938, we understand your frustration with the missing delivery and the lack of resolution so far. We sincerely apologize for the delayed response in DMs. Given the complexity and length of this issue (11 messages), we'd like to schedule a call to discuss this further and find a solution as quickly as possible. Please let us know what time works best for you in the next few hours. We are available [list available time slots].",
+    "reasoning": "The customer has consistently negative sentiment and has been trying to resolve an order/delivery problem for several days. The conversation has exceeded 7 messages, indicating the issue is complex and requires more direct interaction. Scheduling a phone call allows for real-time problem-solving and demonstrates a commitment to resolving the issue, addressing the customer's frustration and potentially improving their sentiment. The customer has also DM'ed twice, indicating a desire for a more direct line of communication.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115944",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-29T01:00:00Z",
+    "message": "Hi Heather, we understand your frustration with the new Hulu interface. We're sorry it's not as user-friendly as it used to be. Since we've been going back and forth on Twitter, and it's still not resolved, would you be open to a quick phone call so we can better understand your specific issues and find a solution? Please let us know a good time to reach you.",
+    "reasoning": "The customer has expressed consistent negative sentiment and provided product feedback over 8 messages. The issue is not resolved through Twitter support. Given the conversation length and the customer's frustration, a phone call is the best way to understand the specific issues and offer personalized assistance. Scheduling a call allows for a more direct and efficient resolution.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115945",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115945 We understand your frustration with the HDMI mirroring issue and how it impacts your decision to get Hulu Live. While we can't guarantee immediate changes, we want to explore alternative solutions for you. Could you DM us your account details so we can see if there are any workarounds or other options that might work for you in the meantime? We appreciate your patience.",
+    "reasoning": "The customer is clearly frustrated and considering canceling their Hulu subscription. Since the conversation is short (4 messages) and the issue is a customer grievance, a Twitter DM reply is appropriate. The message acknowledges the customer's frustration, offers to explore alternative solutions, and asks for account details to provide more personalized support. Given the customer's negative sentiment and potential churn risk, sending the message within 1-2 hours is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115950",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi @115950, I understand your frustration with the connection issues in Albuquerque. I sincerely apologize for the repeated problems you've experienced over the years. To resolve this quickly, I'd like to schedule a call with one of our senior technicians who can diagnose and fix the problem. Would you be available for a brief call in the next hour? Please let me know what time works best for you.",
+    "reasoning": "The customer has consistently displayed negative sentiment and is experiencing an urgent service disruption. The conversation has already reached 6 messages, and the customer is clearly frustrated with the lack of resolution. Given the urgency and the customer's history, a phone call is the best way to address the issue promptly and provide personalized support. Escalating to a senior technician ensures the issue is handled by someone with the expertise to resolve it effectively. The message acknowledges the customer's frustration and offers a concrete solution.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115712",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi @115712, I understand your frustration with not receiving a response to your private messages. I sincerely apologize for the delay and any inconvenience this has caused. To ensure we address your concerns effectively and get you in touch with the right person at Sprint Corporate, I'd like to schedule a phone call with you as soon as possible. Please let me know what time works best for you in the next hour. We want to resolve this for you.",
+    "reasoning": "The customer is clearly frustrated and has been trying to contact Sprint Corporate without success. Given the escalated nature of the complaint, the negative sentiment, and the repeated attempts to contact via private message, a phone call is the most appropriate channel to address the issue directly and efficiently. Scheduling a call demonstrates a commitment to resolving the problem and allows for a more personalized and immediate response. The send time is set to 1-2 hours due to the urgency of the escalated complaint and the customer's negative sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115956",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@115956 We sincerely apologize for the continued frustration with your cable box issue and the difficulty reaching a resolution via Twitter. We understand your preference to avoid links and DMs. To best assist you, we'd like to schedule a phone call with a dedicated technician who can troubleshoot the problem directly. Would [Time] work for you? If not, please let us know what time is best. We value your business and want to resolve this quickly.",
+    "reasoning": "The customer has expressed consistent negativity and frustration with the Twitter support channel. The conversation has exceeded 7 messages, indicating a need for a more direct and efficient approach. The customer is also resistant to using DMs or clicking links. Scheduling a phone call allows for real-time troubleshooting and personalized support, addressing the customer's concerns and potentially resolving the issue more effectively. Given the customer's negative sentiment, sending the message within 1-2 hours is crucial to show responsiveness and a commitment to resolving the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115960",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:28:00Z",
+    "message": "@115960 We're so sorry to hear your bowl wasn't up to par! It sounds like there wasn't enough rice. Could you please DM us your order details (location, order time, and order number if you have it) so we can look into this and make it right? -Becky",
+    "reasoning": "The customer's issue is a simple order problem expressed on Twitter. Given the short conversation length (3 messages) and the nature of the complaint (missing rice), a quick response via Twitter DM is appropriate. The message acknowledges the customer's frustration and requests specific information to resolve the issue. The customer has a history of negative sentiment and order problems, so addressing the issue quickly and empathetically is crucial. A DM allows for a more private exchange of order details.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115966",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:16:00Z",
+    "message": "Hi @115966, thanks for the tweet! We're sorry to hear you missed out on the $3 Boorito deal. It was a fun promotion, and we appreciate you wanting to participate. While we can't retroactively apply the discount, we hope you'll join us for future promotions! -Becky",
+    "reasoning": "The customer is expressing a grievance about missing the Boorito deal. Since the conversation is short (2 messages) and the issue is a customer grievance needing empathy, a Twitter DM reply is appropriate. The message acknowledges the customer's frustration and expresses empathy, while also explaining that the promotion cannot be applied retroactively. Given the customer's negative sentiment and grievance history, a quick and empathetic response is best.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "115984",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "Hi @115984, we saw your tweet! Unfortunately, we don't have a $3 burrito promotion running right now. Was there a specific offer you were referring to? We'd be happy to help clarify any confusion. -Becky",
+    "reasoning": "The customer is asking about a promotion on Twitter, and the company's initial response was irrelevant. A quick reply on Twitter is appropriate to address the customer's question and clarify any potential misunderstanding about a promotion. The customer's sentiment is neutral, and the issue is a simple inquiry, so a quick response within 6-8 hours is suitable. The message is empathetic and directly addresses the customer's question.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "115989",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@115989 We understand your frustration with the LTE speeds after upgrading to Unlimited Data. We're sorry for the trouble. Our wireless team @115990 is aware and will be reaching out to you shortly to investigate. In the meantime, could you DM us your location so they can check the tower in your area? ^HSB",
+    "reasoning": "The customer is already on Twitter, and the conversation is short (2 messages). A quick DM reply acknowledging their frustration and requesting location information is the most efficient way to start troubleshooting. Since the wireless team is already aware, this message serves as a bridge and shows we're actively working on it. Given the negative sentiment, a relatively quick response (4-6 hours) is appropriate.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116006",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T05:00:00Z",
+    "message": "@quochuy046 We're sorry you're still having trouble downloading the Necromancer pack. Since the basic troubleshooting steps didn't work, let's try a few more things. First, please ensure your PS4 system software is up to date. Then, try restoring your licenses: [link to instructions]. If that doesn't work, we can explore other options. Please let us know if these steps help!",
+    "reasoning": "The customer is expressing frustration and has tried basic troubleshooting. Since the conversation is still relatively short (4 messages), a Twitter DM reply is appropriate. The message acknowledges the customer's frustration, provides specific next steps (updating system software and restoring licenses), and offers further assistance if needed. This approach aims to resolve the issue quickly while maintaining a positive customer experience.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116023",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:15:59Z",
+    "message": "@116023 Hi Jean-Claude, we understand how frustrating it is to have an outage, especially when you're looking forward to streaming! Our technicians are working hard to restore service in your area. We'll provide another update in the next hour. Thanks for your patience!",
+    "reasoning": "The customer is experiencing an urgent service disruption, and the conversation is short (4 messages). A quick update via Twitter DM is appropriate to acknowledge their frustration and provide reassurance that the issue is being addressed. Given the urgency, a follow-up update within an hour is reasonable.",
+    "issue_status": "in_progress"
+  },
+  {
+    "customer_id": "116025",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Dear Customer, I understand your frustration with the delayed delivery of your order and the previous damaged product. I sincerely apologize for the inconvenience this has caused. Given the length of this conversation and your continued dissatisfaction, I'd like to personally assist you. I'd like to schedule a call to discuss this further and find a resolution that meets your needs. Please let me know what time works best for you. We value your business and want to make things right.",
+    "reasoning": "The customer has expressed consistently negative sentiment and the conversation has exceeded 7 messages. The customer is clearly frustrated and wants the product, not a refund. A phone call allows for a more direct and empathetic approach to address the customer's concerns and potentially resolve the issue more quickly than continuing over Twitter. This also allows for a more personalized approach to de-escalate the situation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116033",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:08:00Z",
+    "message": "@116033 We're so sorry to hear about the continued frustration with your booking. To ensure everything is correct for your special occasion, could you DM us your booking reference number? We'll investigate immediately and confirm all the details for you.",
+    "reasoning": "The customer is clearly frustrated after multiple calls and is worried about incorrect details for a special occasion. A direct message allows for a private exchange of sensitive information like the booking reference. Given the negative sentiment and the need for quick resolution, a prompt response is crucial. The conversation is short (4 messages), making Twitter DM a suitable channel. The message aims to address the customer's immediate concern by offering to investigate the booking details directly.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116044",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116044 We understand your frustration with the bugs and crashes in Zoo Tycoon: Ultimate Animal Collection. We're sorry for the inconvenience. Could you please DM us with more details about the specific bugs you're encountering (e.g., when they occur, what animals are involved)? This will help us investigate and find a solution. Thanks!",
+    "reasoning": "The customer has reported a technical issue with negative sentiment. Since the conversation is short (4 messages), a twitter_dm_reply is appropriate for gathering more information. Given the negative sentiment and technical nature, sending the reply within 4-6 hours is ideal. The message acknowledges the customer's frustration, apologizes for the inconvenience, and requests specific details to help resolve the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116064",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116064 We're sorry to hear you feel that way. We understand your frustration regarding the Crota Funko Pop launch. We'll be sure to pass your feedback along to the Marketing Team again and advocate for better communication in the future. We appreciate you bringing this to our attention.",
+    "reasoning": "The customer is expressing frustration and disappointment on Twitter. A quick, empathetic response via Twitter DM is the best way to acknowledge their feelings and show that we are listening. Given the conversation length is only 4 messages and the issue is a customer grievance, a twitter_dm_reply is appropriate. The customer has consistently negative sentiment, so a prompt response (1-2 hours) is warranted. The message acknowledges their frustration and assures them that their feedback will be shared again.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116070",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116070 I understand your frustration with the auto-renewal. I'm truly sorry for the confusion and that you feel it was changed without your consent. I've checked your account and see the auto-renewal was indeed turned off. To ensure this doesn't happen again, I've added a note to your account. Could you please confirm if you were charged for a renewal after turning it off? If so, I'll gladly process a refund. - Heather",
+    "reasoning": "The customer is expressing strong negative sentiment regarding a billing issue (auto-renewal). Since the conversation is short (4 messages) and the issue is a billing concern, a direct message on Twitter is appropriate for a quick and empathetic response. The message acknowledges the customer's frustration, confirms their setting, and offers a solution (refund) if they were charged. Given the negative sentiment and billing issue, a quick response is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116073",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116073 I understand your frustration with the no-show installation and long hold times. I'm truly sorry for the inconvenience. I'd like to investigate this immediately. Could you please DM me your account details so I can look into what happened and get this resolved for you? We'll also address the hold music and call center feedback.",
+    "reasoning": "The customer is expressing a grievance on Twitter, and the conversation is short (4 messages). A quick response via Twitter DM is appropriate to acknowledge their frustration and gather more information. Given the negative sentiment and the installation issue, immediate action is needed. Addressing the hold music and call center feedback shows we are listening to all concerns.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116083",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116083 I understand your frustration with not being able to access your account and the Prime charges. I'm very sorry for the trouble. To help resolve this quickly, could you please DM us the email address associated with your Amazon account? We'll look into it right away. ^LH",
+    "reasoning": "The customer is having trouble accessing their account to cancel Prime and is being charged. The conversation is short (4 messages), and the issue is a billing/account access problem. Given the customer's negative sentiment and the need for a quick resolution, a Twitter DM reply is appropriate to gather the necessary information (email address) to investigate. This allows for a more private exchange of account details than a public tweet. The quick response time (1-2 hours) is chosen due to the customer's negative sentiment and the urgency of the billing issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116085",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:46:00Z",
+    "message": "@116085 No worries, I understand the Christmas shopping secrecy! 😉 Yes, you're right. Adding someone to your Amazon Household primarily shares payment methods and digital content. Each adult maintains their own separate account with their own wishlists, order history, and photos. Let me know if you have any other questions!",
+    "reasoning": "The customer is looking for a quick clarification on a relatively simple issue. A Twitter DM reply is the most efficient way to address this. The message confirms their understanding and offers further assistance, addressing their concern about privacy. The sentiment is neutral, so a quick, friendly response is appropriate.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116086",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116086 We're so sorry your order is being dispatched separately! That's definitely frustrating. Let me look into why this happened and see if we can consolidate the shipments or offer a solution. Could you please DM me your order number so I can investigate?",
+    "reasoning": "The customer is clearly frustrated with the multiple dispatches. A quick, empathetic response via Twitter DM is appropriate given the short conversation length and the nature of the issue (order/delivery problem). Asking for the order number allows for immediate investigation and a potential solution. Given the customer's history of negative sentiment, addressing the issue quickly and empathetically is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116091",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:25:00Z",
+    "message": "@116091 I'm so sorry to hear about the counterfeit items and the unhelpful experience you had. That's definitely not the standard we aim for. I've escalated this internally to our specialized team who handle counterfeit issues. They will be reaching out to you directly via DM within the next 24 hours to investigate and resolve this. Please keep an eye out for their message. We appreciate your patience.",
+    "reasoning": "Given the customer's negative sentiment, escalated complaint, and the fact that they've already contacted support with a negative outcome, a quick and empathetic response is crucial. While a phone call might seem appropriate, the customer has already indicated dissatisfaction with phone support. A DM allows for a more direct and personalized approach, acknowledging their frustration and assuring them that the issue is being escalated to a specialized team. The conversation length is also within the limit for Twitter DM. The quick send time is due to the escalated nature and negative sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116098",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116098 We're sorry the update didn't fix the issue with the 'I️' autocorrect. Since it's still happening, let's try some troubleshooting steps. Could you please DM us with the following: 1) Your iPhone model, 2) Your current iOS version (even though you updated), and 3) A screenshot of your keyboard settings? We'll do our best to get this sorted out for you!",
+    "reasoning": "The customer has a technical issue that is not yet resolved after the initial suggestion. Since the conversation is short (4 messages) and the issue seems relatively simple, continuing on Twitter DM is appropriate. Given the customer's negative sentiment and the fact that the initial suggestion didn't work, sending the reply within 4-6 hours is appropriate. The message acknowledges the customer's frustration, asks for specific information to troubleshoot, and assures them that we're working to resolve the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116103",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116103 We sincerely apologize for the delayed response and the ongoing issues with your iPhone 6 after the iOS 11.1 update. We understand your phone app is crashing and battery life has worsened. Since we haven't been able to resolve this via Twitter DM, and given the complexity, we'd like to schedule a call with one of our specialists to troubleshoot this in real-time. Please schedule a convenient time here: [link to scheduling tool]. We appreciate your patience.",
+    "reasoning": "The customer has been waiting for a response for several days and has already sent DMs twice without a reply. The conversation length is also 9 messages, exceeding the threshold for a simple Twitter DM resolution. The customer's negative sentiment and the technical nature of the issue (crashing app, battery drain) necessitate a more direct and interactive approach. Scheduling a phone call allows for real-time troubleshooting and a more personalized experience, increasing the likelihood of resolution. The customer's frequent negative sentiment also suggests a need for immediate and direct attention.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116111",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:30:00Z",
+    "message": "@116111 We understand your frustration with the wait. We've reviewed your DM and are actively working on a solution. We'll provide an update within the next hour. Thanks for your patience.",
+    "reasoning": "The customer is clearly frustrated and has been waiting for a response. Since the conversation is short (5 messages) and the issue seems to be a grievance, a quick reply via Twitter DM is appropriate. Acknowledging their frustration and providing a timeframe for an update addresses their immediate concern and shows empathy. Given the negative sentiment and the fact that they've already sent a DM, a prompt response is crucial.",
+    "issue_status": "in_progress"
+  },
+  {
+    "customer_id": "116127",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T07:47:00Z",
+    "message": "@116127 We understand your frustration with the overcharging issue and apologize for the delay in response. We've received your DM and are looking into it now. We'll update you within the next hour.",
+    "reasoning": "The customer is already communicating via Twitter DM, and the conversation length is short (3 messages). Given the customer's negative sentiment and the nature of the issue (billing), a quick response acknowledging their frustration and promising a prompt update is the best approach. Since the customer has already DM'd, continuing on that channel is most efficient. The customer's frequent negative sentiment suggests a need for a quick and empathetic response.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116145",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi there, I understand your frustration with the damaged bag and the difficulty in filing a claim after leaving the airport. I sincerely apologize for the inconvenience. Since assessing the damage in person is proving difficult, I'd like to offer a phone call to discuss alternative solutions and explore options for compensation. Would you be available for a brief call in the next hour? Please let me know a time that works for you.",
+    "reasoning": "The customer is clearly frustrated and the conversation has reached 8 messages without resolution. Given the customer's consistently negative sentiment and the nature of the problem (damaged luggage), a phone call is the best way to offer personalized assistance and explore alternative solutions beyond the standard airport assessment. This allows for a more empathetic and flexible approach to resolving the issue.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116148",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:33:00Z",
+    "message": "@116148 Hi there! That's definitely a creepy tweet! Is there anything specific happening that made you post this? Are you experiencing any issues with your security system or cameras? Let us know so we can help! *ArynH",
+    "reasoning": "The customer's tweet is unusual and potentially indicates a security concern. Since the conversation is short (2 messages) and the issue is not clearly technical, a quick Twitter reply is appropriate to gauge the situation and offer initial assistance. The message is empathetic and asks clarifying questions to understand the underlying problem. Given the Halloween context and the customer's neutral sentiment history, it's best to start with a lighthearted but concerned approach.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116152",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "Hi there! I understand your frustration with the difficulty you've experienced trying to rejoin T-Mobile. I sincerely apologize for the inconvenience and the time you've spent on this. To ensure we resolve this quickly and efficiently, I'd like to schedule a brief phone call to discuss your situation and explore the best options for you. Please let me know what time works best for you in the next hour. We value you and want to make this right.",
+    "reasoning": "The customer has been trying to resolve this issue for several days and is clearly frustrated. The conversation length is 21 messages, indicating a complex issue that hasn't been resolved through text-based communication. Given the customer's consistently negative sentiment and the complexity of the issue, scheduling a phone call is the best approach to provide personalized support and expedite resolution. A phone call allows for real-time troubleshooting and a more empathetic interaction, which is crucial given the customer's frustration. Offering a call within the next hour addresses the urgency of the situation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116161",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:42:00Z",
+    "message": "@116161 Hi Jennifer, I'm sorry to hear you're having trouble using your travel funds. To help me look into this for you, could you please DM me the confirmation numbers you found? I'll be happy to check their status and see why they might not be working. Thanks!",
+    "reasoning": "The customer is having trouble using their travel funds and has already found the confirmation numbers. Since the conversation is short (4 messages) and the issue is relatively straightforward (checking the status of travel funds), a quick reply via Twitter DM is appropriate. Asking for the confirmation numbers in a DM ensures privacy. The message is empathetic and provides a clear next step for the customer.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116172",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116172 We're so sorry to hear the credit hasn't been applied yet! We understand your frustration. Let's get this sorted out right away. Could you please DM us your account details so we can investigate the status of the credit and ensure it's applied promptly? -CS",
+    "reasoning": "The customer is experiencing a billing issue and has already contacted customer care once. The conversation is short (3 messages), so a Twitter DM is appropriate for a quick follow-up. Given the customer's negative sentiment and the fact that the promised credit hasn't been applied, it's important to respond quickly and empathetically. Requesting account details via DM allows for a private investigation and resolution.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116176",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Desiree, I'm truly sorry to hear about the rude behavior you experienced both on the phone and with the technician. That's not the standard we aim for at @115955. While you mentioned the issue is resolved, I want to ensure your satisfaction. Could you DM me some details about your experience so I can document this and ensure it's addressed with the appropriate teams? We value your feedback.",
+    "reasoning": "The customer has expressed a grievance and is clearly upset. While they state the issue is 'done now,' they are still expressing disappointment and shock. A direct message on Twitter allows for a more private conversation to gather details about the incident. Given the negative sentiment and the need to address the rude behavior, it's important to gather more information to prevent similar incidents in the future. The conversation length is short (5 messages), making Twitter DM appropriate. Acknowledging their frustration and offering to document the issue demonstrates empathy and a commitment to improvement.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116186",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T08:30:00Z",
+    "message": "@116186 We're so sorry to hear about the trouble with your Uber Eats order in Singapore and the unhelpful support experience. We understand your frustration. We've received your DM and are looking into this right away. We'll update you as soon as we have more information.",
+    "reasoning": "The customer is already communicating via Twitter and is clearly frustrated with the Uber Eats support. A quick response via Twitter DM acknowledging their frustration and assuring them that the issue is being investigated is the best course of action. Given the negative sentiment and the fact that the customer has already sent a DM, a prompt response is crucial. The conversation length is short (4 messages), making Twitter DM a suitable channel. The issue is an order problem, which doesn't necessarily require a phone call at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116190",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:29:00Z",
+    "message": "@116190 We understand your frustration about the online ordering being turned off for the Boorito promo. We're so sorry for the inconvenience! While online ordering is unavailable, you can still visit our restaurants to participate in the Boorito promotion. We hope to see you there!",
+    "reasoning": "The customer is expressing frustration on Twitter about the Boorito promo. A quick reply on Twitter acknowledging their frustration and clarifying the situation is the best approach. Given the conversation length is short and the issue is not complex, a Twitter DM is appropriate. Sending the reply within 1-2 hours is ideal to address the customer's immediate concern.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116200",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:26:00Z",
+    "message": "@116200 Hi there! I saw your tweet and wanted to check in. It looks like you're referencing the 'Oh my god Becky' meme in response to our previous tweet. Is there anything specific you'd like to share or any feedback you have for us? We're always happy to hear from our customers!",
+    "reasoning": "The customer's tweet is a reference to a meme in response to the company's reply to another customer. It's unclear if the customer has a specific issue or is just engaging in a lighthearted way. Since the conversation is short (3 messages) and the nature of the support is 'Other', a quick reply on Twitter is appropriate to clarify if there's an underlying issue. Given the customer's history of negative sentiment, starting with a friendly and engaging tone is important. We are trying to understand if there is an issue or not.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116212",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116212 We're so sorry to hear you'll be without internet until Saturday. That's definitely not the experience we want you to have. We'd like to investigate this further. Could you please DM us your account number and a brief summary of the troubleshooting steps you've already taken with the tech on the phone? We'll do our best to expedite a solution.",
+    "reasoning": "The customer is experiencing an urgent service disruption and is clearly frustrated. Given the conversation length is short (5 messages), a Twitter DM reply is appropriate for initial contact. The message acknowledges the customer's frustration, offers assistance, and requests information to investigate further. Since the customer is already on the phone with tech support, escalating immediately might cause confusion. Instead, gathering information via DM allows for a more coordinated approach. The customer's history of negative sentiment and urgent service disruptions necessitates a prompt and empathetic response.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116218",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:30:00Z",
+    "message": "@116218 We understand your frustration. It's odd that one payment went through and another didn't with the same info. To help us investigate further, could you DM us the last four digits of the card and the approximate time of both transactions? We'll look into it right away.",
+    "reasoning": "The customer is frustrated and believes the issue is with the store, not their card. Since the conversation is short (6 messages) and the issue seems relatively simple, a quick response via Twitter DM is appropriate. Asking for specific details allows for a targeted investigation. Given the customer's negative sentiment, a prompt response is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116223",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:30:00Z",
+    "message": "@116222 We understand your frustration regarding the 2XP and weapon unlock. These should automatically be applied to your account upon the game's launch, provided you're using the account that pre-ordered the game. Regarding the early access, we're actively investigating reports of unauthorized access. Thanks for bringing it to our attention!",
+    "reasoning": "The customer has a technical question and is also expressing frustration about early access. A quick response via Twitter DM acknowledging their concerns and providing a clear answer about the pre-order bonuses is appropriate. Addressing the early access issue shows we're listening. Given the conversation length and the nature of the issue, a DM is sufficient for now. The customer's negative sentiment is acknowledged with empathy.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116231",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116231 We understand your frustration and apologize that our initial responses didn't fully address your concern about the scam calls. We're taking this seriously. Could you DM us any additional details about the call you received, such as the time of day and what they specifically asked for? This will help us investigate further and take appropriate action. We appreciate you bringing this to our attention.",
+    "reasoning": "The customer is frustrated with the initial responses and wants the company to take action. Since the conversation length is 8 messages, and the customer has consistently negative sentiment, escalating is a good option. However, before escalating, gathering more information via DM is a good first step. This shows empathy and a willingness to investigate. A DM is appropriate because it's a quick way to gather details without requiring a phone call or email.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116239",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi Simon, I'm very sorry to hear about the discrepancy with the train departure time. I understand your frustration. Since we're having difficulty resolving this via Twitter and you believe the CCTV might hold the answer, I'd like to offer a call to discuss this further and see if we can investigate the CCTV footage. Would you be available for a brief call in the next hour or so? Please let me know what time works best for you.",
+    "reasoning": "The customer is adamant that the train left early and is suggesting CCTV evidence. The conversation is already at 7 messages, indicating a need for escalation. Given the customer's consistently negative sentiment and the potential need to review CCTV footage, a phone call is the best way to address the issue effectively and show empathy. Offering a call within the next hour addresses the urgency implied by the customer's frustration.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116252",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116252 We're so sorry to hear about your experience! That's definitely not the quality we aim for. Could you DM us your order details (location, order time, items ordered) so we can investigate this further and make things right? We want to ensure this doesn't happen again.",
+    "reasoning": "The customer has had a negative experience with their order, and the conversation is still short (3 messages). A quick response via Twitter DM is appropriate to acknowledge their frustration and gather more information to resolve the issue. Given the customer's history of negative sentiment and order problems, addressing the issue promptly and empathetically is crucial. Escalating immediately might be premature, but gathering details allows for a more informed decision on whether escalation is needed later.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116254",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "@116254 That's awesome, Dylan! We're thrilled you're such a loyal Walmart sports equipment shopper. Regarding a sponsorship, we'd love to explore that possibility. Could you DM us some details about your activities and how a sponsorship would benefit both parties? Thanks!",
+    "reasoning": "The customer is now directly asking for a sponsorship. Since the conversation is short (3 messages) and the initial interaction was on Twitter, continuing the conversation via Twitter DM is appropriate. The message acknowledges their loyalty, expresses interest in the sponsorship idea, and requests more information to move forward. This is a non-technical issue and falls under product feedback/customer grievance needing empathy.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116277",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116277 We understand your frustration with the surge pricing. It's never fun to feel like you're paying more for the same service. We appreciate you bringing this to our attention. While surge pricing helps ensure drivers are available during peak demand, we want to make it right. Could you DM us the details of both orders (times and locations) so we can investigate and see if we can offer a partial refund or credit? We value your business!",
+    "reasoning": "The customer is expressing a grievance about surge pricing and has already had a short exchange on Twitter. Given the conversation length (3 messages) and the nature of the issue (customer grievance), a Twitter DM reply is appropriate. The message acknowledges the customer's frustration, explains the purpose of surge pricing, and offers to investigate the specific situation and potentially offer compensation. This shows empathy and a willingness to resolve the issue. Given the customer's history of negative sentiment and grievances, addressing the issue promptly and empathetically is crucial. A phone call is not necessary at this stage, and an email is too formal for this type of quick resolution attempt.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116280",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116280 We understand your frustration with the age requirement. While we can't bypass the rule, we appreciate your feedback. Safety is our top priority, and the age requirement is in place to ensure the safety of all drivers and riders. We'll pass your suggestion along to our team for review. Thanks for your understanding.",
+    "reasoning": "The customer is expressing product feedback with negative sentiment. The conversation is short (6 messages). A twitter_dm_reply is appropriate for this type of issue. The message acknowledges the customer's frustration, explains the reason for the policy, and assures them that their feedback will be considered. Given the customer's consistently negative sentiment, addressing their concern promptly is important.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116281",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-27T00:00:00Z",
+    "message": "Jasmany, I understand your frustration with the delay and the feeling that you're not being heard. I sincerely apologize for the inconvenience this has caused. Given the seriousness of your report and the length of time you've been waiting, I want to personally ensure this is resolved. I'd like to schedule a phone call with you as soon as possible to discuss the situation in detail and get your account back up and running. Please let me know what time works best for you in the next few hours. We take reports of this nature very seriously, and I want to assure you we are committed to resolving this.",
+    "reasoning": "The customer is highly agitated and feels ignored. They have been waiting for 5 days, and the issue involves a serious safety concern (gun in vehicle). The customer has consistently negative sentiment and this is an escalated complaint. A phone call is the best way to address their concerns directly, show empathy, and potentially resolve the issue quickly. Offering a personal touch and direct communication is crucial to de-escalate the situation and build trust. The conversation length is also approaching the threshold where a phone call is recommended.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116282",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116282 We understand your frustration with the unauthorized charges and the account deactivation. We sincerely apologize for the inconvenience and the runaround you've experienced. To clarify, we need you to send the email address or phone number associated with your wife's account via direct message so we can securely verify the account and investigate the charges and deactivation. We'll then follow up with her directly via in-app support. Please send that info via DM.",
+    "reasoning": "The customer is frustrated and has already expressed dissatisfaction with being asked to email. Since the conversation is short (4 messages) and the issue is a billing/account issue, a direct message reply is appropriate to acknowledge their frustration and provide clear instructions on how to proceed. The message emphasizes empathy and provides a clear next step (sending the email/phone number via DM). Given the negative sentiment and the account deactivation, a quicker response is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116296",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:30:00Z",
+    "message": "@116296 We're so sorry to hear about the issue with your LUMIX camera and the delay in repair. That's definitely not the experience we want you to have. We understand your frustration. We're escalating this internally to get a faster resolution. Could you DM us your repair ticket number so we can look into the status immediately? ^KF",
+    "reasoning": "The customer is expressing a grievance on Twitter, and the conversation is short (2 messages). A quick, empathetic response on the same platform is appropriate. Given the negative sentiment and the length of time the camera has been in repair, escalating the issue is the best course of action. Requesting the repair ticket number allows for immediate investigation and demonstrates a commitment to resolving the problem.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116325",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116325 I understand your frustration with the repeated calls and lack of resolution. I sincerely apologize for the inconvenience. Since you've been a valued member since '98, I want to ensure this is resolved. I'd like to schedule a call with a member of our Executive Customer Relations team who can directly address your concerns and find a solution. Would you be available for a brief call tomorrow morning? Please DM me your preferred time and contact number.",
+    "reasoning": "The customer is highly frustrated and has explicitly requested to speak with someone at corporate. The conversation length is already at 11 messages, indicating a need for escalation. Given the customer's consistently negative sentiment and the nature of the escalated complaint, scheduling a phone call with a higher-level representative is the most appropriate action to maximize issue resolution. Offering a call with the Executive Customer Relations team directly addresses the customer's request and demonstrates a commitment to resolving the issue.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116330",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "Hi @116330, we sincerely apologize for the delay and the frustration caused by the security issue and the handling of your father's case. We understand this has cost you over Rs. 1000 and is still causing distress. We saw your direct message and are looking into it immediately. Could you please provide the ticket number or any reference number you have so we can expedite the process? We want to resolve this for you as quickly as possible.",
+    "reasoning": "Given the customer's negative sentiment, escalated complaint, and the fact that they've already sent a direct message, a quick response via Twitter DM is the most appropriate next step. This acknowledges their frustration, shows we're actively looking into the issue, and requests specific information to help resolve it faster. The conversation length is short (3 messages), making Twitter DM suitable. The issue is a security issue, but the immediate need is to acknowledge the customer and gather more information.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116348",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116348 Thanks for confirming! Since the song is greyed out, it might indicate a licensing issue or that the song is no longer available. Could you please tell us the name of the song and the artist? We'll check if there are any known issues. We appreciate your patience!",
+    "reasoning": "The customer has a simple technical issue and has responded promptly. Continuing the conversation on Twitter DM is appropriate as the conversation length is short (4 messages). The message is empathetic and asks for specific information to help resolve the issue. Given the customer's history of negative sentiment, a quick and helpful response is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116349",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T00:48:00Z",
+    "message": "Hi there! I understand you're having trouble with your iPhone 7's signal and that Sprint and the Apple Store weren't able to resolve it. I'm really sorry you've been dealing with this for two weeks and that you were quoted a price for a repair when you believe it's an internal issue. Since this seems complex and you've already tried several solutions, I'd like to schedule a call with one of our senior technicians who can delve deeper into the problem and explore all available options, including warranty coverage. Would you be available for a call in the next hour?",
+    "reasoning": "The customer has a technical issue that has not been resolved after multiple attempts. The conversation length is already at 8 messages, indicating a need for escalation. The customer's sentiment is consistently negative, suggesting frustration and a need for immediate attention. Scheduling a phone call allows for real-time troubleshooting and a more personalized approach to address the customer's concerns and potentially resolve the issue more quickly. Given the customer's negative sentiment and the complexity of the issue, a phone call is the most empathetic and efficient way to proceed. The customer has also indicated they are not willing to pay for a repair, so it is important to address this concern directly and explore all available options.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116355",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-02T05:22:00Z",
+    "message": "@116355 We understand your frustration with the account issues. We're very sorry for the trouble. A specialist is now reviewing your account. Please check your DMs in the next hour for a message from them with specific instructions to resolve this. We appreciate your patience.",
+    "reasoning": "The customer is already communicating via Twitter and has expressed frustration. A quick DM response acknowledging their frustration and informing them that a specialist is looking into the issue is the best course of action. Given the negative sentiment and the fact that the customer has been waiting, a response within 1-2 hours is appropriate. Since the issue is account related and requires a specialist, escalating the issue is the next logical step.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116356",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "Hi @116356, we sincerely apologize for the delay and the inedible food you received. We understand your frustration. We've reviewed your DM and are processing a full refund of £18. You should see it reflected in your account within 3-5 business days. Please let us know if you have any further questions.",
+    "reasoning": "The customer is clearly frustrated and has been waiting for a resolution. Since the conversation is relatively short (6 messages) and the issue is a straightforward order problem, a direct message on Twitter is appropriate. The message acknowledges the customer's frustration, confirms the refund, and provides a timeframe. Given the customer's negative sentiment and the fact that they've already expressed dissatisfaction with the initial response, a quick resolution is crucial.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116362",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T09:00:00Z",
+    "message": "Hi Stephen, I'm very sorry for the frustrating experience you had at our Haddington store. I understand your concern about the pricing discrepancy and the conflicting information you received. Given the length of this conversation and the continued frustration, I'd like to personally discuss this with you to ensure we resolve this properly. Would you be available for a brief call in the next hour? Please let me know a time that works best for you.",
+    "reasoning": "The customer has expressed significant frustration over multiple messages. The conversation length is already at 12 messages, indicating a need for a more direct and personal approach. Given the customer's negative sentiment and the complexity of the issue (pricing discrepancy, conflicting information from staff), a phone call is the most effective way to understand the situation fully and offer a satisfactory resolution. Scheduling a call shows a commitment to resolving the issue and allows for a more nuanced conversation than text-based communication.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116390",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T03:00:00Z",
+    "message": "@116390 We're so sorry to hear about the fine your Uber received! That sounds incredibly frustrating. We've received your DM and are looking into this right away. We'll be in touch shortly with an update.",
+    "reasoning": "The customer's initial tweet expresses frustration and amusement at the situation. The company already requested a DM, and the customer has provided it (implied by the 'Beef^^' reply). Responding via Twitter DM is appropriate for this short conversation and allows for a quick, empathetic response. Given the customer's history of negative sentiment, a prompt response is crucial. The issue is not complex enough to warrant a phone call at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116393",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116393 Hi Daniel, we understand your frustration with the playlist idea being closed. We're sorry the previous suggestion didn't work out. We've flagged your feedback about the 'add to multiple playlists' feature and the closed idea to our product team for further review. We appreciate you taking the time to share your thoughts! /RB",
+    "reasoning": "The customer is expressing frustration with the community forum process. Since the conversation is already on Twitter and the issue is product feedback, a Twitter reply is appropriate. The message acknowledges the customer's frustration and assures them that their feedback has been passed on. Given the customer's negative sentiment and the length of the conversation, sending the reply within 1-2 hours is best.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116397",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T09:32:00Z",
+    "message": "Hi Maggie, I understand your frustration with the unexpected call charge. I'm sorry for the miscommunication regarding the call rate. To resolve this quickly and ensure you're fairly compensated, I'd like to schedule a brief call with you. Please let me know what time works best for you in the next few hours. We can discuss a refund for the call charge and address any other concerns you may have.",
+    "reasoning": "Given the customer's negative sentiment, the billing dispute, and the conversation length (8 messages), a phone call is the best approach. It allows for a more personal and efficient resolution. The customer has expressed frustration and a direct conversation will allow for empathy and a quicker resolution than continuing over Twitter. Scheduling the call ensures the customer feels heard and valued.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116409",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116409 I understand your frustration with the repeated outages. Since you've already spoken with our team and the issue persists, I'd like to schedule a call with a senior technician who can investigate the area outage more thoroughly and provide a more personalized solution. Please DM me your phone number and a convenient time for them to call you back within the next hour. We want to get this resolved for you ASAP.",
+    "reasoning": "The customer is experiencing an urgent service disruption and has already contacted support without resolution. The conversation is at 5 messages, and the customer's sentiment is consistently negative. Given the urgency, the repeated outages, and the previous unsuccessful attempts to resolve the issue, scheduling a phone call with a senior technician is the best course of action. This allows for a more in-depth investigation and personalized solution. The message acknowledges the customer's frustration and provides a clear next step.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116410",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T02:30:00Z",
+    "message": "Hi @116410, thanks for the feedback regarding gigabit internet and upload speeds. I understand your frustration with the current upload speeds. I've forwarded your comments to our product development team. We appreciate you sharing your experience and will keep you updated on any progress. Is there anything else I can help you with?",
+    "reasoning": "The customer is expressing product feedback and frustration on Twitter. A quick, empathetic response on the same channel is appropriate. Given the negative sentiment and the desire for gigabit internet, escalating the feedback to the product team and acknowledging the frustration is important. The conversation length is short (3 messages), making Twitter DM a suitable channel. Sending the message within 1-2 hours is important due to the negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116415",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "Hi @116415, we're so sorry to hear about the disruptive experience on your flight. We understand how frustrating that must be, especially on a long journey. Since we can't directly resolve this mid-flight via Twitter, and you've been dealing with this for hours, we'd like to offer a more direct line of support. Could we schedule a quick call to discuss potential compensation or future travel arrangements to make up for this? Please let us know a time that works for you. We appreciate your patience.",
+    "reasoning": "The customer has been experiencing a significant disruption for an extended period (conversation length is 16 messages). Their sentiment is consistently negative, and they are expressing a grievance. While we cannot resolve the in-flight issue directly, scheduling a phone call allows for a more personalized and empathetic approach to address their concerns and explore potential solutions like compensation or future travel arrangements. This proactive approach is more likely to lead to issue resolution given the circumstances and the customer's negative sentiment pattern. A direct message would not be sufficient to address the level of frustration and the need for potential compensation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116420",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116420 We sincerely apologize for the delayed response and the frustration caused by the issues you experienced during your honeymoon. We understand how important this trip was. We've received your DM and are looking into your case now. We'll update you as soon as possible.",
+    "reasoning": "The customer is expressing a grievance on Twitter and has already sent a DM as requested. Responding via Twitter DM is the most appropriate channel to acknowledge their frustration and assure them that their case is being investigated. Given the negative sentiment and the length of time the customer has been waiting, a quick response is crucial. The message acknowledges their frustration, confirms receipt of the DM, and sets the expectation for an update.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116432",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "Hi @116430! Thanks for the Halloween wishes! Regarding the teddy bear as a personal item, generally, if it can fit under the seat or in the overhead bin, it's considered a personal item. However, it's always best to check with a gate agent before boarding to be sure! Let us know if you have any other questions! ^VM",
+    "reasoning": "The customer is asking a simple question about a personal item. Given the short conversation length (6 messages) and the non-technical nature of the question, a quick reply via Twitter DM is appropriate. The customer's sentiment is positive, so a friendly and helpful response is suitable. The response directly addresses the question and provides a helpful suggestion to check with a gate agent.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116435",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:13:00Z",
+    "message": "Ben, I understand your frustration with the drink coupons and the previous experience. I'm truly sorry for the inconvenience and the insensitive offer. Since closing your account doesn't fully address your concerns, and given the length of this conversation and your continued dissatisfaction, I'd like to schedule a brief phone call to discuss this further and see how we can make things right. Would you be available for a quick call in the next hour?",
+    "reasoning": "The customer is highly dissatisfied and has expressed strong negative sentiment throughout the conversation. The conversation length is already at 8 messages, indicating a need for escalation. The customer's primary issue is a grievance, and given the sensitivity of the situation (sobriety), a phone call allows for a more empathetic and personalized approach to understand the full extent of the issue and offer appropriate compensation or resolution. Offering cash as a solution indicates a desire for compensation, which is best handled through a direct conversation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116442",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:30:00Z",
+    "message": "Hi @116442, we understand your frustration about the lack of profile selection on Smart TVs. We know it's important for households that share devices. While we don't have an immediate update, we've shared your feedback with the product team again. We appreciate you letting us know what features are important to you!",
+    "reasoning": "The customer's sentiment is negative and the support type is product feedback. The conversation length is short (2 messages). Given this, a quick, empathetic response via Twitter DM is appropriate. Acknowledging their frustration and reiterating that their feedback has been shared is the best approach. Since the issue is product feedback and not a technical problem, a phone call or email is not necessary at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116445",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116445 We sincerely apologize for the data issues you and your brother are experiencing. We understand how frustrating that can be. We've received your DM and will look into this right away. We'll need some account information to troubleshoot. Please provide your account number and the zip code where you're experiencing the issue in the DM. -AA",
+    "reasoning": "The customer has a simple technical issue and has already sent a DM. Responding via Twitter DM is the most efficient way to continue the conversation. Given the negative sentiment and the fact that the customer is waiting, a response within 4-6 hours is appropriate. The message acknowledges the customer's frustration, confirms receipt of the DM, and provides clear instructions on what information is needed to proceed with troubleshooting.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116446",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116446 We're truly sorry you feel that way. We value your business and want to understand what happened with @115714. Could you please share more details via DM so we can address your concerns and work towards a resolution? -DD",
+    "reasoning": "The customer is expressing a grievance on Twitter and has a history of negative sentiment. A quick, empathetic response via Twitter DM is appropriate to acknowledge their frustration and attempt to gather more information. Given the conversation length is short (5 messages), and the issue is a grievance, Twitter DM is suitable. Sending it within 1-2 hours is important due to the negative sentiment and the customer threatening to leave.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116451",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116451 We understand your frustration with the service at SFO. We're sorry to hear the gate agents weren't helpful. Could you please DM us your confirmation number and flight details so we can look into this further and address your concerns as a Gold Member? *AFC",
+    "reasoning": "The customer expressed a grievance on Twitter, and the conversation is short (5 messages). A Twitter DM reply is appropriate for this situation. The message acknowledges the customer's frustration, apologizes for the poor service, and requests the necessary information to investigate the issue. Given the customer's negative sentiment and Gold Member status, a prompt response is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116460",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T00:30:00Z",
+    "message": "@116460 Thanks for sending over your confirmation number! We're looking into your seat change now and will let you know what we find. We understand how frustrating it is to lose your preferred aisle seat.",
+    "reasoning": "The customer has already provided the confirmation number via DM. Since the issue is a simple seat change and the conversation is short (3 messages), continuing the conversation on Twitter DM is the most efficient way to resolve the issue. The message acknowledges the customer's frustration and sets expectations for the next steps.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116469",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116469 Kelli, we sincerely apologize for the frustrating experience. It's unacceptable that you were charged to change flights and then told you 'voluntarily separated' from your luggage. This is not the service we aim to provide, especially to a loyal customer like you. To resolve this quickly, could you DM us your baggage claim number and flight details? We want to investigate this immediately and ensure your bag is delivered and the $75 charge is refunded. We value your business and want to make things right.",
+    "reasoning": "The customer is highly frustrated and has been a loyal customer for over 10 years. A quick response acknowledging their frustration and offering a concrete solution (investigating the issue, delivering the bag, and refunding the charge) is crucial. Given the conversation length (4 messages) and the need for a quick resolution, a Twitter DM is the most appropriate channel. The customer is already on Twitter, and a DM allows for a more private exchange of sensitive information like baggage claim number and flight details. The send time is within 1-2 hours to address the urgency of the situation and the customer's negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116476",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T00:30:00Z",
+    "message": "@116476 Holly, we sincerely apologize for the continued delay and frustration. We understand waiting at the gate is incredibly inconvenient. We're working to confirm the catering situation and will provide an update within the next 30 minutes. In the meantime, we've added a travel voucher to your Delta account as compensation for the delay. Please check your email for details. We appreciate your patience.",
+    "reasoning": "The customer is expressing frustration on Twitter about a flight delay. Given the conversation length is short (4 messages) and the issue is a delivery problem, a quick response on Twitter is appropriate. The message acknowledges the customer's frustration, provides a concrete update (catering confirmation), and offers a tangible solution (travel voucher). Addressing the issue promptly and offering compensation can help de-escalate the situation. Given the customer's history of negative sentiment and order/delivery problems, proactive compensation is a good strategy.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116483",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "Hey there! Saw your tweet about what you'd do for $3 at Chipotle. While we can't offer cash, we'd love to offer you a free chips and guac with your next entree purchase! DM us and we'll send you a code. Enjoy!",
+    "reasoning": "The customer's tweet is lighthearted and seems to be in jest. A quick, playful response on Twitter is appropriate. Offering a small incentive like free chips and guac aligns with the $3 mentioned and addresses the customer's implied desire for value. The customer's sentiment is neutral, and the support type is 'Other,' suggesting a general inquiry rather than a specific problem. A direct message is suitable for providing the code and keeping the interaction private.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116500",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "@116500 Haha! That's quite the Halloween story! We're glad your grandma's 'pregnancy scare' was temporary. Hope she still enjoyed her $3 burrito (or will soon!). Let us know if there's anything else we can help with!",
+    "reasoning": "The customer shared a humorous anecdote about their grandmother and Chipotle's Halloween promotion. The sentiment is neutral, and the conversation is short (3 messages). A quick, lighthearted reply via Twitter is appropriate to acknowledge the story and maintain a positive brand image. The issue is not a grievance requiring resolution, but rather a funny story shared with the brand.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116512",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T05:00:00Z",
+    "message": "@116512 Hey Danny, thanks for reaching out! I understand your concern about pre-downloading WW2. To confirm, the pre-load usually starts 48 hours before the release. However, sometimes there can be delays. Could you please confirm the exact release date you're seeing and the time zone you're in? This will help me check if everything is working as expected. Thanks for your patience!",
+    "reasoning": "The customer is expressing doubt about the information provided. Since the conversation is short (4 messages) and the issue is relatively simple (pre-download availability), a quick response via Twitter DM is appropriate. The message acknowledges the customer's concern, reiterates the general rule, and asks for specific details to verify the situation. Given the customer's history of negative sentiment, a prompt and empathetic response is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116524",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116524 We understand your frustration regarding the case sensitivity issue. We apologize for the misinformation and any inconvenience this may have caused. We're looking into this discrepancy immediately to ensure accurate information is provided going forward. Could you DM us the specific details of your login attempts (without revealing your actual password) so we can investigate further? We appreciate you bringing this to our attention.",
+    "reasoning": "The customer is clearly frustrated and has provided evidence of a known issue. A quick response acknowledging the problem and apologizing for the misinformation is necessary. Since the conversation is short and the customer is actively engaged on Twitter, a direct message reply is the most appropriate channel. Asking for details via DM allows for a more private investigation of the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116527",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116527 We understand your frustration with the previous customer service interactions. We're sorry your issue hasn't been resolved yet. We've reviewed your case and want to help. Could you please provide your order number or any relevant details in a DM so we can investigate further and find a solution for you? We appreciate your patience.",
+    "reasoning": "The customer has already contacted customer service multiple times and is clearly frustrated. Since the conversation length is short (3 messages), a Twitter DM reply is appropriate to acknowledge their frustration and attempt to gather more information quickly. Given their negative sentiment and escalated complaint history, addressing the issue promptly is crucial. Providing a personalized message acknowledging their previous attempts and expressing a desire to help can improve their perception of the company's responsiveness.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116529",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116529 I understand your frustration in trying to find this bedding set for your nursery. While it's still showing as active, it can be difficult to track down specific items with limited stock. I've escalated this to our product sourcing team to see if they can provide any further insight into potential restocks or alternative options. I'll update you as soon as I have more information. In the meantime, you can also try setting up in-stock alerts on Target.com for the DPCI 030-02-8711. We appreciate your patience!",
+    "reasoning": "The customer is clearly frustrated and has already tried multiple avenues to find the product. A quick, empathetic response acknowledging their frustration and indicating that the issue has been escalated to a specialized team is the best approach. Providing a concrete next step (setting up in-stock alerts) gives the customer something to do while waiting for a resolution. Given the conversation length and the nature of the issue (product availability), a Twitter DM is appropriate. The customer's negative sentiment warrants a relatively quick response.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116535",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T04:13:00Z",
+    "message": "Hi Danaan, thanks for the follow-up question! Smart Sync is enabled on Business accounts. Since you just upgraded your personal account, this feature won't be available. You can learn more about the features available on different Dropbox plans here: [link to Dropbox plan comparison]. Let us know if you have any other questions!",
+    "reasoning": "The customer has a simple follow-up question regarding a feature. Since the conversation is already on Twitter and the issue is not complex, a quick reply via Twitter DM is appropriate. The message explains why Smart Sync is not available and provides a link for more information, addressing the customer's question directly. Given the customer's generally positive sentiment and the straightforward nature of the question, a quick and informative response is likely to resolve the issue.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116545",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116545 We understand your frustration. It's tricky when you can't easily manage a family member's account. Since your mum doesn't have Twitter, could you DM us the account gamertag and the email address associated with it? We can then explore alternative verification methods to assist you. We'll do our best to help!",
+    "reasoning": "The customer is frustrated and needs help with an account issue. The conversation is short (3 messages), so a Twitter DM is appropriate. The message acknowledges the customer's frustration and offers a concrete next step (providing account details) to explore alternative verification methods. Given the customer's negative sentiment, a quick response is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116546",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "@116546 Apologies for the confusion regarding the game preview! It can be a bit tricky. To clarify, you don't need to sign up for anything special to pre-order. Just follow the UK link you found. If you're still having trouble, let us know exactly what's happening when you try to order, and we'll guide you through it.",
+    "reasoning": "The customer is still confused about the game preview jargon. Since the conversation is short (6 messages) and the issue is relatively simple (clarifying pre-order process), a quick reply via Twitter DM is appropriate. The message acknowledges the customer's confusion, reassures them about the pre-order process, and offers further assistance if needed. This aligns with the customer's neutral sentiment and typical pattern of raising simple technical issues.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116565",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:31:00Z",
+    "message": "@116565 Liam, we understand your frustration with the lack of seatback screens. We're sorry this impacted your flight experience. While we're focusing on Wi-Fi streaming, we appreciate your feedback about the preference for screens and the neck strain concern. We'll be sure to pass this along to our team for consideration in future upgrades. Is there anything else we can assist you with?",
+    "reasoning": "The customer is expressing a grievance on Twitter, and the conversation is short (4 messages). A quick, empathetic response on the same channel is appropriate. The message acknowledges the customer's frustration, reiterates the current plan, and assures them their feedback is being heard. It also opens the door for further assistance, which could lead to resolution or further understanding of the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116567",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:22:00Z",
+    "message": "Perla, we're so sorry to hear about your negative experience on flight 914. That's definitely not the level of service we aim to provide. Could you please DM us with your booking reference or ticket number so we can look into this further and try to make things right?",
+    "reasoning": "The customer expressed a grievance on Twitter. Given the short conversation length (2 messages) and the nature of the complaint (customer service experience), a direct message reply on Twitter is appropriate. The message acknowledges the customer's frustration, expresses empathy, and requests further information to investigate the issue. Given the customer's history of negative sentiment and grievances, addressing the issue promptly is important.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116568",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116568 We understand your frustration with the multiple delays for flight 301. We sincerely apologize for the inconvenience. The delays are due to ongoing maintenance. We're working to get you updates as quickly as possible. The latest estimate is 11:15 PM, but we recommend continuing to monitor the app and gate information for the most up-to-date details. We'll also keep you posted here if we receive any new information.",
+    "reasoning": "The customer is experiencing an urgent service disruption and is expressing frustration with the changing delay times. Since the conversation is still relatively short (6 messages) and the issue is a flight delay, a Twitter reply is appropriate. The message acknowledges the customer's frustration, provides the latest information, and sets expectations for continued monitoring. Given the customer's negative sentiment and the urgent nature of the issue, a response within 1-2 hours is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116569",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T01:39:00Z",
+    "message": "Andrew, I understand your frustration with the delays and the perceived misinformation regarding flight 609. I sincerely apologize for the inconvenience this has caused you and your family. Given the complexity of the situation and your repeated negative experiences, I'd like to personally connect you with a member of our Customer Relations team who can investigate this further and explore options to make things right. Would you be available for a brief phone call in the next hour? Please let me know a time that works best for you.",
+    "reasoning": "The customer has expressed significant frustration and has a history of negative experiences with the airline. The conversation has exceeded 7 messages, indicating a need for more direct and personalized communication. Scheduling a phone call allows for a more empathetic and efficient resolution process, enabling a deeper understanding of the customer's concerns and facilitating a more tailored solution. Given the escalated nature of the complaint and the customer's consistently negative sentiment, a phone call is the most appropriate channel to address the issue effectively and demonstrate a commitment to resolving their concerns.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116571",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-29T01:00:00Z",
+    "message": "@116571 We sincerely apologize that you feel your concerns weren't adequately addressed. We understand your frustration regarding the incident on flight AA1792 and the lack of immediate action. We're escalating this internally for a more thorough review and will provide you with an update within 24 hours. We take such matters very seriously.",
+    "reasoning": "The customer is expressing significant frustration and feels ignored. Given the conversation length (5 messages) and the nature of the grievance, a direct message on Twitter is appropriate for a quick, empathetic response. The message acknowledges their frustration, reiterates that the issue is being escalated, and sets a clear expectation for a follow-up within 24 hours. This addresses the customer's immediate concern and demonstrates that their complaint is being taken seriously. Given the customer's consistently negative sentiment and grievance-based support history, a prompt and empathetic response is crucial.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116576",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116576 We sincerely apologize that our previous response missed the mark and added to your frustration. We understand your concern about oversight and organization. Could you please provide more details about the specific issue you're experiencing so we can address it properly? We want to make things right.",
+    "reasoning": "The customer is clearly frustrated with the initial response and feels ignored. A direct message on Twitter allows for a quick and empathetic response. The message acknowledges the previous error, validates the customer's feelings, and asks for specific details to understand the issue better. Given the conversation length is only 3 messages, and the issue is a customer grievance, twitter_dm_reply is appropriate. A send time of 1-2 hours is chosen to address the customer's frustration promptly.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116577",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "Nick, I understand your frustration regarding the dog in the cabin and the perceived inconsistency with the baggage policy. I sincerely apologize for the inconvenience and any discomfort this caused you and your wife. Given the details and the number of messages exchanged, it would be best to discuss this further over the phone to fully understand the situation and explore possible resolutions. Would you be available for a brief call in the next hour? Please let me know a time that works for you.",
+    "reasoning": "The customer has expressed significant frustration and has sent multiple messages detailing their grievance. The conversation length is already at 7 messages. Given the customer's consistently negative sentiment and the nature of the complaint (policy inconsistency and perceived unfairness), a phone call is the most effective way to address their concerns, offer a personalized apology, and potentially offer compensation or explain the policy in detail. A phone call allows for real-time clarification and de-escalation, which is crucial given the customer's negative sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116591",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T01:39:00Z",
+    "message": "Hi @116591, I understand your frustration with the repeated outages. Seven times this month is definitely not the experience we want you to have. Since the area outage is being worked on, and you've experienced this repeatedly, I'd like to schedule a call with a specialist to investigate the root cause and explore potential solutions to prevent this from happening again. Would you be available for a brief call in the next hour? Please DM me your phone number and a convenient time.",
+    "reasoning": "The customer has experienced 7 outages this month, indicating a recurring and potentially complex issue. The conversation length is already at 13 messages, suggesting that text-based troubleshooting is insufficient. The customer's sentiment is negative, and they have a history of urgent service disruptions. Given these factors, scheduling a phone call with a specialist is the best course of action to provide personalized support and address the underlying problem effectively. A phone call allows for real-time troubleshooting and a more in-depth investigation than text-based communication. Offering a call within the next hour addresses the urgency of the situation and acknowledges the customer's frustration.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116606",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:15:00Z",
+    "message": "Hi @116606, I'm so sorry to hear about the trouble with your delivery. It's frustrating when things don't go as planned. I see you've already shared the tracking link. I'm going to take a look into this right away and see what's causing the delay and why there was a discrepancy in the delivery information. I'll update you as soon as I have more information. Thanks for your patience.",
+    "reasoning": "The customer is already communicating on Twitter, and the conversation is short (3 messages). The issue is a delivery problem, which can often be resolved with a quick investigation. Given the customer's negative sentiment and the nature of the problem, a prompt and empathetic response on the same channel is the best approach. Acknowledging their frustration and promising to investigate immediately is crucial. The send time is within 1-2 hours to address the urgency implied by the negative sentiment and delivery issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116610",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116610 Thanks for completing the form and emailing us. We're very sorry for the confusion regarding the free delivery eligibility. We're looking into your case right now and will update you as soon as possible. We appreciate your patience.",
+    "reasoning": "The customer has already submitted the form and emailed the company, indicating they are willing to provide more details. Since the conversation is still relatively short (5 messages) and the issue is related to order/delivery, a quick update via Twitter DM is appropriate to acknowledge their submission and reassure them that the issue is being investigated. Given the customer's negative sentiment and the nature of the problem, a prompt response is crucial.",
+    "issue_status": "in_progress"
+  },
+  {
+    "customer_id": "116617",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi @116617, I understand your frustration with the video issues and the language barrier. I apologize for the inconvenience. Since troubleshooting via Twitter is proving difficult, and changing the language settings is an obstacle for you, I'd like to offer a direct phone call to resolve this quickly. Would you be available for a brief call in the next hour? Please let me know a time that works for you, and I'll arrange for a support agent who speaks your preferred language to call you directly.",
+    "reasoning": "The customer is experiencing a technical issue and has expressed frustration. The conversation has exceeded 7 messages, indicating a need for a more direct approach. The customer also mentioned a language barrier, which makes phone support with a language-appropriate agent the best option. Given the consistently negative sentiment and the length of the conversation, a phone call is the most efficient way to resolve the issue and show empathy.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116632",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116632 We understand your frustration with your My Choice account. We received your DM and are looking into it now. We'll get back to you shortly with an update. Thanks for your patience!",
+    "reasoning": "The customer has already DM'd UPSHelp, indicating a preference for that channel. The issue is an account issue, and the conversation is short (3 messages). Given the customer's history of negative sentiment, a quick and empathetic response is crucial. Acknowledging receipt of the DM and promising a prompt update addresses the customer's immediate need and shows that their issue is being taken seriously.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116634",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:26:00Z",
+    "message": "@116634 We sincerely apologize for the continued booking issues and the delay in our response. We understand this is urgent and frustrating. To resolve this quickly, we'd like to call you directly. Please reply to this DM with your phone number and a convenient time for us to call within the next hour. We'll do our best to get you on your way ASAP.",
+    "reasoning": "The customer is experiencing an urgent service disruption and has expressed significant frustration. The conversation has already reached 6 messages with no resolution. Given the urgency and the customer's consistently negative sentiment, a phone call is the most effective way to address the issue promptly and provide personalized support. Escalating to a phone call demonstrates empathy and a commitment to resolving the problem quickly.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116641",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:21:00Z",
+    "message": "@116641 We're so sorry to hear about the horrifying experience you had with driver Suresh. That's completely unacceptable. We're escalating this immediately to our support team for investigation and appropriate action. We'll keep you updated on the progress. Could you please DM us your booking ID so we can investigate further?",
+    "reasoning": "Given the customer's negative sentiment and the nature of the grievance (driver misconduct), a quick and empathetic response is crucial. Since the conversation is short (2 messages), a Twitter DM is appropriate for initial contact. The message acknowledges the issue, expresses empathy, and promises immediate action. Requesting the booking ID allows for further investigation. The customer's history of negative sentiment and grievances suggests prioritizing a swift and empathetic response.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116642",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116642 We understand your frustration with not receiving your facturas for your tax report. We apologize for the inconvenience. It seems there might be some confusion about the link we provided. Could you please confirm if you are trying to retrieve facturas as a user (rider) or as a driver/partner? Knowing this will help us direct you to the correct support channel. Thanks!",
+    "reasoning": "The customer is frustrated and needs their facturas urgently for tax purposes. The conversation is short (4 messages), so a Twitter DM reply is appropriate. The customer also indicated confusion about the previous link provided, so clarifying their user status (rider vs. driver) is crucial before providing further instructions. Given the negative sentiment and the need for clarification, a quick response is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116652",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116652 We understand you're still experiencing issues despite the initial network check. Since the tracert points to a potential problem within the Blizzard network, and multiple players are affected, let's schedule a quick call to discuss this further and explore potential workarounds or gather more details to escalate to the appropriate teams. Would you be available in the next hour?",
+    "reasoning": "The conversation has exceeded 7 messages, indicating a need for more direct interaction. The customer has explicitly stated the issue persists for multiple players, suggesting a broader problem that requires a more in-depth investigation than can be easily handled via Twitter. Scheduling a call allows for real-time troubleshooting and potentially faster resolution. Given the urgent nature of the service disruption, a call within the next hour is appropriate.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116654",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116654 Thanks for sending the tracert results! To help us investigate further, could you please DM us your Battle.net account email address? We'll take a look and see what's going on. ^NHP",
+    "reasoning": "The customer has provided the tracert results as requested. Since the issue is account/login related and the conversation is still relatively short (6 messages), continuing the troubleshooting via Twitter DM is appropriate. Requesting the account email address allows for a more in-depth investigation. The sentiment is neutral, so a straightforward approach is suitable. Sending the message within the hour is reasonable as the customer is actively engaged in troubleshooting.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116657",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "Hi @116656, we understand you're experiencing connectivity issues with WoW on Verizon FIOS in the Northeast US. We're seeing similar reports and have alerted our network team to investigate. Could you please provide your general location (city/state) in DM so we can better track the impact? We appreciate your patience!",
+    "reasoning": "The customer has already DM'd VerizonSupport, so a reply via Twitter DM is appropriate. The issue is an urgent service disruption affecting multiple users, so acknowledging the problem and informing the customer that the network team is investigating is crucial. Requesting location helps in pinpointing the issue. Given the urgency, a response within the 1-2 hour window is necessary.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116661",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T03:46:55Z",
+    "message": "@116661 We sincerely apologize for the continued trouble with channel 506 guide data. It's been weeks, and our previous information was clearly incorrect. To resolve this quickly, could we schedule a brief phone call to troubleshoot further? Please let us know a convenient time. We want to get this fixed for you.",
+    "reasoning": "The conversation has exceeded 7 messages, indicating the issue is not easily resolved via Twitter. The customer's persistent negative sentiment and the technical nature of the problem suggest a phone call is the most efficient way to gather more information and potentially resolve the issue in real-time. Acknowledging the previous incorrect information and apologizing for the inconvenience is crucial to address the customer's frustration.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116668",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-25T09:00:00Z",
+    "message": "Hi Kevin, I understand your frustration with the delayed baggage and the difficulty in getting updates from Kuwait Airways. I sincerely apologize for the inconvenience and the runaround you've experienced. Given the length of this conversation and the lack of resolution, I'd like to schedule a phone call to discuss this further and see what we can do on our end to assist, even if it's just providing documentation or escalating internally. Please let me know what time today works best for you. We value your business and want to help resolve this.",
+    "reasoning": "The customer is highly frustrated and has been dealing with this issue for a long time (conversation length is 23 messages). The customer has consistently negative sentiment. While the responsibility technically lies with Kuwait Airways, the customer's initial contract was with British Airways, and they are clearly dissatisfied with the level of support received. A phone call allows for a more direct and empathetic approach to understand the situation fully and explore all possible avenues for assistance, including internal escalation or providing documentation to support the customer's claim with Kuwait Airways. Escalating to a phone call is appropriate given the conversation length and customer sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116674",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T04:00:00Z",
+    "message": "Hi @116674, thanks for the DM! I understand you're having trouble accessing On Demand content despite having premium channels. I'm sorry for the inconvenience. To help me troubleshoot, could you please confirm your account number and the specific program you're trying to watch? -LT",
+    "reasoning": "The customer has already sent a DM, so replying via Twitter DM is the most appropriate channel. The issue is a technical one, but likely simple to resolve with a few clarifying questions. Given the customer's history of negative sentiment, acknowledging the inconvenience and providing clear next steps is important. Sending the reply within 4-6 hours is appropriate for a standard negative sentiment technical issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116692",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-21T01:00:00Z",
+    "message": "@116691 We sincerely apologize for the delay and any frustration this has caused. We see you're still experiencing crashes after the updates. Could you please DM us with your PC specs (CPU, GPU, RAM, OS) and the DirectX error message you're receiving? This will help us investigate further. We appreciate your patience!",
+    "reasoning": "The customer is clearly frustrated and has been waiting for a response. Given the technical nature of the issue (DirectX crashes), gathering specific system information is crucial for troubleshooting. A Twitter DM is appropriate for this initial data collection step, allowing for a quick exchange of information. The message acknowledges the customer's frustration and provides clear instructions for the next step.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116692",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116692 We're so sorry for the delay and the trouble you're having with WWII! Missing attachments and blank lobbies are definitely frustrating. We'd like to help. Could you DM us your gamertag/PSN ID and platform (PS4/Xbox/PC) so we can investigate? ^RK",
+    "reasoning": "The customer is experiencing a technical issue that seems relatively straightforward to troubleshoot. Given the short conversation length and the customer's impatience (indicated by 'HELP ME HELLO??'), a quick response via Twitter DM is appropriate. The message acknowledges their frustration, apologizes for the delay, and requests specific information needed to investigate the issue. This approach aims to resolve the issue quickly and efficiently.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116697",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-20T02:00:00Z",
+    "message": "Hi @116697, we understand your frustration regarding the leaderboard issue and the delayed response. We sincerely apologize for the wait. We're actively investigating reports of potential boosting and its impact on rankings. To help us expedite the process, could you please DM us specific examples of players you suspect are boosting, including their in-game names and approximate match times? This will allow our team to investigate more efficiently. Thanks for your patience!",
+    "reasoning": "The customer is clearly frustrated and has been tweeting repeatedly. A quick response via Twitter DM is appropriate to acknowledge their frustration and provide a clear next step (providing specific examples). Given the conversation length is only 5 messages, and the issue is a grievance needing empathy, twitter_dm_reply is the best channel. Sending within 1-2 hours is important due to the customer's repeated tweets and negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116717",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "@116717 We're sorry for the confusion and frustration! It seems there was an error in the previous message. Could you please clarify what issue you're experiencing so we can assist you properly? -KK",
+    "reasoning": "The customer's initial tweet indicates frustration, and their follow-up tweet suggests the company's response was irrelevant. Given the short conversation length and the need to understand the actual issue, a quick Twitter DM reply is appropriate to acknowledge the error, apologize, and request clarification. The customer's frequent negative sentiment suggests addressing their concerns promptly and empathetically is crucial. Since the support type is 'Other', we need to gather more information before escalating or choosing a more specific channel.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116722",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:58:00Z",
+    "message": "@116722 We understand your frustration regarding the chip charge. While our tortillas are fresh, they are not made by hand in our restaurants like our chips are, which contributes to the difference in cost. We appreciate your feedback and will share it with our team. Is there anything else we can assist you with?",
+    "reasoning": "The customer is expressing a grievance on Twitter. The conversation is relatively short (9 messages), making a Twitter reply appropriate. The message acknowledges the customer's frustration, explains the reasoning behind the charge, and offers to share the feedback. It also ends with a question to see if there's anything else the customer needs, keeping the conversation open for resolution.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116733",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-27T01:30:00Z",
+    "message": "Hi @116733, I understand your frustration with the update failure and error codes. I apologize that the previous steps haven't resolved the issue. Since we've tried a few troubleshooting steps already, and the problem persists, I'd like to schedule a quick phone call to discuss this further and potentially try some more advanced solutions. Would you be available for a call in the next hour? Please let me know what time works best for you.",
+    "reasoning": "The customer has consistently negative sentiment and has been experiencing a technical issue that hasn't been resolved through basic troubleshooting. The conversation length is already at 7 messages. Given these factors, scheduling a phone call is the best approach to provide more personalized and immediate support, potentially leading to a faster resolution. A phone call allows for real-time troubleshooting and a more empathetic interaction.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116692",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-20T00:00:00Z",
+    "message": "@116692 Apologies for the delay! I see you're having trouble accessing your WWII code. To help me assist you further, could you please DM me the platform you're playing on (e.g., PS4, Xbox, PC) and where you obtained the code (e.g., pre-order bonus, retail purchase)?",
+    "reasoning": "The customer is clearly frustrated and waiting for a response. Since the conversation is short (3 messages) and the issue seems like a simple technical one (accessing a code), a quick reply via Twitter DM is appropriate. The message acknowledges the delay, expresses empathy, and asks for specific information to help resolve the issue. Given the customer's history of negative sentiment, a prompt and helpful response is crucial. We are keeping the interaction on Twitter as the customer initiated it there and the issue doesn't seem complex enough to warrant a phone call or email at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116692",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T00:00:00Z",
+    "message": "@116692 We understand your frustration with the HQ issue on Xbox. We're very sorry for the delay in responding to your DM. We're actively investigating the problem and want to help. Could you please provide your Xbox gamertag and the specific error message you're seeing in a DM so we can look into this further? We appreciate your patience.",
+    "reasoning": "The customer is clearly frustrated and has a history of negative sentiment. A quick response via Twitter DM is appropriate to acknowledge their frustration and show that we are listening. Asking for specific details (gamertag, error message) allows us to start troubleshooting immediately. Given the conversation length is short, and the issue is likely a common technical problem, a DM is sufficient for initial troubleshooting.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116739",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-20T05:00:00Z",
+    "message": "@116739 We understand your frustration with the HQ population issue. We're actively working on improving this. While we don't have an exact ETA, we'll keep you updated. In the meantime, could you please confirm which platform you're playing on (PS4, Xbox, PC)? This will help us gather more information. Thanks for your patience!",
+    "reasoning": "The customer is expressing frustration on Twitter regarding a technical issue. Given the conversation length is 6 messages, and the issue is relatively simple, a Twitter DM reply is appropriate. The message acknowledges the customer's frustration, provides reassurance that the issue is being addressed, and asks for specific information to help troubleshoot. Since the customer has a history of negative sentiment, responding within 4-6 hours is appropriate. Asking for the platform helps in troubleshooting and moves the issue towards resolution.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116750",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Jason, I understand your frustration with the collections issue regarding the returned equipment. I sincerely apologize for the inconvenience and the trouble you've experienced over the past three years. To resolve this quickly, I'd like to schedule a call with you to discuss the details and find a solution. Would you be available for a brief call in the next hour? Please let me know what time works best for you.",
+    "reasoning": "Given the conversation length (8 messages), the customer's consistently negative sentiment, and the complex nature of the billing/collections issue, scheduling a phone call is the most effective way to address the problem. A direct conversation allows for real-time clarification and resolution, which is crucial for de-escalating the situation and providing personalized support. The customer's repeated expression of frustration and the use of strong language indicate a need for immediate and empathetic intervention. Offering a call within the next hour demonstrates a commitment to resolving the issue promptly.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116751",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:29:00Z",
+    "message": "Hi Randy, we're so sorry to hear about the confusion with your upgrade and the Jump plan! We understand your frustration. We received your DM and are looking into your account details now. We'll be back with you shortly with some options. Thanks for your patience!",
+    "reasoning": "The customer is already in a DM conversation on Twitter, so continuing there is the most efficient approach. The customer is expressing strong negative sentiment and has a grievance, so a quick, empathetic response is crucial. Acknowledging their frustration and assuring them that their issue is being investigated is the best first step. Since the conversation is short and the issue is not yet resolved, escalating is premature. A quick response is warranted given the negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116761",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116761 Apologies for the delayed response! I see you mentioned 'pleas answer my'. Could you please clarify what you're asking about? We're here to help!",
+    "reasoning": "The customer is now explicitly asking for a response. Since the conversation is relatively short (8 messages) and the customer's previous issue was related to their ISP, it's likely this is a simple follow-up question. A quick Twitter reply is appropriate to address their immediate need for assistance. The message acknowledges the delay and prompts the customer to clarify their question.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116776",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "@116776 Apologies for the confusion! It seems our previous response was misdirected. Could you please clarify what you were asking about? We're happy to help!",
+    "reasoning": "The customer's last message \"Que??\" indicates confusion regarding the company's previous response. Since the conversation is short (4 messages) and the customer's sentiment is generally neutral, a quick clarification via Twitter DM is the most efficient approach. This allows for a direct and immediate response to address the customer's confusion and get the conversation back on track. The message acknowledges the error and prompts the customer to clarify their original question.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116785",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116785 Hi there, I understand you're looking for a specific voucher code from the Argos Home catalogue. I'm sorry we haven't been able to locate it for you via Twitter. To ensure we can fully investigate this and potentially find a solution, would you be available for a quick phone call? Please let me know a time that works for you, and I'll arrange for someone to call you. We appreciate your patience.",
+    "reasoning": "The conversation has exceeded 7 messages, indicating a need for a more direct and efficient communication method. The customer is also exhibiting frustration, and a phone call allows for real-time problem-solving and a more personalized approach. Given the customer's consistently negative sentiment, a phone call provides an opportunity to build rapport and address their concerns more effectively. Scheduling a call allows the customer to choose a convenient time, further enhancing their experience.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116787",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116787 We sincerely apologize for the delay and frustration with your late order. We understand how important timely service is. We've escalated this internally and are actively investigating the cause. Could you please DM us your order details (order number or pickup/dropoff locations) so we can provide you with a real-time update and appropriate compensation? We value your loyalty and want to make things right.",
+    "reasoning": "The customer is highly frustrated and has already expressed intent to switch to a competitor. Given the conversation length is short (5 messages) and the issue is time-sensitive (late order), a quick response via Twitter DM is appropriate. The message acknowledges their frustration, provides assurance that the issue is being investigated, and requests specific order details to facilitate a resolution. Addressing the issue promptly and offering compensation can help retain the customer.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116792",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116792 Thanks for providing the address. I've passed this along to the regional team to address the lack of forks and guacamole at the Jeffersonville location. I'm very sorry for the inconvenience! We'll work to ensure this doesn't happen again. Is there anything else I can help with?",
+    "reasoning": "The customer's issue is a relatively simple order problem (missing items). The conversation is short (4 messages). Given the customer's negative sentiment and history of order problems, a quick, empathetic response on Twitter is appropriate. This acknowledges their frustration and confirms action is being taken. Offering further assistance shows we care about their experience.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116795",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T00:46:00Z",
+    "message": "@116795 I understand your frustration with the repeated order errors. I'm very sorry this has happened multiple times. To ensure this is properly addressed and you receive the compensation you deserve, I've escalated your case to our customer resolution team. They will be in touch within 24 hours to resolve this for you. Please let me know if you don't hear back by then.",
+    "reasoning": "The customer is frustrated and has experienced repeated issues. While the previous responses were polite, they haven't resolved the problem. Given the negative sentiment and the fact that the customer is expecting to hear back about compensation, escalating the issue and setting a clear expectation for when they will hear back is the best course of action. A Twitter DM is appropriate as the conversation started there and the issue isn't overly complex, just unresolved.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116803",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:00:00Z",
+    "message": "@116803 We're so sorry to hear about the trouble getting in touch with the store regarding Jessi's orientation. That's definitely not the experience we want you to have. Could you please DM us the store location so we can look into this and ensure Jessi gets the information she needs? We'll do our best to help!",
+    "reasoning": "The customer is frustrated and needs immediate assistance. Since the conversation is short (3 messages) and the issue is not highly technical, a Twitter DM is appropriate for a quick response and to gather more information. Given the negative sentiment and the urgency of the situation (new team member starting tomorrow), a quick and empathetic response is crucial. Asking for the store location allows us to investigate and resolve the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116809",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-22T04:00:00Z",
+    "message": "@116809 Andrew, we're so sorry you're still experiencing issues with the SmartShop app. We understand your frustration. It seems like this is affecting multiple users. Our tech team is now actively investigating the 'No Connection' and 'Unexpected Error' messages. We'll provide an update as soon as we have more information. In the meantime, could you confirm the make and model of your phone? This will help our investigation. Thanks for your patience.",
+    "reasoning": "The customer is clearly frustrated and has been waiting for a resolution for several days. While the issue is likely a widespread technical problem, acknowledging their frustration and providing a specific update (that the tech team is investigating) is crucial. Requesting the phone model is a concrete step that shows we're actively working on it. Given the conversation length and the nature of the issue, a Twitter DM is appropriate for this update. Sending it in 4-6 hours acknowledges the negative sentiment and technical nature of the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116813",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi Heather, we're so sorry to hear about the mix-up with your pizza order. That's definitely not the experience we want you to have. We see you've DM'd us the details. We'll look into this right away and get back to you with an update as soon as possible.",
+    "reasoning": "The customer is already communicating via Twitter DM, and the conversation is short (3 messages). The issue is an order problem, which can be addressed quickly via DM. The customer's sentiment is negative, so a prompt and empathetic response is crucial. Acknowledging receipt of the DM and promising a quick update addresses the immediate concern and sets expectations.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116818",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T06:15:00Z",
+    "message": "Hi Carolyn, thanks for sending over your confirmation number. We're looking into why you received a B boarding pass with your Business Select fare. We'll update you shortly with what we find. ^KJ",
+    "reasoning": "The customer has sent their confirmation number via DM. Since the conversation is short (3 messages) and the issue is a relatively simple technical one, continuing the conversation via Twitter DM is appropriate. A response within 6 hours is reasonable given the neutral sentiment and the nature of the issue.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116828",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:30:00Z",
+    "message": "@116828 I understand your frustration with the pending money. I'm very sorry for the inconvenience. To help me look into this for you, could you please DM me the transaction details or your PayPal account email address? I'll do my best to get this resolved quickly.",
+    "reasoning": "The customer is already communicating via Twitter, and the conversation is short (3 messages). The issue is a customer grievance, and a quick response acknowledging their frustration and asking for details is appropriate. Given the customer's negative sentiment, a prompt response is crucial. Sending the message via Twitter DM allows for a faster resolution and avoids switching channels unnecessarily at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116829",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-03T00:00:00Z",
+    "message": "Hi @116829, thanks for bringing this to our attention and apologies for the delay in getting back to you. We understand your concern about the sign-off confirmation. While it's intended as a security measure, we appreciate your feedback that it's not consistent with other financial sites. We've passed your feedback to our security team for review. We appreciate you taking the time to share your thoughts!",
+    "reasoning": "The customer's issue is a minor technical issue/feedback. The conversation length is short (3 messages). The customer's sentiment is neutral. A quick response via Twitter DM is appropriate to acknowledge the feedback and inform the customer that it has been passed on to the relevant team. This addresses the customer's concern and shows that their feedback is valued. Since the issue is a suggestion and not a bug, it is not possible to resolve it immediately.",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "116849",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Luis, I'm so sorry you're still having trouble accessing your account. I understand how frustrating this must be. Since we haven't been able to resolve this through Twitter or email, and you've already tried phone support, I'd like to schedule a call with a specialist who can delve deeper into the issue and hopefully get this resolved for you. Would you be available for a call in the next hour? Please let me know a time that works best, and I'll arrange it immediately.",
+    "reasoning": "The customer has been experiencing a persistent login issue and has tried multiple channels (Twitter, email, phone) without success. The conversation length is 14 messages, indicating a complex issue. The customer's sentiment is consistently negative, and they are expressing frustration and even considering closing their account. Given the complexity, urgency, and negative sentiment, scheduling a phone call with a specialist is the best course of action to provide personalized and immediate assistance. Offering a call within the next hour acknowledges the urgency and aims to resolve the issue quickly.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116851",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116851 We understand your frustration, Skylar. It's definitely not ideal when a 'launch day arrival' doesn't arrive on launch day. Since UPS claims they haven't received the package, and Amazon's tracking is conflicting, we need to investigate this discrepancy. We'll contact our shipping team to look into this immediately and provide you with an update within 24 hours. We'll keep you posted here. So sorry for the trouble!",
+    "reasoning": "The customer is experiencing a delivery issue and is understandably frustrated. Given the conversation length (5 messages) and the nature of the problem (order/delivery), a Twitter DM reply is appropriate for a quick update and to acknowledge their frustration. The message expresses empathy, acknowledges the conflicting tracking information, and promises a concrete action (contacting the shipping team) with a timeframe (24 hours). This sets expectations and shows the customer that the issue is being taken seriously. Given the customer's history of negative sentiment, addressing the issue quickly and empathetically is crucial. Escalation is not immediately necessary as an investigation is the next logical step.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116854",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116854 We're sorry you're still experiencing this issue after the update. Since it involves credit card information, could you DM us some examples of websites where this is happening? This will help us narrow down the cause. We want to ensure your information is secure.",
+    "reasoning": "The customer is experiencing a technical issue that seems to be related to specific websites and credit card information. Since the conversation is short (3 messages) and the issue is not yet complex enough to warrant a phone call, a Twitter DM is appropriate for gathering more information. The message acknowledges the customer's frustration and asks for specific examples to help diagnose the problem. The send time is set to 4-6 hours because the sentiment is negative and the issue is technical.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116863",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T04:00:00Z",
+    "message": "@116863 Thanks for the update! We understand how frustrating battery drain can be. Since you've updated to 4.1, let's see if that resolves the issue. Please monitor your battery life for the next 24 hours and let us know if you still experience the same rapid drain. If the problem persists, we'll explore other troubleshooting steps. ",
+    "reasoning": "The customer has updated to the latest OS version, which is a common first step in troubleshooting battery issues. Since the conversation is short and the issue is potentially resolved by the update, a quick reply on Twitter is appropriate. We acknowledge their frustration and provide clear instructions for monitoring the battery and reporting back. Given the customer's history of negative sentiment and technical issues, it's important to be empathetic and proactive.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116870",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:30:00Z",
+    "message": "@116870 Thanks for the additional information, Rob. We're very sorry about the poor quality of the food you received at our Hindley cafe. We're looking into this with the cafe management team and will take appropriate action based on your feedback and their investigation. We appreciate you bringing this to our attention. We'll update you as soon as we have more information.",
+    "reasoning": "The customer has provided the requested information about the staff and time of the incident. Given the conversation length is still short (5 messages), the issue is a customer grievance, and the customer is active on Twitter, a Twitter reply is the most appropriate channel. The message acknowledges the customer's frustration, confirms that the issue is being investigated, and sets the expectation for a follow-up. Since the customer has a history of negative sentiment, a prompt response is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116880",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi Kirsty, I'm so sorry to hear about the frustrating experience you had at our Silverburn store. It sounds incredibly unpleasant, especially with your mother's health concerns. I want to personally ensure this is addressed. Would you be available for a quick call in the next hour or so? I'd like to gather a few more details and discuss how we can make things right. Please let me know what time works best for you. - Jayne",
+    "reasoning": "The customer has had a very negative experience and has expressed their frustration clearly. The conversation is already at 20 messages, indicating a need for more direct and personal communication. Given the customer's consistently negative sentiment and the nature of the grievance, a phone call is the best way to show empathy, gather all the necessary information, and offer a resolution. Scheduling the call within the next 1-2 hours reflects the urgency of the situation and the customer's negative sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116881",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T00:14:45Z",
+    "message": "@116881 We're so sorry you had this experience at our Tesco entrance. That's definitely not the welcome we aim for! We'll report this to the store management team immediately to ensure it's addressed. Could you let us know which Tesco store this was at so we can pass on the feedback to the correct team?",
+    "reasoning": "The customer is expressing a grievance about the appearance of a Tesco store entrance. Given the short conversation length (2 messages) and the nature of the complaint (a visual issue), a quick response via Twitter DM is appropriate. The message acknowledges the customer's frustration, apologizes for the negative experience, and promises action. Asking for the store location allows for targeted follow-up and resolution.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116888",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-24T07:00:00Z",
+    "message": "Hi there! We're sorry the troubleshooting steps didn't resolve the headphone button issue. Since we've been going back and forth and the problem persists, it might be easier to troubleshoot this over the phone. Would you be available for a quick call sometime today? Please let us know what time works best for you. We want to get this sorted out!",
+    "reasoning": "The conversation has exceeded 7 messages, and the customer has already tried the suggested troubleshooting steps without success. Given the persistent nature of the issue and the customer's negative sentiment, a phone call is the best approach to provide real-time support and potentially resolve the issue more efficiently. This also allows for a more personalized and empathetic interaction.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116893",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi Amy, I'm so sorry about the conflicting information regarding the delay of your flight BA1441 from Edinburgh. I understand how frustrating that must be. To get to the bottom of this and ensure you receive accurate information and appropriate compensation for the delay, I'd like to schedule a quick call with you. Would you be available in the next hour? Please let me know what time works best. We value your business and want to make things right.",
+    "reasoning": "The customer has received conflicting information, leading to increased frustration. The conversation is already at 8 messages, indicating a need for more direct and efficient communication. Given the customer's consistently negative sentiment and the urgent service disruption, a phone call is the best way to address the issue promptly and empathetically. Scheduling a call allows for a more personalized and efficient resolution compared to continuing over Twitter. The message acknowledges the frustration, apologizes for the conflicting information, and offers a concrete solution (a phone call) to resolve the issue and provide compensation.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116903",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "Hi Chris, I understand your frustration with the delayed baggage, broken cases, and slow communication. I sincerely apologize for the inconvenience and the lack of clear information regarding the 7-day reporting window. Given the complexity and length of this issue, and your continued dissatisfaction, I'd like to schedule a call to discuss this further and find a resolution. Please let me know what time works best for you in the next 24 hours. We value your business and want to make things right.",
+    "reasoning": "The customer has expressed consistently negative sentiment and the conversation has exceeded 7 messages. The issue involves multiple problems (delayed baggage, broken cases, expenses) and requires a more personal and direct approach than text-based communication. A phone call allows for real-time clarification, empathy, and potentially faster resolution. Offering a call demonstrates a commitment to resolving the issue and addressing the customer's concerns directly.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116912",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116912 I understand your frustration that the game you wanted is out of stock. While a replacement isn't currently possible, I want to explore all available options for you. Could you please DM me your order number so I can investigate further and see if there are any exceptions we can make or alternative solutions we can offer? We appreciate your patience.",
+    "reasoning": "The customer is frustrated because the desired replacement is unavailable. Since the conversation is short (4 messages) and the issue is related to order fulfillment, a Twitter DM reply is appropriate for a quick follow-up. The message acknowledges the customer's frustration, asks for the order number to investigate further, and suggests the possibility of exploring alternative solutions beyond the standard return/refund. This shows empathy and a willingness to go the extra mile, which is important given the customer's consistently negative sentiment.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116913",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116913 Eric, we are deeply concerned to hear about this alleged assault. We understand this is a sensitive and urgent matter. We've already escalated this internally to our safety and security team for immediate investigation. Please DM us the police report number so we can coordinate with law enforcement. We want to assure you that we are taking this extremely seriously. ^SB",
+    "reasoning": "Given the severity of the situation (alleged assault), a quick response is crucial. While the customer mentioned it's a police matter, offering assistance and coordination shows empathy and responsibility. A Twitter DM allows for a faster, more direct response than email, and scheduling a phone call at this stage might feel intrusive. The customer's negative sentiment and the 'Other' support type history suggest a need for immediate and empathetic action. The conversation length is still short (6 messages), making Twitter DM appropriate. Escalating internally and requesting the police report number are the best next steps.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116921",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-20T01:00:00Z",
+    "message": "Hi Dhiraj, thanks for your engagement! While we appreciate your interest, we don't typically follow customers back on Twitter. Is there anything else we can help you with today regarding Amazon or the OnePlus 5T?",
+    "reasoning": "The customer's request to be followed is a simple, non-technical issue. A quick reply on Twitter is appropriate. The message acknowledges their request, politely declines, and offers further assistance. The customer has generally positive sentiment, so a straightforward response is suitable. The conversation length is short, making Twitter DM a suitable channel.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116922",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:15:00Z",
+    "message": "@116922 Hi there! I understand you received a refund but want to confirm if the package is truly lost. I can definitely look into this for you. Could you please provide your order number via DM so I can investigate? Thanks!",
+    "reasoning": "The customer is looking for confirmation on the status of their package after receiving a refund. Since the conversation is short (3 messages) and the issue is a delivery problem, a quick response via Twitter DM is appropriate. The message acknowledges the customer's concern and requests the order number to investigate further.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116925",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T01:00:00Z",
+    "message": "@116925 I understand your frustration with deleting your account. I'm sorry for the trouble. The link provided earlier directs you to our account closure process. However, I can help guide you through the steps. Could you please DM me your account details so I can assist you further? We want to ensure your account is handled securely.",
+    "reasoning": "Given the customer's negative sentiment and the account issue, a direct and empathetic response is needed. While the previous response provided a link, the customer's follow-up indicates dissatisfaction. A direct message allows for a more private and secure exchange of account information, which is necessary for account deletion assistance. The quick turnaround time is important to address the customer's frustration promptly. Since the conversation is short, a twitter DM is appropriate. The message acknowledges the frustration, offers direct assistance, and emphasizes security.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116932",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-26T02:16:00Z",
+    "message": "Hi Jon, I understand your frustration with being locked out of your account and potentially missing Black Friday/Cyber Monday deals. Since it's been over 10 hours and you're still locked out, I'd like to offer a more immediate solution. Would you be available for a quick phone call in the next hour? This will allow us to troubleshoot in real-time and hopefully get your account unlocked faster. Please let me know if that works for you.",
+    "reasoning": "The customer is experiencing a critical account issue and is expressing frustration about missing out on Black Friday/Cyber Monday deals. The conversation has already reached 9 messages, indicating a need for more direct intervention. Given the customer's consistently negative sentiment and the urgency of the situation, scheduling a phone call is the best option to provide immediate assistance and potentially resolve the issue quickly. This also allows for real-time troubleshooting and a more personalized approach.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "116934",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-20T01:00:00Z",
+    "message": "@116934 We understand your concern about potential ads on Amazon Music Unlimited. We want to assure you that with Music Unlimited, you should not experience any ads. We're sorry for any worry this caused. Could you please clarify what you meant by Prime Music 'shitting on its subscribers'? Knowing more will help us address your concerns effectively. Thanks!",
+    "reasoning": "The customer is expressing a grievance and concern about future service degradation based on past experiences with other services. Since the conversation is short (4 messages) and the issue is not deeply technical, a quick response via Twitter DM is appropriate. The message acknowledges the customer's concern, reaffirms the ad-free experience of Music Unlimited, and seeks clarification on their Prime Music comment to better understand and address their overall sentiment. Given the customer's consistently negative sentiment, addressing their concerns promptly and empathetically is crucial.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116936",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-26T12:00:00Z",
+    "message": "@116936 I understand your frustration with the increased processing times. I'm sorry for the inconvenience. While I can't guarantee next-day delivery, I can look into the specific items you're trying to order and see if there are any issues causing the delay. Could you please DM me the ASINs or product names? ^KI",
+    "reasoning": "The customer is frustrated with the increased processing times and is a Prime member. Since the conversation is still relatively short (6 messages) and the issue is related to order processing, a Twitter DM reply is appropriate. The message acknowledges the customer's frustration, offers to investigate the specific items causing the delay, and requests more information via DM. This allows for a more personalized and potentially faster resolution. Given the negative sentiment, a relatively quick response time is warranted.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116151",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T01:00:00Z",
+    "message": "@116151 Thanks for reaching out! What's your question? We're here to help!",
+    "reasoning": "The customer has a simple question after a successful porting experience. A quick DM reply is the most efficient way to address it. The customer's most frequent sentiment is positive, so a friendly and helpful tone is appropriate. The conversation length is 7 messages, but the current question seems simple and doesn't warrant a phone call or email at this stage.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116952",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-27T01:00:00Z",
+    "message": "@116952 Harley, I am so sorry that our employee's mistake led to this baggage issue and the extra cost. That's definitely not the experience we want you to have. I've documented this incident and will be forwarding it to our baggage handling team for review and retraining. To help compensate for the inconvenience, I'd like to offer you a refund for the baggage fee. Could you DM me your booking reference so I can process this for you? We value your business and hope you'll reconsider flying with us in the future.",
+    "reasoning": "The customer is clearly frustrated and has stated they will not fly with the airline again. A quick, empathetic response offering a tangible solution (baggage fee refund) is the best approach to try and salvage the situation. Given the conversation length is short and the issue is relatively straightforward (incorrect baggage handling), a Twitter DM is appropriate. The customer's negative sentiment and the order/delivery problem history suggest a proactive approach is needed to attempt to resolve the issue quickly and efficiently. Offering a refund and escalating the incident internally addresses both the immediate problem and the underlying cause.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "116968",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T05:00:00Z",
+    "message": "@116968 We're so sorry you're still having trouble logging in! Since the troubleshooting steps didn't work, let's try a few more things. Could you please DM us the email address associated with your Hulu account so we can investigate further? We appreciate your patience!",
+    "reasoning": "The customer is still having login issues after trying the initial troubleshooting steps. Since the conversation is short (4 messages) and the issue is account-related, a Twitter DM is appropriate for gathering sensitive information like the email address. The message acknowledges the customer's frustration and provides a clear next step. Given the negative sentiment, a quicker response time is preferred.",
+    "issue_status": "pending_customer_reply"
+  }
+]

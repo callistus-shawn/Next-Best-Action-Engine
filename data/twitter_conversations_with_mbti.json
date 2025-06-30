@@ -1,0 +1,970 @@
+[
+  {
+    "primary_tweet_id": "8",
+    "primary_tweet": "@sprintcare is the worst customer service",
+    "tail_id": "2",
+    "customer_id": "115712",
+    "company_id": "sprintcare",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "8",
+          "text": "@sprintcare is the worst customer service",
+          "created_at": "Tue Oct 31 21:45:10 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "6",
+          "text": "@115712 Can you please send us a private message, so that I can gain further details about your account?",
+          "created_at": "Tue Oct 31 21:46:24 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "5",
+          "text": "@sprintcare I did.",
+          "created_at": "Tue Oct 31 21:49:35 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "4",
+          "text": "@115712 Please send us a Private Message so that we can further assist you. Just click ‘Message’ at the top of your profile.",
+          "created_at": "Tue Oct 31 21:54:49 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "3",
+          "text": "@sprintcare I have sent several private messages and no one is responding as usual",
+          "created_at": "Tue Oct 31 22:08:27 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "1",
+          "text": "@115712 I understand. I would like to assist you. We would need to get you into a private secured link to further assist.",
+          "created_at": "Tue Oct 31 22:10:47 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "2",
+          "text": "@sprintcare and how do you propose we do that",
+          "created_at": "Tue Oct 31 22:11:45 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Escalated Complaint",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_company",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Escalated Complaint",
+    "mbti_type": "INFP"
+  },
+  {
+    "primary_tweet_id": "18",
+    "primary_tweet": "@115714 y’all lie about your “great” connection. 5 bars LTE, still won’t load something. Smh.",
+    "tail_id": "11",
+    "customer_id": "115713",
+    "company_id": "sprintcare",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "18",
+          "text": "@115714 y’all lie about your “great” connection. 5 bars LTE, still won’t load something. Smh.",
+          "created_at": "Tue Oct 31 19:56:01 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "17",
+          "text": "@115713 H there! We'd definitely like to work with you on this, how long have you been experiencing this issue? -AA",
+          "created_at": "Tue Oct 31 19:59:13 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "16",
+          "text": "@sprintcare Since I signed up with you....Since day 1",
+          "created_at": "Tue Oct 31 20:00:43 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "15",
+          "text": "@115713 We understand your concerns and we'd like for you to please send us a Direct Message, so that we can further assist you. -AA",
+          "created_at": "Tue Oct 31 20:03:31 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "12",
+          "text": "@sprintcare You gonna magically change your connectivity for me and my whole family ? 🤥 💯",
+          "created_at": "Tue Oct 31 22:04:47 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "11",
+          "text": "@115713 This is saddening to hear. Please shoot us a DM, so that we can look into this for you. -KC",
+          "created_at": "Tue Oct 31 22:10:35 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Technical Issue (Simple / Minor)",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Technical Issue (Simple / Minor)",
+    "mbti_type": "ENFP"
+  },
+  {
+    "primary_tweet_id": "20",
+    "primary_tweet": "@115714 whenever I contact customer support, they tell me I have shortcode enabled on my account, but I have never in the 4 years I've tried https://t.co/0G98RtNxPK",
+    "tail_id": "19",
+    "customer_id": "115715",
+    "company_id": "sprintcare",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "20",
+          "text": "@115714 whenever I contact customer support, they tell me I have shortcode enabled on my account, but I have never in the 4 years I've tried https://t.co/0G98RtNxPK",
+          "created_at": "Tue Oct 31 22:03:34 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "19",
+          "text": "@115715 Please send me a private message so that I can send you the link to access your account. -FR",
+          "created_at": "Tue Oct 31 22:10:10 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Technical Issue (Simple / Minor)",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Technical Issue (Simple / Minor)",
+    "mbti_type": "ENFJ"
+  },
+  {
+    "primary_tweet_id": "29",
+    "primary_tweet": "actually that's a broken link you sent me and incorrect information https://t.co/V4yfrHR8VI",
+    "tail_id": "27",
+    "customer_id": "115716",
+    "company_id": "Ask_Spectrum",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "29",
+          "text": "actually that's a broken link you sent me and incorrect information https://t.co/V4yfrHR8VI",
+          "created_at": "Tue Oct 31 22:01:35 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "28",
+          "text": "@115716 The information pertaining to the account assumption is correct.  This does need to be done at a local outlet wit... https://t.co/P7XCmTzPQj",
+          "created_at": "Tue Oct 31 22:05:37 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "24",
+          "text": "@Ask_Spectrum That is INCORRECT information I have the form in front of me that is faxed over-maybe you need to maintain up to date information",
+          "created_at": "Tue Oct 31 22:13:02 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "21",
+          "text": "@115716 What information is incorrect? ^JK",
+          "created_at": "Tue Oct 31 22:14:37 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "23",
+          "text": "@Ask_Spectrum The correct way to do it is via an OCS Account Takeover and email Consent Form it does not need to be done in a local office",
+          "created_at": "Tue Oct 31 22:16:05 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "22",
+          "text": "@Ask_Spectrum Would you like me to email you a copy of one since Spectrum is not updating your training?",
+          "created_at": "Tue Oct 31 22:16:48 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "25",
+          "text": "@115716 Our department is part of the corporate office.  If you're particular area has gone to this format, we were unawa... https://t.co/P7XCmTzPQj",
+          "created_at": "Tue Oct 31 22:18:28 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "26",
+          "text": "@Ask_Spectrum I received this from your corporate office would you like a copy?",
+          "created_at": "Tue Oct 31 22:19:56 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "27",
+          "text": "@115716 No thank you. ^JK",
+          "created_at": "Tue Oct 31 22:21:26 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Customer Grievance",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Customer Grievance",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "31",
+    "primary_tweet": "Yo @Ask_Spectrum, your customer service reps are super nice— but imma start trippin if y’all don’t get my service going!",
+    "tail_id": "30",
+    "customer_id": "115717",
+    "company_id": "Ask_Spectrum",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "31",
+          "text": "Yo @Ask_Spectrum, your customer service reps are super nice— but imma start trippin if y’all don’t get my service going!",
+          "created_at": "Tue Oct 31 22:06:54 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "30",
+          "text": "@115717 Hello, My apologies for any frustrations or inconvenience. I’d be happy to look into this for you? ^MG",
+          "created_at": "Tue Oct 31 22:12:09 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Urgent Service Disruption",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Urgent Service Disruption",
+    "mbti_type": "ENFP"
+  },
+  {
+    "primary_tweet_id": "33",
+    "primary_tweet": "My picture on @Ask_Spectrum pretty much every day. Why should I pay $171 per month? https://t.co/U6ptkQa5Ik",
+    "tail_id": "32",
+    "customer_id": "115718",
+    "company_id": "Ask_Spectrum",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "33",
+          "text": "My picture on @Ask_Spectrum pretty much every day. Why should I pay $171 per month? https://t.co/U6ptkQa5Ik",
+          "created_at": "Tue Oct 31 22:06:56 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "32",
+          "text": "@115718 I apologize for the inconvenience. I will be glad to assist you. Can you DM me your Name and acct # or phone #? -JB",
+          "created_at": "Tue Oct 31 22:10:08 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Customer Grievance",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Customer Grievance",
+    "mbti_type": "INFJ"
+  },
+  {
+    "primary_tweet_id": "36",
+    "primary_tweet": "somebody from @VerizonSupport please help meeeeee 😩😩😩😩 I'm having the worst luck with your customer service",
+    "tail_id": "37",
+    "customer_id": "115719",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "36",
+          "text": "somebody from @VerizonSupport please help meeeeee 😩😩😩😩 I'm having the worst luck with your customer service",
+          "created_at": "Tue Oct 31 22:10:46 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "34",
+          "text": "@115719 Help has arrived! We are sorry to see that you are having trouble. How can we help?\n^HSB",
+          "created_at": "Tue Oct 31 22:13:33 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "35",
+          "text": "@VerizonSupport I finally got someone that helped me, thanks!",
+          "created_at": "Tue Oct 31 22:49:16 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "37",
+          "text": "@115719 Awesome! If you ever need us we are just a tweet away.\n^HSB",
+          "created_at": "Tue Oct 31 22:52:00 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Customer Grievance",
+    "sentiment": "Positive",
+    "resolved": true,
+    "resolution_status": "resolved",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Customer Grievance",
+    "mbti_type": "ENFP"
+  },
+  {
+    "primary_tweet_id": "39",
+    "primary_tweet": "@VerizonSupport My friend is without internet we need to play videogames together please our skills diminish every moment without internetz",
+    "tail_id": "38",
+    "customer_id": "115720",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "39",
+          "text": "@VerizonSupport My friend is without internet we need to play videogames together please our skills diminish every moment without internetz",
+          "created_at": "Tue Oct 31 22:12:16 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "38",
+          "text": "@115720 Have your friend message us.\n^ACM",
+          "created_at": "Tue Oct 31 22:13:30 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Urgent Service Disruption",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Urgent Service Disruption",
+    "mbti_type": "ENFP"
+  },
+  {
+    "primary_tweet_id": "49",
+    "primary_tweet": "@115722 tried to pay a bill for 60 days. No service, rude CS, and several transfers. Look up my equipment # and give me an acct #!",
+    "tail_id": "45",
+    "customer_id": "115722",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "49",
+          "text": "@115722 tried to pay a bill for 60 days. No service, rude CS, and several transfers. Look up my equipment # and give me an acct #!",
+          "created_at": "Tue Oct 31 21:42:09 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "48",
+          "text": "@115721 Are you referring to wireless or residential service?\n^JAY",
+          "created_at": "Tue Oct 31 21:49:31 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "47",
+          "text": "@115722 Nobody can find my account or number. I walked out of a store with this. I've explained that they can find my acct via my devices serial #..",
+          "created_at": "Tue Oct 31 22:01:42 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "46",
+          "text": "@115721 Hello Duke, Do you have a copy of your bill? What state are your services located in?\n^NHP",
+          "created_at": "Tue Oct 31 22:04:29 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "42",
+          "text": "@115722 MD. And this was sent to the wrong address https://t.co/dMQ1WZXJOk",
+          "created_at": "Tue Oct 31 22:06:21 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "40",
+          "text": "@115721 Please follow and DM us so that we can look into this order. \n^HSB",
+          "created_at": "Tue Oct 31 22:12:00 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "41",
+          "text": "@VerizonSupport What else can I provide? They refuse to help me because they cannot validate the account...",
+          "created_at": "Tue Oct 31 22:24:55 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "43",
+          "text": "@115721 We would not be able to verify anything without authenticating your account.\n^JAY",
+          "created_at": "Tue Oct 31 22:29:00 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "44",
+          "text": "@VerizonSupport How? I have my phone number and email, that's it. How did I get equipment and service? I'm literally trying to pay and nobody can find me?",
+          "created_at": "Tue Oct 31 22:32:06 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "45",
+          "text": "@115721 We can use the order number to locate the account but will need to do so in our secure one on one chat. Please follow and DM us. \n^HSB",
+          "created_at": "Tue Oct 31 22:36:29 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Account or Login Issues",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Account or Login Issues",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "59",
+    "primary_tweet": "@115722 is the worst ISP I’ve ever had",
+    "tail_id": "50",
+    "customer_id": "115723",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "59",
+          "text": "@115722 is the worst ISP I’ve ever had",
+          "created_at": "Tue Oct 31 19:54:51 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "58",
+          "text": "@115723 What did we do to make you feel this way and how can we fix things between us? ^KMG",
+          "created_at": "Tue Oct 31 19:57:30 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "57",
+          "text": "@VerizonSupport Cuts out every 20 minutes this is ridiculous",
+          "created_at": "Tue Oct 31 19:58:22 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "56",
+          "text": "@115723 Are all your services cutting out?\n^ACM",
+          "created_at": "Tue Oct 31 20:02:25 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "55",
+          "text": "@VerizonSupport Yep",
+          "created_at": "Tue Oct 31 20:09:13 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "54",
+          "text": "@115723 Do you have our Fios service?  When services go out, does the internet light on the router change color? ^BCW",
+          "created_at": "Tue Oct 31 20:11:54 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "53",
+          "text": "@VerizonSupport Just randomly boots me offline there it goes again",
+          "created_at": "Tue Oct 31 21:58:39 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "52",
+          "text": "@115723 Did the lights change on the router when this happened?\n^JAY",
+          "created_at": "Tue Oct 31 22:03:57 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "51",
+          "text": "@VerizonSupport Don’t know, router is downstairs. But it’s just the WiFi Nothing connected to Ethernet",
+          "created_at": "Tue Oct 31 22:04:57 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "50",
+          "text": "@115723 Is the light on top red?\n^JAY",
+          "created_at": "Tue Oct 31 22:07:30 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Urgent Service Disruption",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Urgent Service Disruption",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "61",
+    "primary_tweet": ".@VerizonSupport @115725 @115726                                                 &gt;All of VERIZON IS DOWN&lt;\nWhen can we expect a fix ?",
+    "tail_id": "60",
+    "customer_id": "115724",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "61",
+          "text": ".@VerizonSupport @115725 @115726                                                 &gt;All of VERIZON IS DOWN&lt;\nWhen can we expect a fix ?",
+          "created_at": "Tue Oct 31 22:00:36 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "60",
+          "text": "@115724 In what area are you located? All of your services are down at this time?\n^HSB",
+          "created_at": "Tue Oct 31 22:04:29 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Urgent Service Disruption",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Urgent Service Disruption",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "63",
+    "primary_tweet": "@115725 fix your app it won't even open",
+    "tail_id": "62",
+    "customer_id": "115727",
+    "company_id": "VerizonSupport",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "63",
+          "text": "@115725 fix your app it won't even open",
+          "created_at": "Tue Oct 31 21:56:55 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "62",
+          "text": "@115727 Which app are you referring too? \n^ACM",
+          "created_at": "Tue Oct 31 22:00:29 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Technical Issue (Simple / Minor)",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Technical Issue (Simple / Minor)",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "66",
+    "primary_tweet": "@ChipotleTweets @28 \nI don't fit in my Veggie Burrito costume #Halloween https://t.co/7tJDVpzLWn",
+    "tail_id": "2174",
+    "customer_id": "115728",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "66",
+          "text": "@ChipotleTweets @28 \nI don't fit in my Veggie Burrito costume #Halloween https://t.co/7tJDVpzLWn",
+          "created_at": "Tue Oct 31 22:03:38 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "64",
+          "text": "@115728 I still think you look great! -Becky",
+          "created_at": "Tue Oct 31 22:14:28 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "65",
+          "text": "@ChipotleTweets @ChipotleTweets Becky is very nice",
+          "created_at": "Tue Oct 31 22:15:30 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "67",
+          "text": "@ChipotleTweets @28 My baby https://t.co/dtiXxMIJyq",
+          "created_at": "Tue Oct 31 22:29:16 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "2174",
+          "text": "@115728 Your baby looks beautiful. -Becky",
+          "created_at": "Tue Oct 31 22:39:00 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Other",
+    "sentiment": "Positive",
+    "resolved": true,
+    "resolution_status": "resolved",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Other",
+    "mbti_type": "INTP"
+  },
+  {
+    "primary_tweet_id": "69",
+    "primary_tweet": "@ChipotleTweets messed up today and didn’t give me my $3 burrito although I was dressed up 😭",
+    "tail_id": "68",
+    "customer_id": "115729",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "69",
+          "text": "@ChipotleTweets messed up today and didn’t give me my $3 burrito although I was dressed up 😭",
+          "created_at": "Tue Oct 31 22:03:32 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "68",
+          "text": "@115729 I'm so sorry about that. Please tell us more so we can help: https://t.co/Ax7W1Dx3Y9 -Becky",
+          "created_at": "Tue Oct 31 22:14:00 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Order or Delivery Problem",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Order or Delivery Problem",
+    "mbti_type": "INTP"
+  },
+  {
+    "primary_tweet_id": "71",
+    "primary_tweet": "hey @ChipotleTweets wanna come to Mammoth. I'll at least eat there once a week i promise",
+    "tail_id": "70",
+    "customer_id": "115730",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "71",
+          "text": "hey @ChipotleTweets wanna come to Mammoth. I'll at least eat there once a week i promise",
+          "created_at": "Tue Oct 31 22:03:06 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "70",
+          "text": "@115730 Hopefully we'll get there at some point! -Becky",
+          "created_at": "Tue Oct 31 22:13:29 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Product Feedback",
+    "sentiment": "Positive",
+    "resolved": false,
+    "resolution_status": "waiting_for_company",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Product Feedback",
+    "mbti_type": "INTP"
+  },
+  {
+    "primary_tweet_id": "76",
+    "primary_tweet": "When you're the only one in costume #boorito @ChipotleTweets",
+    "tail_id": "73",
+    "customer_id": "115731",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "76",
+          "text": "When you're the only one in costume #boorito @ChipotleTweets",
+          "created_at": "Tue Oct 31 20:21:10 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "75",
+          "text": "@115731 It's because you're smart. -Tara",
+          "created_at": "Tue Oct 31 20:37:31 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "74",
+          "text": "@ChipotleTweets I had excellent service tonight too! Plenty of people on the line, went very fast, everyone was kind!",
+          "created_at": "Tue Oct 31 22:01:57 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "73",
+          "text": "@115731 Guac on! I'm happy it was such a great experience. -Becky",
+          "created_at": "Tue Oct 31 22:12:39 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Product Feedback",
+    "sentiment": "Positive",
+    "resolved": true,
+    "resolution_status": "resolved",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Product Feedback",
+    "mbti_type": "ENFJ"
+  },
+  {
+    "primary_tweet_id": "78",
+    "primary_tweet": "@ChipotleTweets no Diet Coke and a literal bone this Boorito was extra spooky! https://t.co/C4oCCtdUct",
+    "tail_id": "77",
+    "customer_id": "115732",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "78",
+          "text": "@ChipotleTweets no Diet Coke and a literal bone this Boorito was extra spooky! https://t.co/C4oCCtdUct",
+          "created_at": "Tue Oct 31 22:01:40 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "77",
+          "text": "@115732 That's incredibly concerning. Please tell us more here: https://t.co/Ax7W1Dx3Y9 -Becky",
+          "created_at": "Tue Oct 31 22:11:38 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Order or Delivery Problem",
+    "sentiment": "Negative",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Negative",
+    "most_frequent_support_type": "Order or Delivery Problem",
+    "mbti_type": "INTJ"
+  },
+  {
+    "primary_tweet_id": "81",
+    "primary_tweet": "Just stop by in costume 10/31 3pm-close. Official rules: https://t.co/1HmW7QxwEh https://t.co/Wn0xErxC2z",
+    "tail_id": "79",
+    "customer_id": "115733",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "81",
+          "text": "Just stop by in costume 10/31 3pm-close. Official rules: https://t.co/1HmW7QxwEh https://t.co/Wn0xErxC2z",
+          "created_at": "Mon Oct 30 15:00:02 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "80",
+          "text": "@ChipotleTweets If you get queso or quac on you're bowl, its extra?",
+          "created_at": "Tue Oct 31 22:01:32 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "79",
+          "text": "@115733 Nope! Still just the $3. -Becky",
+          "created_at": "Tue Oct 31 22:11:12 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Other",
+    "sentiment": "Neutral",
+    "resolved": true,
+    "resolution_status": "resolved",
+    "most_frequent_sentiment": "Neutral",
+    "most_frequent_support_type": "Other",
+    "mbti_type": "ISFP"
+  },
+  {
+    "primary_tweet_id": "153",
+    "primary_tweet": "Happy Halloween! Since I'm too old to trick or treat I now look forward to $3 booritos at @ChipotleTweets 👻 I got mine earlier, did you?",
+    "tail_id": "152",
+    "customer_id": "115734",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "153",
+          "text": "Happy Halloween! Since I'm too old to trick or treat I now look forward to $3 booritos at @ChipotleTweets 👻 I got mine earlier, did you?",
+          "created_at": "Tue Oct 31 22:01:03 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "152",
+          "text": "@115734 I mean, Boorito is basically the adult version of Halloween... -Becky",
+          "created_at": "Tue Oct 31 22:10:33 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Other",
+    "sentiment": "Positive",
+    "resolved": true,
+    "resolution_status": "resolved",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Other",
+    "mbti_type": "INTP"
+  },
+  {
+    "primary_tweet_id": "156",
+    "primary_tweet": "So frustrated with @ChipotleTweets 😡 Ordered dinner on Saturday using their app. Order was wrong AND they charged my credit card twice",
+    "tail_id": "154",
+    "customer_id": "115735",
+    "company_id": "ChipotleTweets",
+    "chat_history": [
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "156",
+          "text": "So frustrated with @ChipotleTweets 😡 Ordered dinner on Saturday using their app. Order was wrong AND they charged my credit card twice",
+          "created_at": "Mon Oct 23 03:19:06 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Customer",
+        "response": {
+          "tweet_id": "155",
+          "text": "@ChipotleTweets Thank you @ChipotleTweets for resolving my issue so quickly!! Y’all are the best ☺️ #fanforlife",
+          "created_at": "Tue Oct 31 22:00:46 +0000 2017"
+        }
+      },
+      {
+        "response_type": "Company",
+        "response": {
+          "tweet_id": "154",
+          "text": "@115735 I'm so glad we could help. Who did you work with? I'd like to share the praise. -Becky",
+          "created_at": "Tue Oct 31 22:09:00 +0000 2017"
+        }
+      }
+    ],
+    "nature_of_support": "Billing or Refund Request",
+    "sentiment": "Positive",
+    "resolved": false,
+    "resolution_status": "waiting_for_customer",
+    "most_frequent_sentiment": "Positive",
+    "most_frequent_support_type": "Billing or Refund Request",
+    "mbti_type": "INTP"
+  }
+]

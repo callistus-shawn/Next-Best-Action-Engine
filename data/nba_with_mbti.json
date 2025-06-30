@@ -1,0 +1,18 @@
+[
+  {
+    "customer_id": "115712",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-01-01T01:45:00Z",
+    "message": "Hello @115712, I sincerely apologize for the frustrating experience you've had with our customer service and the delay in response. I understand how disheartening it can be when you're not being heard. Given the length of this conversation and your continued frustration, I'd like to personally ensure this gets resolved. Would you be available for a brief phone call in the next hour? This will allow me to understand the issue fully and find a solution for you right away. Please let me know a time that works best for you. Thank you for your patience.",
+    "reasoning": "Given the customer's INFP personality, negative sentiment, escalated complaint, and the length of the conversation (7 messages), a phone call is the most appropriate next step. INFPs value authentic connection and empathy, which can be better conveyed through a phone call than text. The message acknowledges their frustration, offers a personal touch, and proposes a direct solution. Escalating to a phone call demonstrates a commitment to resolving the issue and respects their need for a supportive and understanding interaction. The send time is within 1-2 hours due to the escalated nature and negative sentiment.",
+    "issue_status": "escalated"
+  },
+  {
+    "customer_id": "115730",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-01-01T06:00:00Z",
+    "message": "Hey @115730, thanks for the suggestion! We appreciate you thinking of us. I'll pass your request for a Chipotle in Mammoth along to our real estate team for consideration. They analyze potential locations based on a variety of factors, including population density and market demand. We hope to be there someday!",
+    "reasoning": "The customer's request is product feedback and the conversation is short (2 messages). Given the INTP personality type, a direct and informative response is preferred. A Twitter DM is suitable for this type of feedback and keeps the interaction concise. Sending the message in 6-8 hours aligns with the simple issue and neutral sentiment. The message acknowledges the suggestion, explains the process, and provides a clear next step (passing it to the real estate team).",
+    "issue_status": "resolved"
+  }
+]
