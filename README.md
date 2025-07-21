@@ -1,4 +1,4 @@
-# Riverline-ML-Assignment
+# Next Best Action Engine
 ### This is Next Best Action (NBA) engine that decides what to do next when a customer’s issue remains open. 
 <img src="images/pipe.png" heigth='800' width="800" />
 
